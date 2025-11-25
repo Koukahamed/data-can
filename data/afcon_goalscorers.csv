@@ -1,0 +1,1887 @@
+date,home_team,away_team,team,scorer,minute,own_goal,penalty
+1957-02-10,Sudan,Egypt,Egypt,Raafat Attia,21.0,False,True
+1957-02-10,Sudan,Egypt,Sudan,Boraî Bashir,58.0,False,False
+1957-02-10,Sudan,Egypt,Egypt,Ad-Diba,72.0,False,False
+1957-02-16,Egypt,Ethiopia,Egypt,Ad-Diba,2.0,False,False
+1957-02-16,Egypt,Ethiopia,Egypt,Ad-Diba,7.0,False,False
+1957-02-16,Egypt,Ethiopia,Egypt,Ad-Diba,68.0,False,False
+1957-02-16,Egypt,Ethiopia,Egypt,Ad-Diba,89.0,False,False
+1959-05-22,Egypt,Ethiopia,Egypt,Mahmoud El-Gohary,29.0,False,False
+1959-05-22,Egypt,Ethiopia,Egypt,Mahmoud El-Gohary,42.0,False,False
+1959-05-22,Egypt,Ethiopia,Egypt,Mimi El-Sherbini,64.0,False,False
+1959-05-22,Egypt,Ethiopia,Egypt,Mahmoud El-Gohary,73.0,False,False
+1959-05-25,Ethiopia,Sudan,Sudan,Abdelmutaleb Nasir,40.0,False,False
+1959-05-29,Egypt,Sudan,Egypt,Essam Baheeg,12.0,False,False
+1959-05-29,Egypt,Sudan,Sudan,Siddiq Manzul,65.0,False,False
+1959-05-29,Egypt,Sudan,Egypt,Essam Baheeg,89.0,False,False
+1962-01-14,Ethiopia,Tunisia,Tunisia,Ammar Merrichkou,13.0,False,False
+1962-01-14,Ethiopia,Tunisia,Tunisia,Moncef Cherif,29.0,False,False
+1962-01-14,Ethiopia,Tunisia,Ethiopia,Luciano Vassallo,32.0,False,True
+1962-01-14,Ethiopia,Tunisia,Ethiopia,Girma Tekle,36.0,False,False
+1962-01-14,Ethiopia,Tunisia,Ethiopia,Mengistu Worku,69.0,False,False
+1962-01-14,Ethiopia,Tunisia,Ethiopia,Luciano Vassallo,75.0,False,False
+1962-01-18,Egypt,Uganda,Uganda,John Bunyenyezi,16.0,False,False
+1962-01-18,Egypt,Uganda,Egypt,Badawi Abdel Fattah,50.0,False,False
+1962-01-18,Egypt,Uganda,Egypt,Saleh Selim,57.0,False,False
+1962-01-20,Tunisia,Uganda,Tunisia,Mohamed Salah Jedidi,3.0,False,False
+1962-01-20,Tunisia,Uganda,Tunisia,Chedly Laaouini,53.0,False,False
+1962-01-20,Tunisia,Uganda,Tunisia,Rached Meddeb,85.0,False,False
+1962-01-21,Ethiopia,Egypt,Egypt,Badawi Abdel Fattah,35.0,False,False
+1962-01-21,Ethiopia,Egypt,Ethiopia,Girma Tekle,74.0,False,False
+1962-01-21,Ethiopia,Egypt,Egypt,Badawi Abdel Fattah,75.0,False,False
+1962-01-21,Ethiopia,Egypt,Ethiopia,Mengistu Worku,84.0,False,False
+1962-01-21,Ethiopia,Egypt,Ethiopia,Italo Vassalo,101.0,False,False
+1962-01-21,Ethiopia,Egypt,Ethiopia,Mengistu Worku,118.0,False,False
+1963-11-24,Egypt,Nigeria,Egypt,Mohamed Morsi Hussein,30.0,False,False
+1963-11-24,Egypt,Nigeria,Egypt,Mohamed Morsi Hussein,32.0,False,False
+1963-11-24,Egypt,Nigeria,Egypt,Hassan El-Shazly,42.0,False,False
+1963-11-24,Egypt,Nigeria,Egypt,Hassan El-Shazly,44.0,False,False
+1963-11-24,Egypt,Nigeria,Nigeria,Asuquo Ekpe,78.0,False,False
+1963-11-24,Egypt,Nigeria,Egypt,Hassan El-Shazly,81.0,False,False
+1963-11-24,Egypt,Nigeria,Egypt,Mohamed Morsi Hussein,82.0,False,False
+1963-11-24,Egypt,Nigeria,Nigeria,Joseph Bassey,82.0,False,False
+1963-11-24,Egypt,Nigeria,Nigeria,Albert Onyeanwuna,89.0,False,False
+1963-11-24,Ghana,Tunisia,Ghana,Wilberforce Mfum,9.0,False,False
+1963-11-24,Ghana,Tunisia,Tunisia,Mohamed Salah Jedidi,36.0,False,False
+1963-11-26,Egypt,Sudan,Egypt,Hassan El-Shazly,5.0,False,False
+1963-11-26,Egypt,Sudan,Egypt,Mohamed Morsi Hussein,7.0,False,False
+1963-11-26,Egypt,Sudan,Sudan,Nasr Eddin Abbas,60.0,False,False
+1963-11-26,Egypt,Sudan,Sudan,Nasr Eddin Abbas,75.0,False,False
+1963-11-26,Ghana,Ethiopia,Ghana,Edward Acquah,,False,False
+1963-11-26,Ghana,Ethiopia,Ghana,Edward Acquah,,False,False
+1963-11-28,Ethiopia,Tunisia,Tunisia,Abdelmajid Chetali,15.0,False,False
+1963-11-28,Ethiopia,Tunisia,Tunisia,Mohamed Salah Jedidi,67.0,False,False
+1963-11-28,Ethiopia,Tunisia,Ethiopia,Mengistu Worku,,False,False
+1963-11-28,Ethiopia,Tunisia,Ethiopia,Mengistu Worku,,False,False
+1963-11-28,Ethiopia,Tunisia,Ethiopia,Girma Tekle,,False,False
+1963-11-28,Ethiopia,Tunisia,Ethiopia,Girma Tesfaye,,False,False
+1963-11-28,Nigeria,Sudan,Sudan,Nasr Eddin Abbas,,False,False
+1963-11-28,Nigeria,Sudan,Sudan,Nasr Eddin Abbas,,False,False
+1963-11-28,Nigeria,Sudan,Sudan,Ibrahim Yahia El-Kawarty,,False,False
+1963-11-28,Nigeria,Sudan,Sudan,Abdelaziz Ibrahim Adam,,False,False
+1963-11-30,Egypt,Ethiopia,Egypt,Hassan El-Shazly,6.0,False,False
+1963-11-30,Egypt,Ethiopia,Egypt,Hassan El-Shazly,9.0,False,False
+1963-11-30,Egypt,Ethiopia,Egypt,Ezz El-Din Yaqoub,56.0,False,False
+1963-12-01,Ghana,Sudan,Ghana,Edward Aggrey-Fynn,62.0,False,True
+1963-12-01,Ghana,Sudan,Ghana,Edward Acquah,72.0,False,False
+1963-12-01,Ghana,Sudan,Ghana,Edward Acquah,82.0,False,False
+1965-11-12,DR Congo,Ghana,Ghana,Osei Kofi,13.0,False,False
+1965-11-12,DR Congo,Ghana,Ghana,Ben Acheampong,18.0,False,False
+1965-11-12,DR Congo,Ghana,DR Congo,Pierre Kalala Mukendi,43.0,False,False
+1965-11-12,DR Congo,Ghana,DR Congo,Pierre Kalala Mukendi,45.0,False,True
+1965-11-12,DR Congo,Ghana,Ghana,Ben Acheampong,59.0,False,False
+1965-11-12,DR Congo,Ghana,Ghana,Cecil Jones Attuquayefio,84.0,False,False
+1965-11-12,DR Congo,Ghana,Ghana,Cecil Jones Attuquayefio,89.0,False,False
+1965-11-12,Tunisia,Ethiopia,Tunisia,Tahar Chaïbi,32.0,False,False
+1965-11-12,Tunisia,Ethiopia,Tunisia,Mohamed Salah Jedidi,62.0,False,False
+1965-11-12,Tunisia,Ethiopia,Tunisia,Mongi Delhoum,80.0,False,False
+1965-11-12,Tunisia,Ethiopia,Tunisia,Abdelwahab Lahmar,84.0,False,False
+1965-11-14,DR Congo,Ivory Coast,Ivory Coast,Eustache Manglé,14.0,False,False
+1965-11-14,DR Congo,Ivory Coast,Ivory Coast,Eustache Manglé,59.0,False,False
+1965-11-14,DR Congo,Ivory Coast,Ivory Coast,Eustache Manglé,80.0,False,False
+1965-11-19,Ethiopia,Senegal,Senegal,Louis Camara,3.0,False,False
+1965-11-19,Ethiopia,Senegal,Ethiopia,Luciano Vassallo,12.0,False,True
+1965-11-19,Ethiopia,Senegal,Senegal,El Hadji Oumar Guèye,37.0,False,False
+1965-11-19,Ethiopia,Senegal,Senegal,Matar Niang,48.0,False,False
+1965-11-19,Ethiopia,Senegal,Senegal,Louis Camara,52.0,False,False
+1965-11-19,Ethiopia,Senegal,Senegal,Matar Niang,53.0,False,False
+1965-11-19,Ghana,Ivory Coast,Ghana,Ben Acheampong,20.0,False,False
+1965-11-19,Ghana,Ivory Coast,Ghana,Kwame Nti,43.0,False,False
+1965-11-19,Ghana,Ivory Coast,Ghana,Paa Nii Lutterodt,52.0,False,False
+1965-11-19,Ghana,Ivory Coast,Ivory Coast,Joseph Bléziri,66.0,False,False
+1965-11-19,Ghana,Ivory Coast,Ghana,Osei Kofi,70.0,False,False
+1965-11-21,Ivory Coast,Senegal,Ivory Coast,Konan Yoboué,35.0,False,False
+1965-11-21,Tunisia,Ghana,Ghana,Frank Odoi,37.0,False,False
+1965-11-21,Tunisia,Ghana,Tunisia,Abdelmajid Chetali,47.0,False,False
+1965-11-21,Tunisia,Ghana,Tunisia,Tahar Chaïbi,67.0,False,False
+1965-11-21,Tunisia,Ghana,Ghana,Osei Kofi,79.0,False,False
+1965-11-21,Tunisia,Ghana,Ghana,Frank Odoi,96.0,False,False
+1968-01-12,Algeria,Ivory Coast,Ivory Coast,Jean-Louis Bozon,15.0,False,False
+1968-01-12,Algeria,Ivory Coast,Ivory Coast,Laurent Pokou,25.0,False,False
+1968-01-12,Algeria,Ivory Coast,Ivory Coast,Laurent Pokou,65.0,False,False
+1968-01-12,Congo,DR Congo,DR Congo,Ignace Muwawa,19.0,False,False
+1968-01-12,Congo,DR Congo,DR Congo,Nicodème Kabamba,27.0,False,True
+1968-01-12,Congo,DR Congo,DR Congo,Nicodème Kabamba,51.0,False,False
+1968-01-12,Ethiopia,Uganda,Ethiopia,Girma Tekle,,False,False
+1968-01-12,Ethiopia,Uganda,Ethiopia,Luciano Vassallo,,False,True
+1968-01-12,Ethiopia,Uganda,Uganda,Polly Ouma,,False,False
+1968-01-12,Ghana,Senegal,Senegal,Doudou Diongue,10.0,False,False
+1968-01-12,Ghana,Senegal,Ghana,Osei Kofi,63.0,False,False
+1968-01-12,Ghana,Senegal,Senegal,Yatma Diop,65.0,False,False
+1968-01-12,Ghana,Senegal,Ghana,Wilberforce Mfum,87.0,False,False
+1968-01-14,Algeria,Uganda,Algeria,Hacène Lalmas,15.0,False,False
+1968-01-14,Algeria,Uganda,Algeria,Hacène Lalmas,25.0,False,False
+1968-01-14,Algeria,Uganda,Algeria,Mokhtar Kalem,60.0,False,False
+1968-01-14,Algeria,Uganda,Algeria,Hacène Lalmas,70.0,False,False
+1968-01-14,Congo,Senegal,Senegal,Yatma Diop,27.0,False,False
+1968-01-14,Congo,Senegal,Congo,Jean Foutika,31.0,False,False
+1968-01-14,Congo,Senegal,Senegal,Yatma Diouck,86.0,False,False
+1968-01-14,DR Congo,Ghana,Ghana,Osei Kofi,17.0,False,True
+1968-01-14,DR Congo,Ghana,DR Congo,Saio Ernest Mokili,42.0,False,False
+1968-01-14,DR Congo,Ghana,Ghana,Wilberforce Mfum,84.0,False,False
+1968-01-14,Ethiopia,Ivory Coast,Ethiopia,Bekuretsion Gebre-Hiwot,86.0,False,False
+1968-01-16,Congo,Ghana,Ghana,Osei Kofi,,False,False
+1968-01-16,Congo,Ghana,Ghana,Osei Kofi,,False,False
+1968-01-16,Congo,Ghana,Ghana,Wilberforce Mfum,,False,False
+1968-01-16,Congo,Ghana,Congo,Jean Foutika,,False,False
+1968-01-16,DR Congo,Senegal,DR Congo,Kidumu Mantantu,,False,False
+1968-01-16,DR Congo,Senegal,DR Congo,Elias Tshimanga,,False,False
+1968-01-16,DR Congo,Senegal,Senegal,Yatma Diouck,,False,False
+1968-01-16,Ethiopia,Algeria,Ethiopia,Mengistu Worku,16.0,False,False
+1968-01-16,Ethiopia,Algeria,Ethiopia,Shewangizaw Agonafer,19.0,False,False
+1968-01-16,Ethiopia,Algeria,Ethiopia,Luciano Vassallo,27.0,False,True
+1968-01-16,Ethiopia,Algeria,Algeria,Boualem Amirouche,68.0,False,False
+1968-01-16,Ivory Coast,Uganda,Ivory Coast,Laurent Pokou,,False,False
+1968-01-16,Ivory Coast,Uganda,Ivory Coast,Eustache Manglé,,False,False
+1968-01-16,Ivory Coast,Uganda,Uganda,Denis Obua,,False,False
+1968-01-19,Ethiopia,DR Congo,DR Congo,Kidumu Mantantu,3.0,False,False
+1968-01-19,Ethiopia,DR Congo,DR Congo,Léon Mungamuni,16.0,False,False
+1968-01-19,Ethiopia,DR Congo,Ethiopia,Luciano Vassallo,25.0,False,False
+1968-01-19,Ethiopia,DR Congo,Ethiopia,Mengistu Worku,65.0,False,False
+1968-01-19,Ethiopia,DR Congo,DR Congo,Léon Mungamuni,100.0,False,False
+1968-01-19,Ghana,Ivory Coast,Ghana,Wilberforce Mfum,,False,False
+1968-01-19,Ghana,Ivory Coast,Ghana,Wilberforce Mfum,,False,False
+1968-01-19,Ghana,Ivory Coast,Ghana,Ibrahim Sunday,,False,False
+1968-01-19,Ghana,Ivory Coast,Ghana,Frank Odoi,,False,False
+1968-01-19,Ghana,Ivory Coast,Ivory Coast,Laurent Pokou,,False,False
+1968-01-19,Ghana,Ivory Coast,Ivory Coast,Laurent Pokou,,False,False
+1968-01-19,Ghana,Ivory Coast,Ivory Coast,Henri Konan,,False,True
+1968-01-21,DR Congo,Ghana,DR Congo,Pierre Kalala Mukendi,66.0,False,False
+1968-01-21,Ethiopia,Ivory Coast,Ivory Coast,Laurent Pokou,28.0,False,False
+1970-02-06,Cameroon,Ivory Coast,Ivory Coast,Laurent Pokou,25.0,False,False
+1970-02-06,Cameroon,Ivory Coast,Ivory Coast,Laurent Pokou,45.0,False,False
+1970-02-06,Cameroon,Ivory Coast,Cameroon,Emmanuel Koum,57.0,False,False
+1970-02-06,Cameroon,Ivory Coast,Cameroon,Paul-Gaston N'Dongo,60.0,False,False
+1970-02-06,Cameroon,Ivory Coast,Cameroon,Emmanuel Koum,66.0,False,False
+1970-02-06,Sudan,Ethiopia,Sudan,Ali Gagarin,43.0,False,False
+1970-02-06,Sudan,Ethiopia,Sudan,Omar Ali Hasab El-Rasoul,47.0,False,False
+1970-02-06,Sudan,Ethiopia,Sudan,Nasr Eddin Abbas,85.0,False,False
+1970-02-07,DR Congo,Ghana,Ghana,Kwasi Owusu,29.0,False,False
+1970-02-07,DR Congo,Ghana,Ghana,Kwasi Owusu,32.0,False,False
+1970-02-07,Egypt,Guinea,Egypt,Ali Abo Greisha,5.0,False,False
+1970-02-07,Egypt,Guinea,Egypt,Ali Abo Greisha,10.0,False,False
+1970-02-07,Egypt,Guinea,Guinea,Soriba Soumah,25.0,False,True
+1970-02-07,Egypt,Guinea,Egypt,Taha Basry,66.0,False,False
+1970-02-07,Egypt,Guinea,Egypt,Hassan El-Shazly,73.0,False,True
+1970-02-08,Cameroon,Ethiopia,Ethiopia,Mengistu Worku,12.0,False,False
+1970-02-08,Cameroon,Ethiopia,Cameroon,Jean-Marie Tsébo,21.0,False,False
+1970-02-08,Cameroon,Ethiopia,Cameroon,Jean Manga Onguéné,43.0,False,False
+1970-02-08,Cameroon,Ethiopia,Cameroon,Paul-Gaston N'Dongo,70.0,False,False
+1970-02-08,Cameroon,Ethiopia,Ethiopia,Mengistu Worku,75.0,False,False
+1970-02-08,Sudan,Ivory Coast,Ivory Coast,François Tahi,89.0,False,False
+1970-02-09,DR Congo,Guinea,Guinea,Petit Sory,5.0,False,False
+1970-02-09,DR Congo,Guinea,Guinea,Soriba Soumah,55.0,False,True
+1970-02-09,DR Congo,Guinea,DR Congo,André Kalonzo,70.0,False,False
+1970-02-09,DR Congo,Guinea,DR Congo,Léon Mungamuni,72.0,False,False
+1970-02-09,Egypt,Ghana,Ghana,Ibrahim Sunday,60.0,False,False
+1970-02-09,Egypt,Ghana,Egypt,Sayed Abdel Razek,70.0,False,False
+1970-02-10,Ethiopia,Ivory Coast,Ivory Coast,Diomandé Losseni,16.0,False,False
+1970-02-10,Ethiopia,Ivory Coast,Ivory Coast,Laurent Pokou,21.0,False,False
+1970-02-10,Ethiopia,Ivory Coast,Ethiopia,Mengistu Worku,33.0,False,False
+1970-02-10,Ethiopia,Ivory Coast,Ivory Coast,Laurent Pokou,60.0,False,False
+1970-02-10,Ethiopia,Ivory Coast,Ivory Coast,Laurent Pokou,71.0,False,False
+1970-02-10,Ethiopia,Ivory Coast,Ivory Coast,Laurent Pokou,80.0,False,False
+1970-02-10,Ethiopia,Ivory Coast,Ivory Coast,Laurent Pokou,87.0,False,False
+1970-02-10,Sudan,Cameroon,Sudan,Nasr Eddin Abbas,20.0,False,False
+1970-02-10,Sudan,Cameroon,Cameroon,Jean-Marie Tsébo,34.0,False,False
+1970-02-10,Sudan,Cameroon,Sudan,Omar Ali Hasab El-Rasoul,60.0,False,False
+1970-02-11,DR Congo,Egypt,Egypt,Ali Abo Greisha,71.0,False,False
+1970-02-11,Ghana,Guinea,Guinea,Ousmane Thiam Tollo,10.0,False,False
+1970-02-11,Ghana,Guinea,Ghana,Kwasi Owusu,50.0,False,False
+1970-02-14,Ghana,Ivory Coast,Ghana,Ibrahim Sunday,21.0,False,False
+1970-02-14,Ghana,Ivory Coast,Ivory Coast,Diomandé Losseni,78.0,False,False
+1970-02-14,Ghana,Ivory Coast,Ghana,Malik Jabir,100.0,False,False
+1970-02-14,Sudan,Egypt,Sudan,Muhamad El-Basheer El-Asyad,83.0,False,False
+1970-02-14,Sudan,Egypt,Egypt,Hassan El-Shazly,84.0,False,False
+1970-02-14,Sudan,Egypt,Sudan,Muhamad El-Basheer El-Asyad,102.0,False,False
+1970-02-16,Egypt,Ivory Coast,Egypt,Hassan El-Shazly,3.0,False,False
+1970-02-16,Egypt,Ivory Coast,Egypt,Hassan El-Shazly,14.0,False,False
+1970-02-16,Egypt,Ivory Coast,Egypt,Hassan El-Shazly,50.0,False,False
+1970-02-16,Egypt,Ivory Coast,Ivory Coast,Laurent Pokou,72.0,False,False
+1970-02-16,Sudan,Ghana,Sudan,Omar Ali Hasab El-Rasoul,12.0,False,False
+1972-02-23,Cameroon,Kenya,Cameroon,Jean-Baptiste N'Doga,7.0,False,False
+1972-02-23,Cameroon,Kenya,Cameroon,Paul-Gaston N'Dongo,20.0,False,False
+1972-02-23,Cameroon,Kenya,Kenya,Jonathan Niva,44.0,False,False
+1972-02-24,Mali,Togo,Mali,Bakary Traoré,10.0,False,False
+1972-02-24,Mali,Togo,Togo,Edmond Apéti Kaolo,45.0,False,True
+1972-02-24,Mali,Togo,Mali,Fantamady Keita,46.0,False,False
+1972-02-24,Mali,Togo,Mali,Bako Touré,49.0,False,False
+1972-02-24,Mali,Togo,Togo,Edmond Apéti Kaolo,60.0,False,False
+1972-02-24,Mali,Togo,Togo,Covi Adé,81.0,False,False
+1972-02-25,Congo,Morocco,Morocco,Ahmed Faras,34.0,False,False
+1972-02-25,Congo,Morocco,Congo,Paul Moukila,45.0,False,False
+1972-02-25,Sudan,DR Congo,DR Congo,Mayanga Maku,53.0,False,False
+1972-02-25,Sudan,DR Congo,Sudan,Omar Ali Hasab El-Rasoul,55.0,False,False
+1972-02-26,Cameroon,Togo,Cameroon,Joseph Yegba Maya,64.0,False,False
+1972-02-26,Cameroon,Togo,Cameroon,Simo Emmanuel Mvé,79.0,False,False
+1972-02-26,Kenya,Mali,Mali,Fantamady Keita,45.0,False,False
+1972-02-26,Kenya,Mali,Kenya,Daniel Arudhi Nicodémus,60.0,False,False
+1972-02-27,Congo,DR Congo,DR Congo,Jean Kalala N'Tumba,16.0,False,False
+1972-02-27,Congo,DR Congo,DR Congo,Jean Kalala N'Tumba,59.0,False,False
+1972-02-27,Morocco,Sudan,Morocco,Ahmed Faras,32.0,False,False
+1972-02-27,Morocco,Sudan,Sudan,Bushara Abdel-Nadief,49.0,False,False
+1972-02-28,Cameroon,Mali,Mali,Fantamady Keita,43.0,False,False
+1972-02-28,Cameroon,Mali,Cameroon,François N'Doumbé,67.0,False,False
+1972-02-28,Kenya,Togo,Kenya,Peter Ouma,30.0,False,False
+1972-02-28,Kenya,Togo,Togo,Edmond Apéti Kaolo,60.0,False,False
+1972-02-29,Congo,Sudan,Congo,Jean-Michel M'Bono,8.0,False,False
+1972-02-29,Congo,Sudan,Congo,François M'Pelé,32.0,False,False
+1972-02-29,Congo,Sudan,Sudan,Kamal Abdel Wahab,37.0,False,False
+1972-02-29,Congo,Sudan,Sudan,Ahmed Bushara Wahba,44.0,False,False
+1972-02-29,Congo,Sudan,Congo,Jonas Bahamboula,46.0,False,False
+1972-02-29,Congo,Sudan,Congo,Jean-Michel M'Bono,55.0,False,False
+1972-02-29,Morocco,DR Congo,DR Congo,Mayanga Maku,3.0,False,False
+1972-02-29,Morocco,DR Congo,Morocco,Ahmed Faras,36.0,False,False
+1972-03-02,Cameroon,Congo,Congo,Noël Birindi Minga,31.0,False,False
+1972-03-02,Mali,DR Congo,DR Congo,Jean Kalala N'Tumba,6.0,False,False
+1972-03-02,Mali,DR Congo,Mali,Adama Traoré,17.0,False,False
+1972-03-02,Mali,DR Congo,Mali,Fantamady Keita,48.0,False,False
+1972-03-02,Mali,DR Congo,DR Congo,Kakoko Etepé,61.0,False,False
+1972-03-02,Mali,DR Congo,Mali,Bako Touré,68.0,False,False
+1972-03-02,Mali,DR Congo,DR Congo,Gary Ngassebe,78.0,False,False
+1972-03-02,Mali,DR Congo,Mali,Fantamady Keita,92.0,False,False
+1972-03-04,Cameroon,DR Congo,Cameroon,Jean-Paul Akono,4.0,False,True
+1972-03-04,Cameroon,DR Congo,DR Congo,Kakoko Etepé,13.0,False,False
+1972-03-04,Cameroon,DR Congo,DR Congo,Mayanga Maku,17.0,False,False
+1972-03-04,Cameroon,DR Congo,Cameroon,Paul-Gaston N'Dongo,31.0,False,False
+1972-03-04,Cameroon,DR Congo,Cameroon,Norbert Owona,32.0,False,False
+1972-03-04,Cameroon,DR Congo,Cameroon,Philippe Michel Mouthé,34.0,False,False
+1972-03-04,Cameroon,DR Congo,Cameroon,Jean-Baptiste N'Doga,42.0,False,False
+1972-03-05,Congo,Mali,Mali,Moussa Diakhité,42.0,False,False
+1972-03-05,Congo,Mali,Congo,Jean-Michel M'Bono,57.0,False,False
+1972-03-05,Congo,Mali,Congo,Jean-Michel M'Bono,59.0,False,False
+1972-03-05,Congo,Mali,Congo,François M'Pelé,63.0,False,False
+1972-03-05,Congo,Mali,Mali,Moussa Traoré,75.0,False,False
+1974-03-01,Egypt,Uganda,Egypt,Ali Abo Greisha,6.0,False,False
+1974-03-01,Egypt,Uganda,Uganda,Stanley Mubiru,28.0,False,False
+1974-03-01,Egypt,Uganda,Egypt,Ali Khalil,52.0,False,False
+1974-03-02,Ivory Coast,Zambia,Zambia,Simon Kaushi,2.0,False,False
+1974-03-03,Congo,Mauritius,Congo,Paul Moukila,46.0,False,False
+1974-03-03,Congo,Mauritius,Congo,Sebastien Lakou,47.0,False,False
+1974-03-03,Guinea,DR Congo,DR Congo,Ndaye Mulamba,18.0,False,False
+1974-03-03,Guinea,DR Congo,Guinea,Bengally Sylla,25.0,False,False
+1974-03-03,Guinea,DR Congo,DR Congo,Ndaye Mulamba,65.0,False,False
+1974-03-04,Egypt,Zambia,Egypt,Gamal Abdel Azim,4.0,False,False
+1974-03-04,Egypt,Zambia,Zambia,Godfrey Chitalu,10.0,False,False
+1974-03-04,Egypt,Zambia,Egypt,Taha Basry,18.0,False,False
+1974-03-04,Egypt,Zambia,Egypt,Ali Abo Greisha,52.0,False,False
+1974-03-04,Ivory Coast,Uganda,Ivory Coast,Kobenan Kouman,37.0,False,False
+1974-03-04,Ivory Coast,Uganda,Uganda,Stanley Mubiru,53.0,False,False
+1974-03-04,Ivory Coast,Uganda,Uganda,Stanley Mubiru,60.0,False,False
+1974-03-04,Ivory Coast,Uganda,Ivory Coast,Kobenan Kouman,78.0,False,False
+1974-03-05,Congo,DR Congo,DR Congo,Mayanga Maku,25.0,False,False
+1974-03-05,Congo,DR Congo,Congo,Jean-Michel M'Bono,70.0,False,False
+1974-03-05,Congo,DR Congo,Congo,Noël Birindi Minga,81.0,False,False
+1974-03-05,Guinea,Mauritius,Guinea,Morciré Sylla,52.0,False,False
+1974-03-05,Guinea,Mauritius,Guinea,Morciré Sylla,64.0,False,False
+1974-03-05,Guinea,Mauritius,Mauritius,Daniel Imbert,88.0,False,False
+1974-03-06,Egypt,Ivory Coast,Egypt,Hassan El-Shazly,1.0,False,False
+1974-03-06,Egypt,Ivory Coast,Egypt,Ali Khalil,44.0,False,False
+1974-03-06,Uganda,Zambia,Zambia,Obby Kapita,60.0,False,False
+1974-03-07,Congo,Guinea,Guinea,Soriba Soumah,60.0,False,True
+1974-03-07,Congo,Guinea,Congo,Jacques Ndomba,65.0,False,False
+1974-03-07,Mauritius,DR Congo,DR Congo,Ndaye Mulamba,15.0,False,False
+1974-03-07,Mauritius,DR Congo,DR Congo,Mayanga Maku,19.0,False,False
+1974-03-07,Mauritius,DR Congo,DR Congo,Kakoko Etepé,38.0,False,False
+1974-03-07,Mauritius,DR Congo,Mauritius,Daniel Imbert,61.0,False,False
+1974-03-07,Mauritius,DR Congo,DR Congo,Mayanga Maku,76.0,False,False
+1974-03-09,Congo,Zambia,Zambia,Joseph Mapulanga,49.0,False,False
+1974-03-09,Congo,Zambia,Zambia,Bernard Chanda,70.0,False,False
+1974-03-09,Congo,Zambia,Congo,François M'Pelé,76.0,False,False
+1974-03-09,Congo,Zambia,Congo,André Mbouta,81.0,False,False
+1974-03-09,Congo,Zambia,Zambia,Bernard Chanda,97.0,False,False
+1974-03-09,Congo,Zambia,Zambia,Bernard Chanda,111.0,False,False
+1974-03-09,Egypt,DR Congo,Egypt,Mwepu Ilunga,41.0,True,False
+1974-03-09,Egypt,DR Congo,Egypt,Ali Abo Greisha,54.0,False,False
+1974-03-09,Egypt,DR Congo,DR Congo,Ndaye Mulamba,55.0,False,False
+1974-03-09,Egypt,DR Congo,DR Congo,Kidumu Mantantu,61.0,False,False
+1974-03-09,Egypt,DR Congo,DR Congo,Ndaye Mulamba,72.0,False,False
+1974-03-11,Egypt,Congo,Egypt,Moustafa Abdou,5.0,False,False
+1974-03-11,Egypt,Congo,Egypt,Hassan Shehata,18.0,False,False
+1974-03-11,Egypt,Congo,Egypt,Ali Abo Greisha,62.0,False,False
+1974-03-11,Egypt,Congo,Egypt,Hassan Shehata,80.0,False,False
+1974-03-12,DR Congo,Zambia,Zambia,Simon Kaushi,40.0,False,False
+1974-03-12,DR Congo,Zambia,DR Congo,Ndaye Mulamba,65.0,False,False
+1974-03-12,DR Congo,Zambia,DR Congo,Ndaye Mulamba,117.0,False,False
+1974-03-12,DR Congo,Zambia,Zambia,Brighton Sinyangwe,120.0,False,False
+1974-03-14,DR Congo,Zambia,DR Congo,Ndaye Mulamba,30.0,False,False
+1974-03-14,DR Congo,Zambia,DR Congo,Ndaye Mulamba,76.0,False,False
+1976-02-29,Egypt,Guinea,Egypt,Taha Basry,43.0,False,False
+1976-02-29,Egypt,Guinea,Guinea,Bengally Sylla,44.0,False,True
+1976-02-29,Ethiopia,Uganda,Ethiopia,Solomon Sheferahu,2.0,False,False
+1976-02-29,Ethiopia,Uganda,Ethiopia,Seyoum Tesfaye,83.0,False,False
+1976-03-01,Morocco,Sudan,Morocco,Chérif Fetoui,1.0,False,False
+1976-03-01,Morocco,Sudan,Sudan,Ali Gagarin,9.0,False,False
+1976-03-01,Morocco,Sudan,Morocco,Ahmed Abouali,58.0,False,False
+1976-03-01,Morocco,Sudan,Sudan,Ali Gagarin,79.0,False,True
+1976-03-01,Nigeria,DR Congo,Nigeria,Baba Otu Mohammed,28.0,False,False
+1976-03-01,Nigeria,DR Congo,Nigeria,Sam Ojebode,37.0,False,True
+1976-03-01,Nigeria,DR Congo,Nigeria,Baba Otu Mohammed,44.0,False,False
+1976-03-01,Nigeria,DR Congo,DR Congo,Kabasu Babo,51.0,False,False
+1976-03-01,Nigeria,DR Congo,DR Congo,Mbungu Ekofa,58.0,False,False
+1976-03-01,Nigeria,DR Congo,Nigeria,Thompson Usiyan,90.0,False,False
+1976-03-03,Egypt,Uganda,Uganda,Denis Obua,21.0,False,False
+1976-03-03,Egypt,Uganda,Egypt,Moustafa Abdou,26.0,False,False
+1976-03-03,Egypt,Uganda,Egypt,Taha Basry,32.0,False,False
+1976-03-03,Ethiopia,Guinea,Guinea,Mamadou Aliou Keita,15.0,False,False
+1976-03-03,Ethiopia,Guinea,Ethiopia,Solomon Sheferahu,40.0,False,False
+1976-03-03,Ethiopia,Guinea,Guinea,Petit Sory,85.0,False,False
+1976-03-04,Morocco,DR Congo,Morocco,Abdelâali Zahraoui,80.0,False,False
+1976-03-04,Nigeria,Sudan,Nigeria,Thompson Usiyan,8.0,False,False
+1976-03-05,Ethiopia,Egypt,Egypt,Hassan Shehata,26.0,False,False
+1976-03-05,Ethiopia,Egypt,Ethiopia,Mohamed Ali,46.0,False,False
+1976-03-05,Guinea,Uganda,Guinea,Mamadou Aliou Keita,2.0,False,False
+1976-03-05,Guinea,Uganda,Guinea,Bengally Sylla,20.0,False,False
+1976-03-05,Guinea,Uganda,Uganda,Jimmy Muguwa,85.0,False,False
+1976-03-06,Morocco,Nigeria,Morocco,Ahmed Faras,8.0,False,False
+1976-03-06,Morocco,Nigeria,Morocco,Abdellah Tazi,19.0,False,False
+1976-03-06,Morocco,Nigeria,Morocco,Larbi Chebbak,81.0,False,False
+1976-03-06,Morocco,Nigeria,Nigeria,Sam Ojebode,81.0,False,False
+1976-03-06,Sudan,DR Congo,Sudan,Ali Gagarin,14.0,False,False
+1976-03-06,Sudan,DR Congo,DR Congo,Ndaye Mulamba,41.0,False,False
+1976-03-09,Egypt,Morocco,Morocco,Ahmed Faras,23.0,False,False
+1976-03-09,Egypt,Morocco,Egypt,Ahmed Abou Rehab,34.0,False,False
+1976-03-09,Egypt,Morocco,Morocco,Abdelâali Zahraoui,88.0,False,False
+1976-03-09,Guinea,Nigeria,Nigeria,Mudashiru Lawal,55.0,False,False
+1976-03-09,Guinea,Nigeria,Guinea,Papa Camara,88.0,False,False
+1976-03-11,Egypt,Guinea,Guinea,Mamadou Aliou Keita,24.0,False,False
+1976-03-11,Egypt,Guinea,Egypt,Moustafa Abdou,33.0,False,False
+1976-03-11,Egypt,Guinea,Guinea,Ghanem Sultan,53.0,True,False
+1976-03-11,Egypt,Guinea,Guinea,Morciré Sylla,62.0,False,False
+1976-03-11,Egypt,Guinea,Guinea,Mamadou Aliou Keita,65.0,False,False
+1976-03-11,Egypt,Guinea,Egypt,Mohamed El-Seyagui,86.0,False,False
+1976-03-11,Morocco,Nigeria,Nigeria,Baba Otu Mohammed,57.0,False,False
+1976-03-11,Morocco,Nigeria,Morocco,Ahmed Faras,82.0,False,False
+1976-03-11,Morocco,Nigeria,Morocco,Redouane Guezzar,87.0,False,False
+1976-03-14,Egypt,Nigeria,Egypt,Mahmoud El Khatib,7.0,False,False
+1976-03-14,Egypt,Nigeria,Nigeria,Haruna Ilerika,35.0,False,False
+1976-03-14,Egypt,Nigeria,Nigeria,Haruna Ilerika,62.0,False,False
+1976-03-14,Egypt,Nigeria,Nigeria,Mudashiru Lawal,82.0,False,False
+1976-03-14,Egypt,Nigeria,Egypt,Ossama Khalil,86.0,False,False
+1976-03-14,Guinea,Morocco,Guinea,Chérif Souleymane,33.0,False,False
+1976-03-14,Guinea,Morocco,Morocco,Ahmed Makrouh,86.0,False,False
+1978-03-05,Ghana,Zambia,Zambia,Obby Kapita,8.0,False,False
+1978-03-05,Ghana,Zambia,Ghana,Opoku Afriyie,21.0,False,False
+1978-03-05,Ghana,Zambia,Ghana,Karim Abdul Razak,55.0,False,False
+1978-03-05,Nigeria,Burkina Faso,Nigeria,Christian Chukwu,17.0,False,False
+1978-03-05,Nigeria,Burkina Faso,Nigeria,Adokiye Amiesimaka,31.0,False,False
+1978-03-05,Nigeria,Burkina Faso,Nigeria,Segun Odegbami,44.0,False,False
+1978-03-05,Nigeria,Burkina Faso,Burkina Faso,Hubert Hien,50.0,False,False
+1978-03-05,Nigeria,Burkina Faso,Burkina Faso,Mamadaou Koïta,52.0,False,False
+1978-03-05,Nigeria,Burkina Faso,Nigeria,Segun Odegbami,82.0,False,False
+1978-03-06,Congo,Uganda,Uganda,Phillip Omondi,1.0,False,False
+1978-03-06,Congo,Uganda,Uganda,Edward Semwanga,31.0,False,False
+1978-03-06,Congo,Uganda,Congo,Jacques Mamounoubala,80.0,False,False
+1978-03-06,Congo,Uganda,Uganda,Godfrey Kisitu,81.0,False,False
+1978-03-06,Morocco,Tunisia,Morocco,Hassan Amcharrat,29.0,False,False
+1978-03-06,Morocco,Tunisia,Tunisia,Ali Kaabi,63.0,False,False
+1978-03-08,Burkina Faso,Zambia,Zambia,Patrick Phiri,20.0,False,False
+1978-03-08,Burkina Faso,Zambia,Zambia,Bizwell Phiri,88.0,False,False
+1978-03-08,Ghana,Nigeria,Nigeria,Segun Odegbami,33.0,False,False
+1978-03-08,Ghana,Nigeria,Ghana,Willie Klutse,76.0,False,False
+1978-03-09,Congo,Morocco,Morocco,Hassan Amcharrat,28.0,False,False
+1978-03-09,Tunisia,Uganda,Tunisia,Mohsen Labidi,36.0,False,False
+1978-03-09,Tunisia,Uganda,Tunisia,Abderraouf Ben Aziza,38.0,False,False
+1978-03-09,Tunisia,Uganda,Uganda,Samuel Musenze,71.0,False,False
+1978-03-09,Tunisia,Uganda,Tunisia,Abderraouf Ben Aziza,83.0,False,False
+1978-03-10,Ghana,Burkina Faso,Ghana,George Alhassan,3.0,False,False
+1978-03-10,Ghana,Burkina Faso,Ghana,Mohammed Ahmed,52.0,False,False
+1978-03-10,Ghana,Burkina Faso,Ghana,George Alhassan,59.0,False,False
+1978-03-11,Morocco,Uganda,Uganda,Godfrey Kisitu,13.0,False,False
+1978-03-11,Morocco,Uganda,Uganda,Moses Msereko,32.0,False,False
+1978-03-11,Morocco,Uganda,Uganda,Phillip Omondi,36.0,False,False
+1978-03-14,Ghana,Tunisia,Ghana,Karim Abdul Razak,57.0,False,False
+1978-03-14,Nigeria,Uganda,Uganda,Abdulla Nasur,11.0,False,False
+1978-03-14,Nigeria,Uganda,Nigeria,Martins Eyo,54.0,False,False
+1978-03-14,Nigeria,Uganda,Uganda,Phillip Omondi,58.0,False,False
+1978-03-16,Ghana,Uganda,Ghana,Opoku Afriyie,38.0,False,False
+1978-03-16,Ghana,Uganda,Ghana,Opoku Afriyie,64.0,False,False
+1980-03-08,Egypt,Ivory Coast,Ivory Coast,Ani Gome,7.0,False,False
+1980-03-08,Egypt,Ivory Coast,Egypt,Maher Hammam,8.0,False,False
+1980-03-08,Egypt,Ivory Coast,Egypt,Mokhtar Mokhtar,20.0,False,False
+1980-03-08,Nigeria,Tanzania,Nigeria,Muda Lawal,11.0,False,False
+1980-03-08,Nigeria,Tanzania,Nigeria,Ifeanyi Onyedika,35.0,False,False
+1980-03-08,Nigeria,Tanzania,Tanzania,Juma Mkambi,54.0,False,False
+1980-03-08,Nigeria,Tanzania,Nigeria,Segun Odegbami,85.0,False,False
+1980-03-09,Guinea,Morocco,Morocco,Mustapha Tahir,7.0,False,False
+1980-03-09,Guinea,Morocco,Guinea,Moussa Camara,8.0,False,False
+1980-03-12,Egypt,Tanzania,Egypt,Hassan Shehata,32.0,False,False
+1980-03-12,Egypt,Tanzania,Egypt,Mussad Nur,38.0,False,False
+1980-03-12,Egypt,Tanzania,Tanzania,Thuwein Waziri,86.0,False,False
+1980-03-13,Algeria,Morocco,Algeria,Lakhdar Belloumi,90.0,False,False
+1980-03-13,Ghana,Guinea,Ghana,Willie Klutse,69.0,False,False
+1980-03-15,Ivory Coast,Tanzania,Ivory Coast,Kobenan Kouman,7.0,False,False
+1980-03-15,Ivory Coast,Tanzania,Tanzania,Thuwein Waziri,59.0,False,False
+1980-03-15,Nigeria,Egypt,Nigeria,Okey Isima,15.0,False,False
+1980-03-16,Algeria,Guinea,Algeria,Tedj Bensaoula,12.0,False,False
+1980-03-16,Algeria,Guinea,Algeria,Lakhdar Belloumi,37.0,False,False
+1980-03-16,Algeria,Guinea,Algeria,Tedj Bensaoula,49.0,False,False
+1980-03-16,Algeria,Guinea,Guinea,Ibrahima Diawara,82.0,False,False
+1980-03-16,Algeria,Guinea,Guinea,Seydouba Bangoura,90.0,False,False
+1980-03-16,Ghana,Morocco,Morocco,Khalid Labied,44.0,False,False
+1980-03-19,Algeria,Egypt,Egypt,Mahmoud El Khatib,32.0,False,False
+1980-03-19,Algeria,Egypt,Egypt,Ramadan El Sayed,47.0,False,False
+1980-03-19,Algeria,Egypt,Algeria,Salah Assad,55.0,False,True
+1980-03-19,Algeria,Egypt,Algeria,Hocine Benmiloudi,62.0,False,False
+1980-03-19,Nigeria,Morocco,Nigeria,Felix Owolabi,9.0,False,False
+1980-03-21,Egypt,Morocco,Morocco,Khalid Labied,9.0,False,False
+1980-03-21,Egypt,Morocco,Morocco,Khalid Labied,78.0,False,False
+1980-03-22,Nigeria,Algeria,Nigeria,Segun Odegbami,2.0,False,False
+1980-03-22,Nigeria,Algeria,Nigeria,Segun Odegbami,42.0,False,False
+1980-03-22,Nigeria,Algeria,Nigeria,Muda Lawal,50.0,False,False
+1982-03-05,Cameroon,Tunisia,Tunisia,Kamel Gabsi,60.0,False,False
+1982-03-05,Cameroon,Tunisia,Cameroon,Grégoire M'Bida,61.0,False,False
+1982-03-05,Libya,Ghana,Ghana,George Alhassan,28.0,False,False
+1982-03-05,Libya,Ghana,Libya,Abdel Razak Jaranah,58.0,False,False
+1982-03-05,Libya,Ghana,Libya,Fawzi Al-Issawi,76.0,False,False
+1982-03-05,Libya,Ghana,Ghana,Opoku Nti,89.0,False,False
+1982-03-07,Algeria,Zambia,Algeria,Chaabane Merzekane,85.0,False,False
+1982-03-07,Ethiopia,Nigeria,Nigeria,Stephen Keshi,27.0,False,False
+1982-03-07,Ethiopia,Nigeria,Nigeria,Ademola Adeshina,40.0,False,False
+1982-03-07,Ethiopia,Nigeria,Nigeria,Stephen Keshi,84.0,False,False
+1982-03-09,Libya,Tunisia,Libya,Kamel Seddik,42.0,True,False
+1982-03-09,Libya,Tunisia,Libya,Faraj Al-Bor'osi,89.0,False,False
+1982-03-10,Algeria,Nigeria,Nigeria,Emmanuel Osigwe,40.0,False,False
+1982-03-10,Algeria,Nigeria,Algeria,Okey Isima,44.0,True,False
+1982-03-10,Algeria,Nigeria,Algeria,Salah Assad,65.0,False,False
+1982-03-10,Ethiopia,Zambia,Zambia,Geofrey Munshya,68.0,False,False
+1982-03-12,Ghana,Tunisia,Ghana,John Ebow Essien,28.0,False,False
+1982-03-13,Nigeria,Zambia,Zambia,Peter Kaumba,25.0,False,False
+1982-03-13,Nigeria,Zambia,Zambia,Aaron Njovu,80.0,False,False
+1982-03-13,Nigeria,Zambia,Zambia,Peter Fregene,81.0,True,False
+1982-03-16,Algeria,Ghana,Ghana,George Alhassan,4.0,False,False
+1982-03-16,Algeria,Ghana,Algeria,Djamel Zidane,29.0,False,False
+1982-03-16,Algeria,Ghana,Algeria,Salah Assad,62.0,False,False
+1982-03-16,Algeria,Ghana,Ghana,Opoku Nti,90.0,False,False
+1982-03-16,Algeria,Ghana,Ghana,George Alhassan,103.0,False,False
+1982-03-16,Libya,Zambia,Zambia,Peter Kaumba,29.0,False,False
+1982-03-16,Libya,Zambia,Libya,Ali Al-Beshari,38.0,False,False
+1982-03-16,Libya,Zambia,Libya,Ali Al-Beshari,84.0,False,False
+1982-03-18,Algeria,Zambia,Zambia,Peter Kaumba,2.0,False,False
+1982-03-18,Algeria,Zambia,Zambia,Geofrey Munshya,25.0,False,False
+1982-03-19,Libya,Ghana,Ghana,George Alhassan,35.0,False,False
+1982-03-19,Libya,Ghana,Libya,Ali Al-Beshari,70.0,False,False
+1984-03-04,Cameroon,Egypt,Egypt,Taher Abouzeid,78.0,False,False
+1984-03-04,Ivory Coast,Togo,Ivory Coast,Tia Koffi,27.0,False,False
+1984-03-04,Ivory Coast,Togo,Ivory Coast,Youssouf Falikou Fofana,62.0,False,False
+1984-03-04,Ivory Coast,Togo,Ivory Coast,Michel Goba,75.0,False,False
+1984-03-05,Algeria,Malawi,Algeria,Nasser Bouiche,29.0,False,False
+1984-03-05,Algeria,Malawi,Algeria,Lakhdar Belloumi,36.0,False,False
+1984-03-05,Algeria,Malawi,Algeria,Ali Fergani,38.0,False,False
+1984-03-05,Ghana,Nigeria,Nigeria,Henry Nwosu,13.0,False,False
+1984-03-05,Ghana,Nigeria,Ghana,Opoku Nti,19.0,False,False
+1984-03-05,Ghana,Nigeria,Nigeria,Shibuzor Ehilegbu,31.0,False,False
+1984-03-07,Cameroon,Togo,Cameroon,Bonaventure Djonkep,7.0,False,False
+1984-03-07,Cameroon,Togo,Cameroon,Théophile Abega,21.0,False,False
+1984-03-07,Cameroon,Togo,Cameroon,Ibrahim Aoudou,45.0,False,False
+1984-03-07,Cameroon,Togo,Togo,Rafiou Moutairou,56.0,False,False
+1984-03-07,Cameroon,Togo,Cameroon,Théophile Abega,61.0,False,False
+1984-03-07,Ivory Coast,Egypt,Ivory Coast,Pascal Miézan,53.0,False,False
+1984-03-07,Ivory Coast,Egypt,Egypt,Taher Abouzeid,66.0,False,False
+1984-03-07,Ivory Coast,Egypt,Egypt,Taher Abouzeid,72.0,False,False
+1984-03-08,Algeria,Ghana,Algeria,Djamel Menad,75.0,False,False
+1984-03-08,Algeria,Ghana,Algeria,Tedj Bensaoula,85.0,False,False
+1984-03-08,Malawi,Nigeria,Malawi,Harry Waya,7.0,False,True
+1984-03-08,Malawi,Nigeria,Malawi,Clifton Msiya,35.0,False,False
+1984-03-08,Malawi,Nigeria,Nigeria,Clement Temile,39.0,False,False
+1984-03-08,Malawi,Nigeria,Nigeria,Clement Temile,41.0,False,False
+1984-03-10,Ivory Coast,Cameroon,Cameroon,Roger Milla,42.0,False,False
+1984-03-10,Ivory Coast,Cameroon,Cameroon,Bonaventure Djonkep,61.0,False,False
+1984-03-11,Ghana,Malawi,Ghana,Seth Amphadu,32.0,False,False
+1984-03-14,Egypt,Nigeria,Egypt,Emad Suleiman,25.0,False,False
+1984-03-14,Egypt,Nigeria,Egypt,Taher Abouzeid,38.0,False,False
+1984-03-14,Egypt,Nigeria,Nigeria,Stephen Keshi,43.0,False,True
+1984-03-14,Egypt,Nigeria,Nigeria,Ali Bala,75.0,False,False
+1984-03-17,Algeria,Egypt,Algeria,Rabah Madjer,68.0,False,False
+1984-03-17,Algeria,Egypt,Algeria,Lakhdar Belloumi,71.0,False,False
+1984-03-17,Algeria,Egypt,Egypt,Magdi Abdelghani,76.0,False,True
+1984-03-17,Algeria,Egypt,Algeria,Hocine Yahi,90.0,False,False
+1984-03-18,Cameroon,Nigeria,Nigeria,Muda Lawal,10.0,False,False
+1984-03-18,Cameroon,Nigeria,Cameroon,Rene N'Djeya,32.0,False,False
+1984-03-18,Cameroon,Nigeria,Cameroon,Théophile Abega,79.0,False,False
+1984-03-18,Cameroon,Nigeria,Cameroon,Ernest Ebongué,84.0,False,False
+1986-03-07,Egypt,Senegal,Senegal,Thierno Youm,67.0,False,False
+1986-03-07,Ivory Coast,Mozambique,Ivory Coast,Abdoulaye Traoré,25.0,False,False
+1986-03-07,Ivory Coast,Mozambique,Ivory Coast,Abdoulaye Traoré,74.0,False,False
+1986-03-07,Ivory Coast,Mozambique,Ivory Coast,Kouassi N'Dri,86.0,False,False
+1986-03-08,Cameroon,Zambia,Cameroon,Roger Milla,46.0,False,False
+1986-03-08,Cameroon,Zambia,Zambia,Michael Chabala,65.0,False,False
+1986-03-08,Cameroon,Zambia,Cameroon,Louis-Paul M'Fédé,67.0,False,False
+1986-03-08,Cameroon,Zambia,Zambia,Kalusha Bwalya,77.0,False,True
+1986-03-08,Cameroon,Zambia,Cameroon,Louis-Paul M'Fédé,82.0,False,True
+1986-03-10,Egypt,Ivory Coast,Egypt,Shawky Gharieb,73.0,False,False
+1986-03-10,Egypt,Ivory Coast,Egypt,Gamal Abdelhamid,83.0,False,False
+1986-03-10,Mozambique,Senegal,Senegal,Pape Fall,28.0,False,False
+1986-03-10,Mozambique,Senegal,Senegal,Jules Bocandé,83.0,False,False
+1986-03-11,Cameroon,Morocco,Morocco,Abdelkrim Merry,63.0,False,False
+1986-03-11,Cameroon,Morocco,Cameroon,Roger Milla,89.0,False,False
+1986-03-13,Egypt,Mozambique,Egypt,Taher Abouzeid,13.0,False,False
+1986-03-13,Egypt,Mozambique,Egypt,Taher Abouzeid,15.0,False,False
+1986-03-13,Ivory Coast,Senegal,Ivory Coast,Abdoulaye Traoré,71.0,False,False
+1986-03-14,Algeria,Cameroon,Algeria,Rabah Madjer,61.0,False,False
+1986-03-14,Algeria,Cameroon,Cameroon,André Kana-Biyik,66.0,False,False
+1986-03-14,Algeria,Cameroon,Cameroon,André Kana-Biyik,70.0,False,False
+1986-03-14,Algeria,Cameroon,Cameroon,Roger Milla,72.0,False,False
+1986-03-14,Algeria,Cameroon,Algeria,Karim Maroc,73.0,False,False
+1986-03-14,Morocco,Zambia,Morocco,Jones Chilengi,18.0,True,False
+1986-03-17,Cameroon,Ivory Coast,Cameroon,Roger Milla,46.0,False,False
+1986-03-17,Egypt,Morocco,Egypt,Taher Abouzeid,79.0,False,False
+1986-03-20,Ivory Coast,Morocco,Ivory Coast,Oumar Ben Salah,8.0,False,False
+1986-03-20,Ivory Coast,Morocco,Ivory Coast,Lucien Kassi-Kouadio,38.0,False,False
+1986-03-20,Ivory Coast,Morocco,Morocco,Abdelfettah Rhiati,44.0,False,False
+1986-03-20,Ivory Coast,Morocco,Ivory Coast,Lucien Kassi-Kouadio,68.0,False,True
+1986-03-20,Ivory Coast,Morocco,Morocco,Mohammed Sahil,85.0,False,False
+1988-03-13,Algeria,Ivory Coast,Algeria,Lakhdar Belloumi,16.0,False,False
+1988-03-13,Algeria,Ivory Coast,Ivory Coast,Abdoulaye Traoré,48.0,False,False
+1988-03-13,Morocco,DR Congo,Morocco,Abdelkrim Merry,43.0,False,True
+1988-03-13,Morocco,DR Congo,DR Congo,Vita Lutonadio,88.0,False,False
+1988-03-14,Cameroon,Egypt,Cameroon,Roger Milla,5.0,False,False
+1988-03-14,Kenya,Nigeria,Nigeria,Rashidi Yekini,6.0,False,False
+1988-03-14,Kenya,Nigeria,Nigeria,Humphrey Edobor,13.0,False,False
+1988-03-14,Kenya,Nigeria,Nigeria,Ndubuisi Okosieme,33.0,False,False
+1988-03-16,Ivory Coast,DR Congo,DR Congo,Eugène Kabongo,37.0,False,False
+1988-03-16,Ivory Coast,DR Congo,Ivory Coast,Abdoulaye Traoré,74.0,False,False
+1988-03-16,Morocco,Algeria,Morocco,Mustafa El Haddaoui,52.0,False,False
+1988-03-17,Cameroon,Nigeria,Nigeria,Samuel Okwaraji,2.0,False,False
+1988-03-17,Cameroon,Nigeria,Cameroon,Roger Milla,21.0,False,False
+1988-03-17,Egypt,Kenya,Egypt,Gamal Abdelhamid,2.0,False,False
+1988-03-17,Egypt,Kenya,Egypt,Ayman Younes,58.0,False,False
+1988-03-17,Egypt,Kenya,Egypt,Gamal Abdelhamid,65.0,False,False
+1988-03-19,Algeria,DR Congo,Algeria,Abdelkader Ferhaoui,36.0,False,False
+1988-03-23,Algeria,Nigeria,Nigeria,Abdelrazak Belgharbi,36.0,True,False
+1988-03-23,Algeria,Nigeria,Algeria,Rachid Maâtar,86.0,False,False
+1988-03-23,Morocco,Cameroon,Cameroon,Cyrille Makanaky,78.0,False,False
+1988-03-26,Morocco,Algeria,Morocco,Hassan Nader,67.0,False,False
+1988-03-26,Morocco,Algeria,Algeria,Lakhdar Belloumi,87.0,False,False
+1988-03-27,Cameroon,Nigeria,Cameroon,Emmanuel Kundé,55.0,False,True
+1990-03-02,Algeria,Nigeria,Algeria,Rabah Madjer,36.0,False,False
+1990-03-02,Algeria,Nigeria,Algeria,Rabah Madjer,58.0,False,False
+1990-03-02,Algeria,Nigeria,Algeria,Djamel Menad,69.0,False,False
+1990-03-02,Algeria,Nigeria,Algeria,Djamel Menad,72.0,False,False
+1990-03-02,Algeria,Nigeria,Nigeria,Emmanuel Okocha,82.0,False,False
+1990-03-02,Algeria,Nigeria,Algeria,Djamel Amani,88.0,False,False
+1990-03-02,Ivory Coast,Egypt,Ivory Coast,Abdoulaye Traoré,53.0,False,False
+1990-03-02,Ivory Coast,Egypt,Ivory Coast,Abdoulaye Traoré,60.0,False,False
+1990-03-02,Ivory Coast,Egypt,Ivory Coast,Serge Maguy,73.0,False,False
+1990-03-02,Ivory Coast,Egypt,Egypt,Adel Abdelrahman,75.0,False,False
+1990-03-03,Cameroon,Zambia,Zambia,Webster Chikabala,58.0,False,False
+1990-03-05,Algeria,Ivory Coast,Algeria,Djamel Menad,23.0,False,False
+1990-03-05,Algeria,Ivory Coast,Algeria,Tahar Chérif El-Ouazzani,81.0,False,False
+1990-03-05,Algeria,Ivory Coast,Algeria,Chérif Oudjani,82.0,False,False
+1990-03-05,Nigeria,Egypt,Nigeria,Rashidi Yekini,8.0,False,False
+1990-03-06,Cameroon,Senegal,Senegal,Mamadou Diallo,45.0,False,False
+1990-03-06,Cameroon,Senegal,Senegal,Moussa N'Dao,56.0,False,False
+1990-03-06,Zambia,Kenya,Zambia,Linos Makwaza,40.0,False,False
+1990-03-08,Algeria,Egypt,Algeria,Djamel Amani,39.0,False,False
+1990-03-08,Algeria,Egypt,Algeria,Moussa Saïb,43.0,False,False
+1990-03-08,Nigeria,Ivory Coast,Nigeria,Rashidi Yekini,3.0,False,False
+1990-03-09,Cameroon,Kenya,Cameroon,Emmanuel Maboang,28.0,False,False
+1990-03-09,Cameroon,Kenya,Cameroon,Emmanuel Maboang,69.0,False,False
+1990-03-12,Algeria,Senegal,Algeria,Djamel Menad,4.0,False,False
+1990-03-12,Algeria,Senegal,Senegal,Abdelhakim Serrar,20.0,True,False
+1990-03-12,Algeria,Senegal,Algeria,Djamel Amani,62.0,False,False
+1990-03-12,Nigeria,Zambia,Nigeria,Uche Okechukwu,18.0,False,False
+1990-03-12,Nigeria,Zambia,Nigeria,Rashidi Yekini,77.0,False,False
+1990-03-15,Senegal,Zambia,Zambia,Webster Chikabala,73.0,False,False
+1990-03-16,Algeria,Nigeria,Algeria,Chérif Oudjani,38.0,False,False
+1992-01-12,Cameroon,Morocco,Cameroon,André Kana-Biyik,23.0,False,False
+1992-01-12,Senegal,Nigeria,Nigeria,Samson Siasia,13.0,False,False
+1992-01-12,Senegal,Nigeria,Senegal,Jules Bocandé,36.0,False,False
+1992-01-12,Senegal,Nigeria,Nigeria,Stephen Keshi,89.0,False,False
+1992-01-13,Algeria,Ivory Coast,Ivory Coast,Ben Badi,14.0,False,False
+1992-01-13,Algeria,Ivory Coast,Ivory Coast,Youssouf Falikou Fofana,25.0,False,False
+1992-01-13,Algeria,Ivory Coast,Ivory Coast,Joël Tiéhi,89.0,False,False
+1992-01-13,Egypt,Zambia,Zambia,Kalusha Bwalya,61.0,False,False
+1992-01-14,Morocco,DR Congo,Morocco,Said Rokbi,89.0,False,False
+1992-01-14,Morocco,DR Congo,DR Congo,Andre Kona N'Gole,90.0,False,False
+1992-01-14,Nigeria,Kenya,Nigeria,Rashidi Yekini,7.0,False,False
+1992-01-14,Nigeria,Kenya,Nigeria,Rashidi Yekini,15.0,False,False
+1992-01-14,Nigeria,Kenya,Kenya,Mickey Weche,89.0,False,True
+1992-01-15,Zambia,Ghana,Ghana,Abedi Pele,64.0,False,False
+1992-01-16,Cameroon,DR Congo,DR Congo,Tueba Menayane,1.0,False,False
+1992-01-16,Cameroon,DR Congo,Cameroon,François Omam-Biyik,15.0,False,False
+1992-01-16,Senegal,Kenya,Senegal,Souleyman Sané,46.0,False,False
+1992-01-16,Senegal,Kenya,Senegal,Jules Bocandé,68.0,False,False
+1992-01-16,Senegal,Kenya,Senegal,Victor Diagne,89.0,False,False
+1992-01-17,Algeria,Congo,Congo,Pierre Tchibota,6.0,False,False
+1992-01-17,Algeria,Congo,Algeria,Nacer Bouiche,44.0,False,False
+1992-01-17,Egypt,Ghana,Ghana,Tony Yeboah,89.0,False,False
+1992-01-19,Nigeria,DR Congo,Nigeria,Rashidi Yekini,22.0,False,False
+1992-01-19,Senegal,Cameroon,Cameroon,Ernest Ebongué,89.0,False,False
+1992-01-20,Ghana,Congo,Ghana,Anthony Yeboah,29.0,False,False
+1992-01-20,Ghana,Congo,Congo,Pierre Tchibota,52.0,False,False
+1992-01-20,Ghana,Congo,Ghana,Abedi Pele,57.0,False,False
+1992-01-20,Ivory Coast,Zambia,Ivory Coast,Donald-Olivier Sié,94.0,False,False
+1992-01-23,Nigeria,Ghana,Nigeria,Mutiu Adepoju,11.0,False,False
+1992-01-23,Nigeria,Ghana,Ghana,Abedi Pele,43.0,False,False
+1992-01-23,Nigeria,Ghana,Ghana,Prince Polley,54.0,False,False
+1992-01-25,Cameroon,Nigeria,Nigeria,Friday Ekpo,75.0,False,False
+1992-01-25,Cameroon,Nigeria,Cameroon,Emmanuel Maboang,85.0,False,False
+1992-01-25,Cameroon,Nigeria,Nigeria,Rashidi Yekini,88.0,False,False
+1994-03-26,Nigeria,Gabon,Nigeria,Rashidi Yekini,18.0,False,False
+1994-03-26,Nigeria,Gabon,Nigeria,Mutiu Adepoju,72.0,False,False
+1994-03-26,Nigeria,Gabon,Nigeria,Rashidi Yekini,88.0,False,False
+1994-03-26,Tunisia,Mali,Mali,Fernand Coulibaly,25.0,False,False
+1994-03-26,Tunisia,Mali,Mali,Modibo Sidibé,34.0,False,False
+1994-03-27,Ghana,Guinea,Ghana,Charles Akonnor,87.0,False,False
+1994-03-27,Ivory Coast,Sierra Leone,Ivory Coast,Joël Tiéhi,19.0,False,False
+1994-03-27,Ivory Coast,Sierra Leone,Ivory Coast,Tchiressoua Guel,35.0,False,False
+1994-03-27,Ivory Coast,Sierra Leone,Ivory Coast,Joël Tiéhi,63.0,False,False
+1994-03-27,Ivory Coast,Sierra Leone,Ivory Coast,Joël Tiéhi,70.0,False,False
+1994-03-28,Egypt,Gabon,Egypt,Ayman Mansour,1.0,False,False
+1994-03-28,Egypt,Gabon,Egypt,Hamza El-Gamal,22.0,False,False
+1994-03-28,Egypt,Gabon,Egypt,Bashir Abdel Samad,55.0,False,False
+1994-03-28,Egypt,Gabon,Egypt,Bashir Abdel Samad,59.0,False,False
+1994-03-28,Mali,DR Congo,DR Congo,Basaula Lemba,48.0,False,False
+1994-03-29,Senegal,Guinea,Guinea,Aboubacar Titi Camara,44.0,False,False
+1994-03-29,Senegal,Guinea,Senegal,Momath Gueye,46.0,False,True
+1994-03-29,Senegal,Guinea,Senegal,Athanas Tendeng,50.0,False,False
+1994-03-30,Tunisia,DR Congo,Tunisia,Faouzi Rouissi,43.0,False,True
+1994-03-30,Tunisia,DR Congo,DR Congo,Nsumbu Ngoy,55.0,False,False
+1994-03-31,Ghana,Senegal,Ghana,Prince Opoku Polley,42.0,False,False
+1994-03-31,Zambia,Ivory Coast,Zambia,Kenneth Malitoli,79.0,False,False
+1994-04-02,DR Congo,Nigeria,Nigeria,Rashidi Yekini,51.0,False,False
+1994-04-02,DR Congo,Nigeria,Nigeria,Rashidi Yekini,71.0,False,True
+1994-04-02,Egypt,Mali,Mali,Soumaila Traoré,64.0,False,False
+1994-04-03,Ghana,Ivory Coast,Ivory Coast,Joël Tiéhi,30.0,False,False
+1994-04-03,Ghana,Ivory Coast,Ghana,Charles Akonnor,77.0,False,False
+1994-04-03,Ghana,Ivory Coast,Ivory Coast,Abdoulaye Traoré,81.0,False,False
+1994-04-03,Zambia,Senegal,Zambia,Evans Sakala,38.0,False,False
+1994-04-06,Nigeria,Ivory Coast,Ivory Coast,Michel Bassolé,19.0,False,False
+1994-04-06,Nigeria,Ivory Coast,Nigeria,Ben Iroha,26.0,False,False
+1994-04-06,Nigeria,Ivory Coast,Ivory Coast,Michel Bassolé,31.0,False,False
+1994-04-06,Nigeria,Ivory Coast,Nigeria,Rashidi Yekini,40.0,False,False
+1994-04-06,Zambia,Mali,Zambia,Elijah Litana,8.0,False,False
+1994-04-06,Zambia,Mali,Zambia,Zeddy Saileti,30.0,False,False
+1994-04-06,Zambia,Mali,Zambia,Kalusha Bwalya,47.0,False,False
+1994-04-06,Zambia,Mali,Zambia,Kenneth Malitoli,73.0,False,False
+1994-04-10,Ivory Coast,Mali,Ivory Coast,Adama Klofie Koné,2.0,False,False
+1994-04-10,Ivory Coast,Mali,Mali,Amadou Pathé Diallo,46.0,False,False
+1994-04-10,Ivory Coast,Mali,Ivory Coast,Ahmed Ouattara,67.0,False,False
+1994-04-10,Ivory Coast,Mali,Ivory Coast,Donald-Olivier Sié,70.0,False,False
+1994-04-10,Nigeria,Zambia,Zambia,Elijah Litana,3.0,False,False
+1994-04-10,Nigeria,Zambia,Nigeria,Emmanuel Amunike,5.0,False,False
+1994-04-10,Nigeria,Zambia,Nigeria,Emmanuel Amunike,47.0,False,False
+1996-01-13,South Africa,Cameroon,South Africa,Phil Masinga,15.0,False,False
+1996-01-13,South Africa,Cameroon,South Africa,Mark Williams,37.0,False,False
+1996-01-13,South Africa,Cameroon,South Africa,John Moshoeu,55.0,False,False
+1996-01-14,Ivory Coast,Ghana,Ghana,Tony Yeboah,20.0,False,False
+1996-01-14,Ivory Coast,Ghana,Ghana,Abedi Pele,70.0,False,False
+1996-01-15,Egypt,Angola,Egypt,Ahmed El-Kass,30.0,False,False
+1996-01-15,Egypt,Angola,Egypt,Ahmed El-Kass,33.0,False,False
+1996-01-15,Egypt,Angola,Angola,Joaquim Alberto Silva,77.0,False,False
+1996-01-15,Sierra Leone,Burkina Faso,Sierra Leone,Gbassay Sessay,11.0,False,False
+1996-01-15,Sierra Leone,Burkina Faso,Burkina Faso,Aboubakari Ouédraogo,74.0,False,False
+1996-01-15,Sierra Leone,Burkina Faso,Sierra Leone,Mohamed Kallon,89.0,False,False
+1996-01-16,Gabon,Liberia,Liberia,Kelvin Sebwe,5.0,False,True
+1996-01-16,Gabon,Liberia,Liberia,Mass Sarr Jr.,54.0,False,False
+1996-01-16,Gabon,Liberia,Gabon,Guy Nzeng,59.0,False,False
+1996-01-16,Tunisia,Mozambique,Mozambique,Tico-Tico,4.0,False,False
+1996-01-16,Tunisia,Mozambique,Tunisia,Hédi Berkhissa,24.0,False,False
+1996-01-18,Algeria,Sierra Leone,Algeria,Ali Meçabih,41.0,False,False
+1996-01-18,Algeria,Sierra Leone,Algeria,Ali Meçabih,63.0,False,False
+1996-01-18,Cameroon,Egypt,Cameroon,François Omam-Biyik,36.0,False,True
+1996-01-18,Cameroon,Egypt,Egypt,Ali Maher,48.0,False,False
+1996-01-18,Cameroon,Egypt,Cameroon,Alphonse Tchami,59.0,False,False
+1996-01-19,DR Congo,Gabon,Gabon,Brice Mackaya,21.0,False,True
+1996-01-19,DR Congo,Gabon,Gabon,Aurelien Bekogo,34.0,False,False
+1996-01-19,Ghana,Tunisia,Ghana,Abedi Pele,50.0,False,False
+1996-01-19,Ghana,Tunisia,Tunisia,Imed Ben Younes,72.0,False,False
+1996-01-19,Ghana,Tunisia,Ghana,Charles Akonnor,77.0,False,False
+1996-01-20,Burkina Faso,Zambia,Zambia,Kenneth Malitoli,18.0,False,False
+1996-01-20,Burkina Faso,Zambia,Zambia,Kalusha Bwalya,24.0,False,False
+1996-01-20,Burkina Faso,Zambia,Zambia,Kalusha Bwalya,35.0,False,False
+1996-01-20,Burkina Faso,Zambia,Zambia,Dennis Lota,44.0,False,False
+1996-01-20,Burkina Faso,Zambia,Zambia,Johnson Bwalya,45.0,False,False
+1996-01-20,Burkina Faso,Zambia,Burkina Faso,Issouf Traoré,53.0,False,False
+1996-01-20,South Africa,Angola,South Africa,Mark Williams,57.0,False,False
+1996-01-21,Mozambique,Ivory Coast,Ivory Coast,Joël Tiéhi,32.0,False,False
+1996-01-24,Angola,Cameroon,Cameroon,François Omam-Biyik,25.0,False,False
+1996-01-24,Angola,Cameroon,Angola,Joni,38.0,False,True
+1996-01-24,Angola,Cameroon,Angola,Paulo António Alves,57.0,False,False
+1996-01-24,Angola,Cameroon,Angola,Joaquim Alberto Silva,80.0,False,False
+1996-01-24,Angola,Cameroon,Cameroon,George Mouyémé,82.0,False,False
+1996-01-24,Angola,Cameroon,Cameroon,Hélder Vicente de Jesus Serafin,90.0,True,False
+1996-01-24,Burkina Faso,Algeria,Algeria,Khaled Lounici,2.0,False,False
+1996-01-24,Burkina Faso,Algeria,Algeria,Billel Dziri,75.0,False,False
+1996-01-24,Burkina Faso,Algeria,Burkina Faso,Boureima Zongo,83.0,False,False
+1996-01-24,Sierra Leone,Zambia,Zambia,Kalusha Bwalya,2.0,False,False
+1996-01-24,Sierra Leone,Zambia,Zambia,Kalusha Bwalya,9.0,False,False
+1996-01-24,Sierra Leone,Zambia,Zambia,Kalusha Bwalya,84.0,False,False
+1996-01-24,Sierra Leone,Zambia,Zambia,Mordon Malitoli,87.0,False,False
+1996-01-24,South Africa,Egypt,Egypt,Ahmed El-Kass,7.0,False,False
+1996-01-25,Liberia,DR Congo,DR Congo,Roger Lukaku,5.0,False,True
+1996-01-25,Liberia,DR Congo,DR Congo,Liombi Essende,72.0,False,False
+1996-01-25,Mozambique,Ghana,Ghana,Abedi Pele,42.0,False,False
+1996-01-25,Mozambique,Ghana,Ghana,Felix Aboagye,68.0,False,False
+1996-01-25,Tunisia,Ivory Coast,Tunisia,Imed Ben Younes,32.0,False,False
+1996-01-25,Tunisia,Ivory Coast,Tunisia,Imed Ben Younes,38.0,False,False
+1996-01-25,Tunisia,Ivory Coast,Tunisia,Abdelkader Ben Hassen,48.0,False,False
+1996-01-25,Tunisia,Ivory Coast,Ivory Coast,Moussa Traoré,84.0,False,False
+1996-01-27,South Africa,Algeria,South Africa,Mark Fish,72.0,False,False
+1996-01-27,South Africa,Algeria,Algeria,Tarek Lazizi,84.0,False,False
+1996-01-27,South Africa,Algeria,South Africa,John Moshoeu,85.0,False,False
+1996-01-27,Zambia,Egypt,Egypt,Samir Kamouna,43.0,False,False
+1996-01-27,Zambia,Egypt,Zambia,Elijah Litana,58.0,False,False
+1996-01-27,Zambia,Egypt,Zambia,Vincent Mutale,65.0,False,False
+1996-01-27,Zambia,Egypt,Zambia,Dennis Lota,76.0,False,False
+1996-01-28,Gabon,Tunisia,Tunisia,Zoubeir Baya,10.0,False,False
+1996-01-28,Gabon,Tunisia,Gabon,Brice Mackaya,16.0,False,False
+1996-01-28,Ghana,DR Congo,Ghana,Tony Yeboah,22.0,False,False
+1996-01-31,South Africa,Ghana,South Africa,John Moshoeu,22.0,False,False
+1996-01-31,South Africa,Ghana,South Africa,Shaun Bartlett,46.0,False,False
+1996-01-31,South Africa,Ghana,South Africa,John Moshoeu,87.0,False,False
+1996-01-31,Zambia,Tunisia,Tunisia,Adel Sellimi,16.0,False,False
+1996-01-31,Zambia,Tunisia,Tunisia,Zoubeir Baya,20.0,False,False
+1996-01-31,Zambia,Tunisia,Tunisia,Kaies Ghodhbane,47.0,False,False
+1996-01-31,Zambia,Tunisia,Zambia,Dennis Lota,68.0,False,False
+1996-01-31,Zambia,Tunisia,Tunisia,Adel Sellimi,85.0,False,True
+1996-01-31,Zambia,Tunisia,Zambia,Hillary Makasa,90.0,False,False
+1996-02-03,South Africa,Tunisia,South Africa,Mark Williams,73.0,False,False
+1996-02-03,South Africa,Tunisia,South Africa,Mark Williams,75.0,False,False
+1996-02-03,Zambia,Ghana,Zambia,Johnson Bwalya,51.0,False,False
+1998-02-07,Burkina Faso,Cameroon,Cameroon,Alphonse Tchami,20.0,False,False
+1998-02-08,Algeria,Guinea,Guinea,Souleymane Oularé,19.0,False,False
+1998-02-08,Ivory Coast,Namibia,Ivory Coast,Joël Tiéhi,2.0,False,False
+1998-02-08,Ivory Coast,Namibia,Ivory Coast,Ibrahima Bakayoko,34.0,False,False
+1998-02-08,Ivory Coast,Namibia,Ivory Coast,Joël Tiéhi,39.0,False,False
+1998-02-08,Ivory Coast,Namibia,Namibia,Eliphas Shivute,46.0,False,False
+1998-02-08,Ivory Coast,Namibia,Namibia,Ricardo Mannetti,70.0,False,False
+1998-02-08,Ivory Coast,Namibia,Namibia,Eliphas Shivute,73.0,False,False
+1998-02-08,Ivory Coast,Namibia,Ivory Coast,Lassina Diabaté,83.0,False,False
+1998-02-09,DR Congo,Togo,DR Congo,Jerry Tondelua,57.0,False,True
+1998-02-09,DR Congo,Togo,DR Congo,Jerry Tondelua,73.0,False,True
+1998-02-09,DR Congo,Togo,Togo,Massamasso Tchangai,90.0,False,False
+1998-02-09,Ghana,Tunisia,Ghana,Alex Nyarko,8.0,False,False
+1998-02-09,Ghana,Tunisia,Ghana,Mohammed Gargo,90.0,False,False
+1998-02-09,Zambia,Morocco,Morocco,Ahmed Bahja,37.0,False,False
+1998-02-09,Zambia,Morocco,Zambia,Tenant Chilumba,87.0,False,False
+1998-02-10,Egypt,Mozambique,Egypt,Hossam Hassan,14.0,False,False
+1998-02-10,Egypt,Mozambique,Egypt,Hossam Hassan,44.0,False,False
+1998-02-11,Burkina Faso,Algeria,Burkina Faso,Kassoum Ouédraogo,65.0,False,True
+1998-02-11,Burkina Faso,Algeria,Burkina Faso,Seydou Traoré,77.0,False,False
+1998-02-11,Burkina Faso,Algeria,Algeria,Moussa Saïb,82.0,False,True
+1998-02-11,Cameroon,Guinea,Cameroon,Alphonse Tchami,9.0,False,False
+1998-02-11,Cameroon,Guinea,Cameroon,Pierre Womé,44.0,False,False
+1998-02-11,Cameroon,Guinea,Guinea,Souleymane Oularé,46.0,False,False
+1998-02-11,Cameroon,Guinea,Guinea,Souleymane Oularé,77.0,False,False
+1998-02-11,South Africa,Ivory Coast,South Africa,Helman Mkhalele,8.0,False,True
+1998-02-11,South Africa,Ivory Coast,Ivory Coast,Ahmed Ouattara,88.0,False,False
+1998-02-12,Angola,Namibia,Namibia,Gervatius Uri Khob,20.0,False,False
+1998-02-12,Angola,Namibia,Namibia,Robert Nauseb,33.0,False,False
+1998-02-12,Angola,Namibia,Angola,Lázaro Oliveira,46.0,False,False
+1998-02-12,Angola,Namibia,Namibia,Gervatius Uri Khob,51.0,False,False
+1998-02-12,Angola,Namibia,Angola,Paulo Jorge Da Silva,67.0,False,True
+1998-02-12,Angola,Namibia,Angola,Miguel Pereira,86.0,False,False
+1998-02-12,Ghana,Togo,Togo,Franck Doté,26.0,False,False
+1998-02-12,Ghana,Togo,Ghana,Samuel Johnson,83.0,False,True
+1998-02-12,Ghana,Togo,Togo,Mohamed Kader,90.0,False,False
+1998-02-12,Tunisia,DR Congo,Tunisia,Mehdi Ben Slimane,31.0,False,False
+1998-02-12,Tunisia,DR Congo,DR Congo,Papi Kimoto,36.0,False,False
+1998-02-12,Tunisia,DR Congo,Tunisia,Ziad Tlemçani,76.0,False,False
+1998-02-13,Morocco,Mozambique,Morocco,Saïd Chiba,39.0,False,False
+1998-02-13,Morocco,Mozambique,Morocco,Ali Elkhattabi,40.0,False,False
+1998-02-13,Morocco,Mozambique,Morocco,Youssef Fertout,82.0,False,False
+1998-02-13,Zambia,Egypt,Egypt,Hossam Hassan,34.0,False,False
+1998-02-13,Zambia,Egypt,Egypt,Hossam Hassan,57.0,False,False
+1998-02-13,Zambia,Egypt,Egypt,Hossam Hassan,71.0,False,False
+1998-02-13,Zambia,Egypt,Egypt,Yasser Radwan,80.0,False,False
+1998-02-15,Burkina Faso,Guinea,Burkina Faso,Romeo Kambou,85.0,False,False
+1998-02-15,Cameroon,Algeria,Algeria,Billel Dziri,40.0,False,False
+1998-02-15,Cameroon,Algeria,Cameroon,Joseph-Désiré Job,47.0,False,False
+1998-02-15,Cameroon,Algeria,Cameroon,Alphonse Tchami,65.0,False,False
+1998-02-16,Ghana,DR Congo,DR Congo,Bijou Kisombe Mundaba,77.0,False,False
+1998-02-16,Ivory Coast,Angola,Ivory Coast,Tchiressoua Guel,8.0,False,False
+1998-02-16,Ivory Coast,Angola,Ivory Coast,Tchiressoua Guel,23.0,False,False
+1998-02-16,Ivory Coast,Angola,Angola,Paulo Jorge Da Silva,27.0,False,False
+1998-02-16,Ivory Coast,Angola,Ivory Coast,Joël Tiéhi,43.0,False,False
+1998-02-16,Ivory Coast,Angola,Angola,Quinzinho,52.0,False,False
+1998-02-16,Ivory Coast,Angola,Ivory Coast,Ibrahima Bakayoko,56.0,False,False
+1998-02-16,Ivory Coast,Angola,Ivory Coast,Joël Tiéhi,81.0,False,True
+1998-02-16,South Africa,Namibia,South Africa,Benni McCarthy,8.0,False,False
+1998-02-16,South Africa,Namibia,South Africa,Benni McCarthy,11.0,False,False
+1998-02-16,South Africa,Namibia,South Africa,Benni McCarthy,19.0,False,False
+1998-02-16,South Africa,Namibia,South Africa,Benni McCarthy,21.0,False,False
+1998-02-16,South Africa,Namibia,Namibia,Simon Uutoni,68.0,False,False
+1998-02-16,Tunisia,Togo,Togo,Komlan Assignon,4.0,False,True
+1998-02-16,Tunisia,Togo,Tunisia,Ziad Tlemçani,9.0,False,False
+1998-02-16,Tunisia,Togo,Tunisia,Mehdi Ben Slimane,12.0,False,False
+1998-02-16,Tunisia,Togo,Tunisia,Hassen Gabsi,80.0,False,False
+1998-02-17,Egypt,Morocco,Morocco,Mustapha Hadji,90.0,False,False
+1998-02-17,Zambia,Mozambique,Zambia,Rotson Kilambe,16.0,False,False
+1998-02-17,Zambia,Mozambique,Zambia,Kalusha Bwalya,43.0,False,False
+1998-02-17,Zambia,Mozambique,Mozambique,Avelino Salvador Maluana,57.0,False,False
+1998-02-17,Zambia,Mozambique,Zambia,Masauso Tembo,73.0,False,False
+1998-02-20,Cameroon,DR Congo,DR Congo,Jerry Tondelua,30.0,False,False
+1998-02-21,Burkina Faso,Tunisia,Burkina Faso,Kassoum Ouédraogo,45.0,False,True
+1998-02-21,Burkina Faso,Tunisia,Tunisia,Hassen Gabsi,89.0,False,False
+1998-02-22,Morocco,South Africa,South Africa,Benni McCarthy,22.0,False,False
+1998-02-22,Morocco,South Africa,Morocco,Saïd Chiba,36.0,False,False
+1998-02-22,Morocco,South Africa,South Africa,David Nyathi,79.0,False,False
+1998-02-25,Burkina Faso,Egypt,Egypt,Hossam Hassan,40.0,False,False
+1998-02-25,Burkina Faso,Egypt,Egypt,Hossam Hassan,71.0,False,False
+1998-02-25,DR Congo,South Africa,DR Congo,Eddy Bembuana-Keve,48.0,False,False
+1998-02-25,DR Congo,South Africa,South Africa,Benni McCarthy,60.0,False,False
+1998-02-25,DR Congo,South Africa,South Africa,Benni McCarthy,112.0,False,False
+1998-02-27,Burkina Faso,DR Congo,Burkina Faso,Alassane Ouédraogo,6.0,False,False
+1998-02-27,Burkina Faso,DR Congo,Burkina Faso,Oumar Barro,52.0,False,False
+1998-02-27,Burkina Faso,DR Congo,Burkina Faso,Sidi Napon,56.0,False,False
+1998-02-27,Burkina Faso,DR Congo,DR Congo,Lokenge Mungongo,76.0,False,False
+1998-02-27,Burkina Faso,DR Congo,Burkina Faso,Ibrahima Tallé,86.0,False,False
+1998-02-27,Burkina Faso,DR Congo,DR Congo,Jean-Kasongo Banza,88.0,False,False
+1998-02-27,Burkina Faso,DR Congo,DR Congo,Jerry Tondelua,89.0,False,False
+1998-02-27,Burkina Faso,DR Congo,DR Congo,Lokenge Mungongo,90.0,False,False
+1998-02-28,South Africa,Egypt,Egypt,Ahmed Hassan,5.0,False,False
+1998-02-28,South Africa,Egypt,Egypt,Tarek Mostafa,13.0,False,False
+2000-01-22,Ghana,Cameroon,Cameroon,Marc-Vivien Foé,19.0,False,False
+2000-01-22,Ghana,Cameroon,Ghana,Kwame Ayew,57.0,False,False
+2000-01-23,Egypt,Zambia,Egypt,Yasser Radwan,37.0,False,False
+2000-01-23,Egypt,Zambia,Egypt,Hossam Hassan,50.0,False,False
+2000-01-23,Nigeria,Tunisia,Nigeria,Jay-Jay Okocha,28.0,False,False
+2000-01-23,Nigeria,Tunisia,Tunisia,Adel Sellimi,49.0,False,False
+2000-01-23,Nigeria,Tunisia,Nigeria,Jay-Jay Okocha,58.0,False,False
+2000-01-23,Nigeria,Tunisia,Nigeria,Victor Ikpeba,71.0,False,False
+2000-01-23,Nigeria,Tunisia,Nigeria,Victor Ikpeba,77.0,False,False
+2000-01-23,Nigeria,Tunisia,Tunisia,Zoubeir Baya,90.0,False,False
+2000-01-23,South Africa,Gabon,Gabon,Shiva N'Zigou,21.0,False,False
+2000-01-23,South Africa,Gabon,South Africa,Dumisa Ngobe,43.0,False,False
+2000-01-23,South Africa,Gabon,South Africa,Shaun Bartlett,55.0,False,False
+2000-01-23,South Africa,Gabon,South Africa,Shaun Bartlett,78.0,False,False
+2000-01-24,Ivory Coast,Togo,Togo,Lantame Ouadja,19.0,False,False
+2000-01-24,Ivory Coast,Togo,Ivory Coast,Tchiressoua Guel,38.0,False,True
+2000-01-25,Burkina Faso,Senegal,Senegal,Henri Camara,4.0,False,False
+2000-01-25,Burkina Faso,Senegal,Senegal,Pape Sarr,45.0,False,False
+2000-01-25,Burkina Faso,Senegal,Burkina Faso,Ousmane Sanou,65.0,False,False
+2000-01-25,Burkina Faso,Senegal,Senegal,Salif Keita,86.0,False,False
+2000-01-25,Morocco,Congo,Morocco,Salaheddine Bassir,85.0,False,False
+2000-01-27,Ghana,Togo,Ghana,Kwame Ayew,28.0,False,False
+2000-01-27,Ghana,Togo,Ghana,Otto Addo,37.0,False,False
+2000-01-27,South Africa,DR Congo,South Africa,Shaun Bartlett,44.0,False,False
+2000-01-28,Cameroon,Ivory Coast,Cameroon,Raymond Kalla,29.0,False,False
+2000-01-28,Cameroon,Ivory Coast,Cameroon,Samuel Eto'o,45.0,False,False
+2000-01-28,Cameroon,Ivory Coast,Cameroon,Patrick M'Boma,90.0,False,False
+2000-01-28,Egypt,Senegal,Egypt,Hossam Hassan,39.0,False,False
+2000-01-29,Algeria,Gabon,Algeria,Farid Ghazi,12.0,False,False
+2000-01-29,Algeria,Gabon,Algeria,Abdelhafid Tasfaout,41.0,False,False
+2000-01-29,Algeria,Gabon,Algeria,Billel Dziri,89.0,False,False
+2000-01-29,Algeria,Gabon,Gabon,Bruno Zita Mbanangoyé,89.0,False,False
+2000-01-29,Zambia,Burkina Faso,Zambia,Dennis Lota,16.0,False,False
+2000-01-29,Zambia,Burkina Faso,Burkina Faso,Alassane Ouédraogo,90.0,False,False
+2000-01-31,Cameroon,Togo,Togo,Massamasso Tchangai,18.0,False,False
+2000-01-31,Ghana,Ivory Coast,Ivory Coast,Bonaventure Kalou,45.0,False,False
+2000-01-31,Ghana,Ivory Coast,Ivory Coast,Donald-Olivier Sié,84.0,False,False
+2000-02-01,Egypt,Burkina Faso,Burkina Faso,Ismaël Koudou,10.0,False,False
+2000-02-01,Egypt,Burkina Faso,Burkina Faso,Ousmane Sanou,24.0,False,False
+2000-02-01,Egypt,Burkina Faso,Egypt,Ahmed Salah Hosny,30.0,False,False
+2000-02-01,Egypt,Burkina Faso,Egypt,Hossam Hassan,75.0,False,True
+2000-02-01,Egypt,Burkina Faso,Egypt,Hany Ramzy,85.0,False,False
+2000-02-01,Egypt,Burkina Faso,Egypt,Abdel Halim Ali,90.0,False,False
+2000-02-01,Zambia,Senegal,Senegal,Henri Camara,47.0,False,False
+2000-02-01,Zambia,Senegal,Zambia,Laughter Chilembe,52.0,False,False
+2000-02-01,Zambia,Senegal,Senegal,Abdoulaye M'Baye,80.0,False,False
+2000-02-01,Zambia,Senegal,Zambia,Kalusha Bwalya,87.0,False,True
+2000-02-02,South Africa,Algeria,South Africa,Shaun Bartlett,2.0,False,False
+2000-02-02,South Africa,Algeria,Algeria,Fawzi Moussouni,53.0,False,False
+2000-02-03,Nigeria,Morocco,Nigeria,Finidi George,28.0,False,False
+2000-02-03,Nigeria,Morocco,Nigeria,Julius Aghahowa,81.0,False,False
+2000-02-03,Tunisia,Congo,Tunisia,Radhi Jaïdi,18.0,False,False
+2000-02-06,Cameroon,Algeria,Cameroon,Samuel Eto'o,7.0,False,False
+2000-02-06,Cameroon,Algeria,Cameroon,Marc-Vivien Foé,24.0,False,False
+2000-02-06,Cameroon,Algeria,Algeria,Abdelhafid Tasfaout,79.0,False,False
+2000-02-06,Ghana,South Africa,South Africa,Siyabonga Nomvethe,42.0,False,False
+2000-02-07,Egypt,Tunisia,Tunisia,Khaled Badra,22.0,False,True
+2000-02-07,Nigeria,Senegal,Senegal,Khalilou Fadiga,7.0,False,False
+2000-02-07,Nigeria,Senegal,Nigeria,Julius Aghahowa,85.0,False,False
+2000-02-07,Nigeria,Senegal,Nigeria,Julius Aghahowa,92.0,False,False
+2000-02-10,Cameroon,Tunisia,Cameroon,Patrick M'Boma,49.0,False,False
+2000-02-10,Cameroon,Tunisia,Cameroon,Samuel Eto'o,81.0,False,False
+2000-02-10,Cameroon,Tunisia,Cameroon,Patrick M'Boma,85.0,False,False
+2000-02-10,Nigeria,South Africa,Nigeria,Tijani Babangida,1.0,False,False
+2000-02-10,Nigeria,South Africa,Nigeria,Tijani Babangida,34.0,False,False
+2000-02-12,South Africa,Tunisia,South Africa,Shaun Bartlett,11.0,False,False
+2000-02-12,South Africa,Tunisia,Tunisia,Ali Zitouni,27.0,False,False
+2000-02-12,South Africa,Tunisia,South Africa,Siyabonga Nomvethe,62.0,False,False
+2000-02-12,South Africa,Tunisia,Tunisia,Ali Zitouni,89.0,False,False
+2000-02-13,Nigeria,Cameroon,Cameroon,Samuel Eto'o,26.0,False,False
+2000-02-13,Nigeria,Cameroon,Cameroon,Patrick M'Boma,31.0,False,False
+2000-02-13,Nigeria,Cameroon,Nigeria,Raphael Chukwu,45.0,False,False
+2000-02-13,Nigeria,Cameroon,Nigeria,Jay-Jay Okocha,47.0,False,False
+2002-01-19,Mali,Liberia,Liberia,George Weah,45.0,False,False
+2002-01-19,Mali,Liberia,Mali,Seydou Keita,87.0,False,False
+2002-01-20,Cameroon,DR Congo,Cameroon,Patrick M'Boma,40.0,False,False
+2002-01-20,Egypt,Senegal,Senegal,Lamine Diatta,82.0,False,False
+2002-01-21,Algeria,Nigeria,Nigeria,Julius Aghahowa,43.0,False,False
+2002-01-25,Cameroon,Ivory Coast,Cameroon,Patrick M'Boma,85.0,False,False
+2002-01-25,Egypt,Tunisia,Egypt,Hazem Emam,23.0,False,False
+2002-01-25,Liberia,Algeria,Liberia,Prince Akim Daye,7.0,False,False
+2002-01-25,Liberia,Algeria,Algeria,Nassim Akrour,45.0,False,False
+2002-01-25,Liberia,Algeria,Liberia,Kelvin Sebwe,72.0,False,False
+2002-01-25,Liberia,Algeria,Algeria,Nasreddine Kraouche,90.0,False,False
+2002-01-26,Burkina Faso,Morocco,Morocco,Hicham Zerouali,23.0,False,False
+2002-01-26,Burkina Faso,Morocco,Burkina Faso,Moumouni Dagano,58.0,False,False
+2002-01-26,Burkina Faso,Morocco,Morocco,Hicham Zerouali,85.0,False,False
+2002-01-26,Senegal,Zambia,Senegal,Souleymane Camara,90.0,False,False
+2002-01-28,Liberia,Nigeria,Nigeria,Julius Aghahowa,63.0,False,False
+2002-01-28,Mali,Algeria,Mali,Mamadou Bagayoko,18.0,False,False
+2002-01-28,Mali,Algeria,Mali,Bassala Touré,24.0,False,False
+2002-01-29,Cameroon,Togo,Cameroon,Lucien Mettomo,52.0,False,False
+2002-01-29,Cameroon,Togo,Cameroon,Samuel Eto'o,80.0,False,False
+2002-01-29,Cameroon,Togo,Cameroon,Salomon Olembé,89.0,False,False
+2002-01-29,DR Congo,Ivory Coast,DR Congo,Yves Yuvuladio,28.0,False,False
+2002-01-29,DR Congo,Ivory Coast,DR Congo,Shabani Nonda,66.0,False,False
+2002-01-29,DR Congo,Ivory Coast,DR Congo,Papi Kimoto,81.0,False,True
+2002-01-29,DR Congo,Ivory Coast,Ivory Coast,Kandia Traoré,86.0,False,False
+2002-01-30,Burkina Faso,Ghana,Burkina Faso,Koh Traoré,81.0,False,False
+2002-01-30,Burkina Faso,Ghana,Ghana,Isaac Boakye,90.0,False,False
+2002-01-30,Burkina Faso,Ghana,Ghana,Isaac Boakye,90.0,False,False
+2002-01-30,South Africa,Morocco,South Africa,Sibusiso Zuma,42.0,False,False
+2002-01-30,South Africa,Morocco,South Africa,Thabo Mngomeni,48.0,False,False
+2002-01-30,South Africa,Morocco,South Africa,Siyabonga Nomvethe,51.0,False,False
+2002-01-30,South Africa,Morocco,Morocco,Rachid Benmahmoud,77.0,False,True
+2002-01-31,Egypt,Zambia,Egypt,Mido,35.0,False,False
+2002-01-31,Egypt,Zambia,Egypt,Hazem Emam,53.0,False,False
+2002-01-31,Egypt,Zambia,Zambia,Gift Kampamba,89.0,False,False
+2002-02-03,Mali,South Africa,Mali,Bassala Touré,60.0,False,False
+2002-02-03,Mali,South Africa,Mali,Dramane Coulibaly,90.0,False,False
+2002-02-03,Nigeria,Ghana,Nigeria,Garba Lawal,80.0,False,False
+2002-02-04,Cameroon,Egypt,Cameroon,Patrick M'Boma,62.0,False,False
+2002-02-04,Senegal,DR Congo,Senegal,Salif Diao,30.0,False,False
+2002-02-04,Senegal,DR Congo,Senegal,El Hadji Diouf,86.0,False,False
+2002-02-07,Mali,Cameroon,Cameroon,Salomon Olembé,39.0,False,False
+2002-02-07,Mali,Cameroon,Cameroon,Salomon Olembé,45.0,False,False
+2002-02-07,Mali,Cameroon,Cameroon,Marc-Vivien Foé,84.0,False,False
+2002-02-07,Nigeria,Senegal,Senegal,Papa Bouba Diop,54.0,False,False
+2002-02-07,Nigeria,Senegal,Nigeria,Julius Aghahowa,88.0,False,False
+2002-02-07,Nigeria,Senegal,Senegal,Salif Diao,97.0,False,False
+2002-02-09,Mali,Nigeria,Nigeria,Yakubu,29.0,False,False
+2004-01-24,Tunisia,Rwanda,Tunisia,Ziad Jaziri,27.0,False,False
+2004-01-24,Tunisia,Rwanda,Rwanda,João Elias,41.0,False,False
+2004-01-24,Tunisia,Rwanda,Tunisia,Francileudo Santos,57.0,False,False
+2004-01-25,Cameroon,Algeria,Cameroon,Patrick M'Boma,43.0,False,False
+2004-01-25,Cameroon,Algeria,Algeria,Brahim Zafour,52.0,False,False
+2004-01-25,DR Congo,Guinea,DR Congo,Alain Masudi,35.0,False,False
+2004-01-25,DR Congo,Guinea,Guinea,Titi Camara,68.0,False,False
+2004-01-25,DR Congo,Guinea,Guinea,Pascal Feindouno,81.0,False,False
+2004-01-25,Zimbabwe,Egypt,Zimbabwe,Peter Ndlovu,46.0,False,False
+2004-01-25,Zimbabwe,Egypt,Egypt,Tamer Abdel Hamid,58.0,False,False
+2004-01-25,Zimbabwe,Egypt,Egypt,Mohamed Barakat,63.0,False,False
+2004-01-26,Kenya,Mali,Mali,Mohamed Sissoko,28.0,False,False
+2004-01-26,Kenya,Mali,Kenya,Titus Mulama,58.0,False,False
+2004-01-26,Kenya,Mali,Mali,Frédéric Kanouté,63.0,False,False
+2004-01-26,Kenya,Mali,Mali,Frédéric Kanouté,81.0,False,False
+2004-01-27,Nigeria,Morocco,Morocco,Youssouf Hadji,77.0,False,False
+2004-01-27,South Africa,Benin,South Africa,Siyabonga Nomvethe,58.0,False,False
+2004-01-27,South Africa,Benin,South Africa,Siyabonga Nomvethe,76.0,False,False
+2004-01-28,Rwanda,Guinea,Guinea,Titi Camara,49.0,False,False
+2004-01-28,Rwanda,Guinea,Rwanda,Karim Kamanzi,90.0,False,False
+2004-01-28,Tunisia,DR Congo,Tunisia,Francileudo Santos,55.0,False,False
+2004-01-28,Tunisia,DR Congo,Tunisia,Najeh Braham,65.0,False,False
+2004-01-28,Tunisia,DR Congo,Tunisia,Francileudo Santos,87.0,False,False
+2004-01-29,Algeria,Egypt,Algeria,Mamar Mamouni,13.0,False,False
+2004-01-29,Algeria,Egypt,Egypt,Ahmed Belal,25.0,False,False
+2004-01-29,Algeria,Egypt,Algeria,Hocine Achiou,86.0,False,False
+2004-01-29,Cameroon,Zimbabwe,Zimbabwe,Peter Ndlovu,8.0,False,False
+2004-01-29,Cameroon,Zimbabwe,Cameroon,Patrick M'Boma,31.0,False,False
+2004-01-29,Cameroon,Zimbabwe,Cameroon,Modeste M'Bami,40.0,False,False
+2004-01-29,Cameroon,Zimbabwe,Cameroon,Patrick M'Boma,44.0,False,False
+2004-01-29,Cameroon,Zimbabwe,Zimbabwe,Peter Ndlovu,47.0,False,True
+2004-01-29,Cameroon,Zimbabwe,Cameroon,Patrick M'Boma,65.0,False,False
+2004-01-29,Cameroon,Zimbabwe,Cameroon,Modeste M'Bami,67.0,False,False
+2004-01-29,Cameroon,Zimbabwe,Zimbabwe,Esrom Nyandoro,89.0,False,False
+2004-01-30,Burkina Faso,Mali,Mali,Frédéric Kanouté,34.0,False,False
+2004-01-30,Burkina Faso,Mali,Mali,Mahamadou Diarra,37.0,False,False
+2004-01-30,Burkina Faso,Mali,Burkina Faso,Dieudonné Minoungou,50.0,False,False
+2004-01-30,Burkina Faso,Mali,Mali,Soumaïla Coulibaly,78.0,False,False
+2004-01-30,Senegal,Kenya,Senegal,Mamadou Niang,4.0,False,False
+2004-01-30,Senegal,Kenya,Senegal,Papa Bouba Diop,19.0,False,False
+2004-01-30,Senegal,Kenya,Senegal,Mamadou Niang,31.0,False,False
+2004-01-31,Morocco,Benin,Morocco,Marouane Chamakh,17.0,False,False
+2004-01-31,Morocco,Benin,Morocco,Anicet Adjamossi,73.0,True,False
+2004-01-31,Morocco,Benin,Morocco,Abdeslam Ouaddou,75.0,False,False
+2004-01-31,Morocco,Benin,Morocco,Talal El Karkouri,80.0,False,False
+2004-01-31,Nigeria,South Africa,Nigeria,Joseph Yobo,4.0,False,False
+2004-01-31,Nigeria,South Africa,Nigeria,Jay-Jay Okocha,64.0,False,True
+2004-01-31,Nigeria,South Africa,Nigeria,Osaze Odemwingie,81.0,False,False
+2004-01-31,Nigeria,South Africa,Nigeria,Osaze Odemwingie,83.0,False,False
+2004-02-01,Rwanda,DR Congo,Rwanda,Saïd Makasi,74.0,False,False
+2004-02-01,Tunisia,Guinea,Tunisia,Selim Benachour,58.0,False,False
+2004-02-01,Tunisia,Guinea,Guinea,Titi Camara,84.0,False,False
+2004-02-02,Burkina Faso,Kenya,Kenya,Emmanuel Ake,51.0,False,False
+2004-02-02,Burkina Faso,Kenya,Kenya,Dennis Oliech,64.0,False,False
+2004-02-02,Burkina Faso,Kenya,Kenya,John Baraza,83.0,False,False
+2004-02-02,Senegal,Mali,Mali,Dramane Traoré,34.0,False,False
+2004-02-02,Senegal,Mali,Senegal,Habib Beye,45.0,False,False
+2004-02-03,Algeria,Zimbabwe,Zimbabwe,Adam Ndlovu,65.0,False,False
+2004-02-03,Algeria,Zimbabwe,Zimbabwe,Joel Lupahla,71.0,False,False
+2004-02-03,Algeria,Zimbabwe,Algeria,Hocine Achiou,73.0,False,False
+2004-02-04,Morocco,South Africa,South Africa,Patrick Mayo,29.0,False,False
+2004-02-04,Morocco,South Africa,Morocco,Youssef Safri,38.0,False,True
+2004-02-04,Nigeria,Benin,Nigeria,Garba Lawal,35.0,False,False
+2004-02-04,Nigeria,Benin,Nigeria,John Utaka,76.0,False,False
+2004-02-04,Nigeria,Benin,Benin,Moussa Latoundji,90.0,False,False
+2004-02-07,Mali,Guinea,Guinea,Pascal Feindouno,15.0,False,False
+2004-02-07,Mali,Guinea,Mali,Frédéric Kanouté,45.0,False,False
+2004-02-07,Mali,Guinea,Mali,Mahamadou Diarra,90.0,False,False
+2004-02-07,Tunisia,Senegal,Tunisia,Jawhar Mnari,65.0,False,False
+2004-02-08,Cameroon,Nigeria,Cameroon,Samuel Eto'o,42.0,False,False
+2004-02-08,Cameroon,Nigeria,Nigeria,Jay-Jay Okocha,45.0,False,False
+2004-02-08,Cameroon,Nigeria,Nigeria,John Utaka,73.0,False,False
+2004-02-08,Morocco,Algeria,Algeria,Abdelmalek Cherrad,84.0,False,False
+2004-02-08,Morocco,Algeria,Morocco,Marouane Chamakh,90.0,False,False
+2004-02-08,Morocco,Algeria,Morocco,Youssouf Hadji,113.0,False,False
+2004-02-08,Morocco,Algeria,Morocco,Jaouad Zairi,120.0,False,False
+2004-02-11,Morocco,Mali,Morocco,Youssef Mokhtari,14.0,False,False
+2004-02-11,Morocco,Mali,Morocco,Youssef Mokhtari,58.0,False,False
+2004-02-11,Morocco,Mali,Morocco,Youssouf Hadji,80.0,False,False
+2004-02-11,Morocco,Mali,Morocco,Nabil Baha,90.0,False,False
+2004-02-11,Tunisia,Nigeria,Nigeria,Jay-Jay Okocha,67.0,False,True
+2004-02-11,Tunisia,Nigeria,Tunisia,Khaled Badra,82.0,False,True
+2004-02-13,Nigeria,Mali,Nigeria,Jay-Jay Okocha,16.0,False,False
+2004-02-13,Nigeria,Mali,Nigeria,Osaze Odemwingie,52.0,False,False
+2004-02-13,Nigeria,Mali,Mali,Sedonoude Abouta,70.0,False,False
+2004-02-14,Tunisia,Morocco,Tunisia,Francileudo Santos,5.0,False,False
+2004-02-14,Tunisia,Morocco,Morocco,Youssef Mokhtari,38.0,False,False
+2004-02-14,Tunisia,Morocco,Tunisia,Ziad Jaziri,52.0,False,False
+2006-01-20,Egypt,Libya,Egypt,Mido,18.0,False,False
+2006-01-20,Egypt,Libya,Egypt,Mohamed Aboutrika,22.0,False,False
+2006-01-20,Egypt,Libya,Egypt,Ahmed Hassan,78.0,False,False
+2006-01-21,Cameroon,Angola,Cameroon,Samuel Eto'o,20.0,False,False
+2006-01-21,Cameroon,Angola,Angola,Flávio Amado,31.0,False,True
+2006-01-21,Cameroon,Angola,Cameroon,Samuel Eto'o,39.0,False,False
+2006-01-21,Cameroon,Angola,Cameroon,Samuel Eto'o,78.0,False,False
+2006-01-21,Morocco,Ivory Coast,Ivory Coast,Didier Drogba,39.0,False,True
+2006-01-21,Togo,DR Congo,DR Congo,Trésor Mputu,45.0,False,False
+2006-01-21,Togo,DR Congo,DR Congo,Lomana LuaLua,64.0,False,False
+2006-01-22,South Africa,Guinea,Guinea,Sambégou Bangoura,78.0,False,False
+2006-01-22,South Africa,Guinea,Guinea,Ousmane Bangoura,88.0,False,False
+2006-01-22,Tunisia,Zambia,Zambia,James Chamanga,9.0,False,False
+2006-01-22,Tunisia,Zambia,Tunisia,Francileudo Santos,35.0,False,False
+2006-01-22,Tunisia,Zambia,Tunisia,Riadh Bouazizi,53.0,False,False
+2006-01-22,Tunisia,Zambia,Tunisia,Francileudo Santos,82.0,False,False
+2006-01-22,Tunisia,Zambia,Tunisia,Francileudo Santos,90.0,False,False
+2006-01-23,Nigeria,Ghana,Nigeria,Taye Taiwo,85.0,False,False
+2006-01-23,Zimbabwe,Senegal,Senegal,Henri Camara,59.0,False,False
+2006-01-23,Zimbabwe,Senegal,Senegal,Issa Ba,80.0,False,False
+2006-01-24,Libya,Ivory Coast,Ivory Coast,Didier Drogba,10.0,False,False
+2006-01-24,Libya,Ivory Coast,Libya,Abdesalam Kames,42.0,False,False
+2006-01-24,Libya,Ivory Coast,Ivory Coast,Yaya Touré,74.0,False,False
+2006-01-25,Cameroon,Togo,Cameroon,Samuel Eto'o,68.0,False,False
+2006-01-25,Cameroon,Togo,Cameroon,Albert Meyong,85.0,False,False
+2006-01-26,Tunisia,South Africa,Tunisia,Francileudo Santos,32.0,False,False
+2006-01-26,Tunisia,South Africa,Tunisia,Selim Benachour,58.0,False,False
+2006-01-26,Zambia,Guinea,Zambia,Elijah Tana,33.0,False,False
+2006-01-26,Zambia,Guinea,Guinea,Pascal Feindouno,73.0,False,True
+2006-01-26,Zambia,Guinea,Guinea,Pascal Feindouno,90.0,False,False
+2006-01-27,Ghana,Senegal,Ghana,Matthew Amoah,13.0,False,False
+2006-01-27,Nigeria,Zimbabwe,Nigeria,Christian Obodo,57.0,False,False
+2006-01-27,Nigeria,Zimbabwe,Nigeria,Mikel John Obi,60.0,False,False
+2006-01-28,Egypt,Ivory Coast,Egypt,Emad Moteab,8.0,False,False
+2006-01-28,Egypt,Ivory Coast,Ivory Coast,Arouna Koné,43.0,False,False
+2006-01-28,Egypt,Ivory Coast,Egypt,Mohamed Aboutrika,61.0,False,False
+2006-01-28,Egypt,Ivory Coast,Egypt,Emad Moteab,69.0,False,False
+2006-01-29,Angola,Togo,Angola,Flávio Amado,9.0,False,False
+2006-01-29,Angola,Togo,Togo,Mohamed Kader,24.0,False,False
+2006-01-29,Angola,Togo,Angola,Flávio Amado,38.0,False,False
+2006-01-29,Angola,Togo,Togo,Chérif Touré Mamam,67.0,False,False
+2006-01-29,Angola,Togo,Angola,Norberto Maurito,86.0,False,False
+2006-01-29,Cameroon,DR Congo,Cameroon,Geremi,31.0,False,False
+2006-01-29,Cameroon,DR Congo,Cameroon,Samuel Eto'o,33.0,False,False
+2006-01-30,Tunisia,Guinea,Guinea,Ousmane Bangoura,16.0,False,False
+2006-01-30,Tunisia,Guinea,Guinea,Pascal Feindouno,70.0,False,False
+2006-01-30,Tunisia,Guinea,Guinea,Kaba Diawara,90.0,False,False
+2006-01-30,Zambia,South Africa,Zambia,Christopher Katongo,75.0,False,False
+2006-01-31,Ghana,Zimbabwe,Zimbabwe,Issah Gabriel Ahmed,60.0,True,False
+2006-01-31,Ghana,Zimbabwe,Zimbabwe,Benjani Mwaruwari,68.0,False,False
+2006-01-31,Ghana,Zimbabwe,Ghana,Baba Adamu,90.0,False,False
+2006-01-31,Nigeria,Senegal,Senegal,Souleymane Camara,58.0,False,False
+2006-01-31,Nigeria,Senegal,Nigeria,Obafemi Martins,79.0,False,False
+2006-01-31,Nigeria,Senegal,Nigeria,Obafemi Martins,88.0,False,False
+2006-02-03,Egypt,DR Congo,Egypt,Ahmed Hassan,33.0,False,True
+2006-02-03,Egypt,DR Congo,Egypt,Hossam Hassan,39.0,False,False
+2006-02-03,Egypt,DR Congo,DR Congo,Abdel-Zaher El-Saqqa,45.0,True,False
+2006-02-03,Egypt,DR Congo,Egypt,Emad Moteab,58.0,False,False
+2006-02-03,Egypt,DR Congo,Egypt,Ahmed Hassan,89.0,False,False
+2006-02-03,Guinea,Senegal,Guinea,Kaba Diawara,24.0,False,False
+2006-02-03,Guinea,Senegal,Senegal,Papa Bouba Diop,61.0,False,False
+2006-02-03,Guinea,Senegal,Senegal,Mamadou Niang,83.0,False,False
+2006-02-03,Guinea,Senegal,Guinea,Pascal Feindouno,90.0,False,False
+2006-02-03,Guinea,Senegal,Senegal,Henri Camara,90.0,False,False
+2006-02-04,Cameroon,Ivory Coast,Ivory Coast,Bakari Koné,92.0,False,False
+2006-02-04,Cameroon,Ivory Coast,Cameroon,Albert Meyong,95.0,False,False
+2006-02-04,Nigeria,Tunisia,Nigeria,Victor Obinna,6.0,False,False
+2006-02-04,Nigeria,Tunisia,Tunisia,Karim Haggui,49.0,False,False
+2006-02-07,Egypt,Senegal,Egypt,Ahmed Hassan,37.0,False,True
+2006-02-07,Egypt,Senegal,Senegal,Mamadou Niang,52.0,False,False
+2006-02-07,Egypt,Senegal,Egypt,Amr Zaki,81.0,False,False
+2006-02-07,Nigeria,Ivory Coast,Ivory Coast,Didier Drogba,47.0,False,False
+2006-02-09,Senegal,Nigeria,Nigeria,Garba Lawal,79.0,False,False
+2008-01-20,Ghana,Guinea,Ghana,Asamoah Gyan,55.0,False,True
+2008-01-20,Ghana,Guinea,Guinea,Oumar Kalabane,65.0,False,False
+2008-01-20,Ghana,Guinea,Ghana,Sulley Muntari,90.0,False,False
+2008-01-21,Mali,Benin,Mali,Frédéric Kanouté,49.0,False,True
+2008-01-21,Namibia,Morocco,Morocco,Soufiane Alloudi,1.0,False,False
+2008-01-21,Namibia,Morocco,Morocco,Soufiane Alloudi,5.0,False,False
+2008-01-21,Namibia,Morocco,Namibia,Brian Brendell,24.0,False,False
+2008-01-21,Namibia,Morocco,Morocco,Soufiane Alloudi,28.0,False,False
+2008-01-21,Namibia,Morocco,Morocco,Tarik Sektioui,40.0,False,True
+2008-01-21,Namibia,Morocco,Morocco,Monsef Zerka,74.0,False,False
+2008-01-21,Nigeria,Ivory Coast,Ivory Coast,Salomon Kalou,66.0,False,False
+2008-01-22,Egypt,Cameroon,Egypt,Hosny Abd Rabo,14.0,False,True
+2008-01-22,Egypt,Cameroon,Egypt,Mohamed Zidan,17.0,False,False
+2008-01-22,Egypt,Cameroon,Egypt,Mohamed Zidan,45.0,False,False
+2008-01-22,Egypt,Cameroon,Cameroon,Samuel Eto'o,51.0,False,False
+2008-01-22,Egypt,Cameroon,Egypt,Hosny Abd Rabo,82.0,False,False
+2008-01-22,Egypt,Cameroon,Cameroon,Samuel Eto'o,90.0,False,True
+2008-01-22,Sudan,Zambia,Zambia,James Chamanga,2.0,False,False
+2008-01-22,Sudan,Zambia,Zambia,Jacob Mulenga,50.0,False,False
+2008-01-22,Sudan,Zambia,Zambia,Felix Katongo,59.0,False,False
+2008-01-23,South Africa,Angola,Angola,Manucho,29.0,False,False
+2008-01-23,South Africa,Angola,South Africa,Elrio van Heerden,87.0,False,False
+2008-01-23,Tunisia,Senegal,Tunisia,Issam Jemâa,9.0,False,False
+2008-01-23,Tunisia,Senegal,Senegal,Moustapha Bayal Sall,45.0,False,False
+2008-01-23,Tunisia,Senegal,Senegal,Diomansy Kamara,66.0,False,False
+2008-01-23,Tunisia,Senegal,Tunisia,Mejdi Traoui,82.0,False,False
+2008-01-24,Ghana,Namibia,Ghana,Junior Agogo,41.0,False,False
+2008-01-24,Guinea,Morocco,Guinea,Pascal Feindouno,11.0,False,False
+2008-01-24,Guinea,Morocco,Guinea,Ismaël Bangoura,59.0,False,False
+2008-01-24,Guinea,Morocco,Morocco,Hicham Aboucherouane,60.0,False,False
+2008-01-24,Guinea,Morocco,Guinea,Pascal Feindouno,63.0,False,True
+2008-01-24,Guinea,Morocco,Morocco,Abdeslam Ouaddou,90.0,False,False
+2008-01-25,Ivory Coast,Benin,Ivory Coast,Didier Drogba,40.0,False,False
+2008-01-25,Ivory Coast,Benin,Ivory Coast,Yaya Touré,44.0,False,False
+2008-01-25,Ivory Coast,Benin,Ivory Coast,Abdul Kader Keïta,53.0,False,False
+2008-01-25,Ivory Coast,Benin,Ivory Coast,Aruna Dindane,63.0,False,False
+2008-01-25,Ivory Coast,Benin,Benin,Razak Omotoyossi,90.0,False,False
+2008-01-26,Cameroon,Zambia,Cameroon,Geremi Njitap,28.0,False,False
+2008-01-26,Cameroon,Zambia,Cameroon,Joseph-Désiré Job,32.0,False,False
+2008-01-26,Cameroon,Zambia,Cameroon,Achille Emaná,44.0,False,False
+2008-01-26,Cameroon,Zambia,Cameroon,Samuel Eto'o,66.0,False,True
+2008-01-26,Cameroon,Zambia,Cameroon,Joseph-Désiré Job,82.0,False,False
+2008-01-26,Cameroon,Zambia,Zambia,Christopher Katongo,90.0,False,False
+2008-01-26,Egypt,Sudan,Egypt,Hosny Abd Rabo,29.0,False,True
+2008-01-26,Egypt,Sudan,Egypt,Mohamed Aboutrika,78.0,False,False
+2008-01-26,Egypt,Sudan,Egypt,Mohamed Aboutrika,83.0,False,False
+2008-01-27,Senegal,Angola,Senegal,Abdoulaye Faye,20.0,False,False
+2008-01-27,Senegal,Angola,Angola,Manucho,50.0,False,False
+2008-01-27,Senegal,Angola,Angola,Manucho,67.0,False,False
+2008-01-27,Senegal,Angola,Angola,Flávio Amado,78.0,False,False
+2008-01-27,Tunisia,South Africa,Tunisia,Francileudo Santos,8.0,False,False
+2008-01-27,Tunisia,South Africa,Tunisia,Chaouki Ben Saada,32.0,False,False
+2008-01-27,Tunisia,South Africa,Tunisia,Francileudo Santos,34.0,False,False
+2008-01-27,Tunisia,South Africa,South Africa,Katlego Mphela,87.0,False,False
+2008-01-28,Ghana,Morocco,Ghana,Michael Essien,26.0,False,False
+2008-01-28,Ghana,Morocco,Ghana,Sulley Muntari,45.0,False,False
+2008-01-28,Guinea,Namibia,Guinea,Souleymane Youla,62.0,False,False
+2008-01-28,Guinea,Namibia,Namibia,Brian Brendell,80.0,False,False
+2008-01-29,Ivory Coast,Mali,Ivory Coast,Didier Drogba,9.0,False,False
+2008-01-29,Ivory Coast,Mali,Ivory Coast,Marc Zoro,54.0,False,False
+2008-01-29,Ivory Coast,Mali,Ivory Coast,Boubacar Sanogo,86.0,False,False
+2008-01-29,Nigeria,Benin,Nigeria,Mikel John Obi,53.0,False,False
+2008-01-29,Nigeria,Benin,Nigeria,Yakubu,86.0,False,False
+2008-01-30,Cameroon,Sudan,Cameroon,Samuel Eto'o,27.0,False,True
+2008-01-30,Cameroon,Sudan,Cameroon,Mohammed Ali El Khider,33.0,True,False
+2008-01-30,Cameroon,Sudan,Cameroon,Samuel Eto'o,90.0,False,False
+2008-01-30,Egypt,Zambia,Egypt,Amr Zaki,15.0,False,False
+2008-01-30,Egypt,Zambia,Zambia,Christopher Katongo,88.0,False,False
+2008-01-31,Senegal,South Africa,South Africa,Elrio van Heerden,14.0,False,False
+2008-01-31,Senegal,South Africa,Senegal,Henri Camara,36.0,False,False
+2008-02-03,Ghana,Nigeria,Nigeria,Yakubu,35.0,False,True
+2008-02-03,Ghana,Nigeria,Ghana,Michael Essien,45.0,False,False
+2008-02-03,Ghana,Nigeria,Ghana,Junior Agogo,83.0,False,False
+2008-02-03,Ivory Coast,Guinea,Ivory Coast,Abdul Kader Keïta,25.0,False,False
+2008-02-03,Ivory Coast,Guinea,Ivory Coast,Didier Drogba,70.0,False,False
+2008-02-03,Ivory Coast,Guinea,Ivory Coast,Salomon Kalou,72.0,False,False
+2008-02-03,Ivory Coast,Guinea,Ivory Coast,Salomon Kalou,81.0,False,False
+2008-02-03,Ivory Coast,Guinea,Ivory Coast,Bakari Koné,85.0,False,False
+2008-02-04,Egypt,Angola,Egypt,Hosny Abd Rabo,23.0,False,True
+2008-02-04,Egypt,Angola,Angola,Manucho,27.0,False,False
+2008-02-04,Egypt,Angola,Egypt,Amr Zaki,38.0,False,False
+2008-02-04,Tunisia,Cameroon,Cameroon,Stéphane Mbia,18.0,False,False
+2008-02-04,Tunisia,Cameroon,Cameroon,Geremi Njitap,27.0,False,False
+2008-02-04,Tunisia,Cameroon,Tunisia,Chaouki Ben Saada,34.0,False,False
+2008-02-04,Tunisia,Cameroon,Tunisia,Yassine Chikhaoui,81.0,False,False
+2008-02-04,Tunisia,Cameroon,Cameroon,Stéphane Mbia,93.0,False,False
+2008-02-07,Ghana,Cameroon,Cameroon,Alain N'Kong,72.0,False,False
+2008-02-07,Ivory Coast,Egypt,Egypt,Ahmed Fathy,12.0,False,False
+2008-02-07,Ivory Coast,Egypt,Egypt,Amr Zaki,61.0,False,False
+2008-02-07,Ivory Coast,Egypt,Ivory Coast,Abdul Kader Keïta,63.0,False,False
+2008-02-07,Ivory Coast,Egypt,Egypt,Amr Zaki,67.0,False,False
+2008-02-07,Ivory Coast,Egypt,Egypt,Mohamed Aboutrika,90.0,False,False
+2008-02-09,Ghana,Ivory Coast,Ghana,Sulley Muntari,10.0,False,False
+2008-02-09,Ghana,Ivory Coast,Ivory Coast,Boubacar Sanogo,24.0,False,False
+2008-02-09,Ghana,Ivory Coast,Ivory Coast,Boubacar Sanogo,32.0,False,False
+2008-02-09,Ghana,Ivory Coast,Ghana,Quincy Owusu-Abeyie,70.0,False,False
+2008-02-09,Ghana,Ivory Coast,Ghana,Junior Agogo,80.0,False,False
+2008-02-09,Ghana,Ivory Coast,Ghana,Haminu Draman,84.0,False,False
+2008-02-10,Cameroon,Egypt,Egypt,Mohamed Aboutrika,76.0,False,False
+2010-01-10,Angola,Mali,Angola,Flávio Amado,36.0,False,False
+2010-01-10,Angola,Mali,Angola,Flávio Amado,42.0,False,False
+2010-01-10,Angola,Mali,Angola,Sebastião Gilberto,67.0,False,True
+2010-01-10,Angola,Mali,Angola,Manucho,74.0,False,True
+2010-01-10,Angola,Mali,Mali,Seydou Keita,79.0,False,False
+2010-01-10,Angola,Mali,Mali,Frédéric Kanouté,88.0,False,False
+2010-01-10,Angola,Mali,Mali,Seydou Keita,90.0,False,False
+2010-01-10,Angola,Mali,Mali,Mustapha Yatabaré,90.0,False,False
+2010-01-11,Malawi,Algeria,Malawi,Russel Mwafulirwa,17.0,False,False
+2010-01-11,Malawi,Algeria,Malawi,Elvis Kafoteka,35.0,False,False
+2010-01-11,Malawi,Algeria,Malawi,Davi Banda,48.0,False,False
+2010-01-12,Egypt,Nigeria,Nigeria,Chinedu Obasi,12.0,False,False
+2010-01-12,Egypt,Nigeria,Egypt,Emad Moteab,34.0,False,False
+2010-01-12,Egypt,Nigeria,Egypt,Ahmed Hassan,54.0,False,False
+2010-01-12,Egypt,Nigeria,Egypt,Gedo,87.0,False,False
+2010-01-12,Mozambique,Benin,Benin,Razak Omotoyossi,14.0,False,True
+2010-01-12,Mozambique,Benin,Benin,Dario Khan,20.0,True,False
+2010-01-12,Mozambique,Benin,Mozambique,Almiro Lobo,29.0,False,False
+2010-01-12,Mozambique,Benin,Mozambique,Carlos Fumo Gonçalves,54.0,False,False
+2010-01-13,Cameroon,Gabon,Gabon,Daniel Cousin,17.0,False,False
+2010-01-13,Zambia,Tunisia,Zambia,Jacob Mulenga,19.0,False,False
+2010-01-13,Zambia,Tunisia,Tunisia,Zouheir Dhaouadi,40.0,False,False
+2010-01-14,Angola,Malawi,Angola,Flávio Amado,49.0,False,False
+2010-01-14,Angola,Malawi,Angola,Manucho,55.0,False,False
+2010-01-14,Mali,Algeria,Algeria,Rafik Halliche,43.0,False,False
+2010-01-15,Ivory Coast,Ghana,Ivory Coast,Gervinho,23.0,False,False
+2010-01-15,Ivory Coast,Ghana,Ivory Coast,Siaka Tiéné,66.0,False,False
+2010-01-15,Ivory Coast,Ghana,Ivory Coast,Didier Drogba,90.0,False,False
+2010-01-15,Ivory Coast,Ghana,Ghana,Asamoah Gyan,90.0,False,True
+2010-01-16,Egypt,Mozambique,Egypt,Dario Khan,47.0,True,False
+2010-01-16,Egypt,Mozambique,Egypt,Gedo,81.0,False,False
+2010-01-16,Nigeria,Benin,Nigeria,Yakubu,42.0,False,True
+2010-01-17,Cameroon,Zambia,Zambia,Jacob Mulenga,8.0,False,False
+2010-01-17,Cameroon,Zambia,Cameroon,Geremi Njitap,68.0,False,False
+2010-01-17,Cameroon,Zambia,Cameroon,Samuel Eto'o,72.0,False,False
+2010-01-17,Cameroon,Zambia,Zambia,Christopher Katongo,81.0,False,True
+2010-01-17,Cameroon,Zambia,Cameroon,Mohammadou Idrissou,86.0,False,False
+2010-01-18,Mali,Malawi,Mali,Frédéric Kanouté,1.0,False,False
+2010-01-18,Mali,Malawi,Mali,Seydou Keita,3.0,False,False
+2010-01-18,Mali,Malawi,Malawi,Russel Mwafulirwa,58.0,False,False
+2010-01-18,Mali,Malawi,Mali,Mamadou Bagayoko,85.0,False,False
+2010-01-19,Burkina Faso,Ghana,Ghana,André Ayew,30.0,False,False
+2010-01-20,Egypt,Benin,Egypt,Ahmed Elmohamady,7.0,False,False
+2010-01-20,Egypt,Benin,Egypt,Emad Moteab,23.0,False,False
+2010-01-20,Nigeria,Mozambique,Nigeria,Peter Odemwingie,45.0,False,False
+2010-01-20,Nigeria,Mozambique,Nigeria,Peter Odemwingie,47.0,False,False
+2010-01-20,Nigeria,Mozambique,Nigeria,Obafemi Martins,86.0,False,False
+2010-01-21,Cameroon,Tunisia,Tunisia,Amine Chermiti,1.0,False,False
+2010-01-21,Cameroon,Tunisia,Cameroon,Samuel Eto'o,47.0,False,False
+2010-01-21,Cameroon,Tunisia,Tunisia,Aurélien Chedjou,63.0,True,False
+2010-01-21,Cameroon,Tunisia,Cameroon,Landry N'Guémo,64.0,False,False
+2010-01-21,Gabon,Zambia,Zambia,Rainford Kalaba,28.0,False,False
+2010-01-21,Gabon,Zambia,Zambia,James Chamanga,62.0,False,False
+2010-01-21,Gabon,Zambia,Gabon,Fabrice Do Marcolino,83.0,False,False
+2010-01-24,Angola,Ghana,Ghana,Asamoah Gyan,15.0,False,False
+2010-01-24,Ivory Coast,Algeria,Ivory Coast,Salomon Kalou,4.0,False,False
+2010-01-24,Ivory Coast,Algeria,Algeria,Karim Matmour,39.0,False,False
+2010-01-24,Ivory Coast,Algeria,Ivory Coast,Abdul Kader Keïta,89.0,False,False
+2010-01-24,Ivory Coast,Algeria,Algeria,Madjid Bougherra,90.0,False,False
+2010-01-24,Ivory Coast,Algeria,Algeria,Hameur Bouazza,92.0,False,False
+2010-01-25,Egypt,Cameroon,Cameroon,Achille Emaná,25.0,False,False
+2010-01-25,Egypt,Cameroon,Egypt,Ahmed Hassan,37.0,False,False
+2010-01-25,Egypt,Cameroon,Egypt,Gedo,92.0,False,False
+2010-01-25,Egypt,Cameroon,Egypt,Ahmed Hassan,104.0,False,False
+2010-01-28,Algeria,Egypt,Egypt,Hosny Abd Rabo,38.0,False,True
+2010-01-28,Algeria,Egypt,Egypt,Mohamed Zidan,65.0,False,False
+2010-01-28,Algeria,Egypt,Egypt,Mohamed Abdel-Shafy,80.0,False,False
+2010-01-28,Algeria,Egypt,Egypt,Gedo,90.0,False,False
+2010-01-28,Ghana,Nigeria,Ghana,Asamoah Gyan,21.0,False,False
+2010-01-30,Nigeria,Algeria,Nigeria,Victor Obinna,56.0,False,False
+2010-01-31,Ghana,Egypt,Egypt,Gedo,85.0,False,False
+2012-01-21,Equatorial Guinea,Libya,Equatorial Guinea,Javier Balboa,87.0,False,False
+2012-01-21,Senegal,Zambia,Zambia,Emmanuel Mayuka,12.0,False,False
+2012-01-21,Senegal,Zambia,Zambia,Rainford Kalaba,20.0,False,False
+2012-01-21,Senegal,Zambia,Senegal,Dame N'Doye,73.0,False,False
+2012-01-22,Burkina Faso,Angola,Angola,Mateus Galiano da Costa,48.0,False,False
+2012-01-22,Burkina Faso,Angola,Burkina Faso,Alain Traoré,58.0,False,False
+2012-01-22,Burkina Faso,Angola,Angola,Manucho,68.0,False,False
+2012-01-22,Ivory Coast,Sudan,Ivory Coast,Didier Drogba,39.0,False,False
+2012-01-23,Gabon,Niger,Gabon,Pierre-Emerick Aubameyang,31.0,False,False
+2012-01-23,Gabon,Niger,Gabon,Stéphane N'Guéma,42.0,False,False
+2012-01-23,Morocco,Tunisia,Tunisia,Khaled Korbi,34.0,False,False
+2012-01-23,Morocco,Tunisia,Tunisia,Youssef Msakni,76.0,False,False
+2012-01-23,Morocco,Tunisia,Morocco,Houssine Kharja,86.0,False,False
+2012-01-24,Ghana,Botswana,Ghana,John Mensah,25.0,False,False
+2012-01-24,Mali,Guinea,Mali,Bakaye Traoré,30.0,False,False
+2012-01-25,Equatorial Guinea,Senegal,Equatorial Guinea,Iban Iyanga,61.0,False,False
+2012-01-25,Equatorial Guinea,Senegal,Senegal,Moussa Sow,89.0,False,False
+2012-01-25,Equatorial Guinea,Senegal,Equatorial Guinea,Kily Álvarez,90.0,False,False
+2012-01-25,Libya,Zambia,Libya,Ahmed Saad Osman,5.0,False,False
+2012-01-25,Libya,Zambia,Zambia,Emmanuel Mayuka,29.0,False,False
+2012-01-25,Libya,Zambia,Libya,Ahmed Saad Osman,48.0,False,False
+2012-01-25,Libya,Zambia,Zambia,Christopher Katongo,54.0,False,False
+2012-01-26,Ivory Coast,Burkina Faso,Ivory Coast,Salomon Kalou,16.0,False,False
+2012-01-26,Ivory Coast,Burkina Faso,Ivory Coast,Bakary Koné,82.0,True,False
+2012-01-26,Sudan,Angola,Angola,Manucho,4.0,False,False
+2012-01-26,Sudan,Angola,Sudan,Mohamed Ahmed Bashir,32.0,False,False
+2012-01-26,Sudan,Angola,Angola,Manucho,50.0,False,True
+2012-01-26,Sudan,Angola,Sudan,Mohamed Ahmed Bashir,74.0,False,False
+2012-01-27,Gabon,Morocco,Morocco,Houssine Kharja,24.0,False,False
+2012-01-27,Gabon,Morocco,Gabon,Pierre-Emerick Aubameyang,76.0,False,False
+2012-01-27,Gabon,Morocco,Gabon,Daniel Cousin,79.0,False,False
+2012-01-27,Gabon,Morocco,Gabon,Bruno Zita Mbanangoyé,90.0,False,False
+2012-01-27,Gabon,Morocco,Morocco,Houssine Kharja,90.0,False,True
+2012-01-27,Niger,Tunisia,Tunisia,Youssef Msakni,4.0,False,False
+2012-01-27,Niger,Tunisia,Niger,William N'Gounou,9.0,False,False
+2012-01-27,Niger,Tunisia,Tunisia,Issam Jemâa,89.0,False,False
+2012-01-28,Botswana,Guinea,Guinea,Sadio Diallo,15.0,False,False
+2012-01-28,Botswana,Guinea,Botswana,Dipsy Selolwane,23.0,False,True
+2012-01-28,Botswana,Guinea,Guinea,Sadio Diallo,27.0,False,False
+2012-01-28,Botswana,Guinea,Guinea,Abdoul Camara,42.0,False,False
+2012-01-28,Botswana,Guinea,Guinea,Ibrahima Traoré,45.0,False,False
+2012-01-28,Botswana,Guinea,Guinea,Mamadou Bah,83.0,False,False
+2012-01-28,Botswana,Guinea,Guinea,Naby Soumah,86.0,False,False
+2012-01-28,Ghana,Mali,Ghana,Asamoah Gyan,64.0,False,False
+2012-01-28,Ghana,Mali,Ghana,André Ayew,71.0,False,False
+2012-01-29,Equatorial Guinea,Zambia,Zambia,Christopher Katongo,68.0,False,False
+2012-01-29,Libya,Senegal,Libya,Ihaab Boussefi,5.0,False,False
+2012-01-29,Libya,Senegal,Senegal,Deme N'Diaye,10.0,False,False
+2012-01-29,Libya,Senegal,Libya,Ihaab Boussefi,84.0,False,False
+2012-01-30,Ivory Coast,Angola,Ivory Coast,Emmanuel Eboué,33.0,False,False
+2012-01-30,Ivory Coast,Angola,Ivory Coast,Wilfried Bony,64.0,False,False
+2012-01-30,Sudan,Burkina Faso,Sudan,Mudather El Tahir,33.0,False,False
+2012-01-30,Sudan,Burkina Faso,Sudan,Mudather El Tahir,79.0,False,False
+2012-01-30,Sudan,Burkina Faso,Burkina Faso,Issiaka Ouédraogo,90.0,False,False
+2012-01-31,Gabon,Tunisia,Gabon,Pierre-Emerick Aubameyang,61.0,False,False
+2012-01-31,Niger,Morocco,Morocco,Younès Belhanda,78.0,False,False
+2012-02-01,Botswana,Mali,Botswana,Mogakolodi Ngele,50.0,False,False
+2012-02-01,Botswana,Mali,Mali,Garra Dembélé,56.0,False,False
+2012-02-01,Botswana,Mali,Mali,Seydou Keita,75.0,False,False
+2012-02-01,Ghana,Guinea,Ghana,Emmanuel Agyemang-Badu,27.0,False,False
+2012-02-01,Ghana,Guinea,Guinea,Abdoul Camara,45.0,False,False
+2012-02-04,Equatorial Guinea,Ivory Coast,Ivory Coast,Didier Drogba,35.0,False,False
+2012-02-04,Equatorial Guinea,Ivory Coast,Ivory Coast,Didier Drogba,69.0,False,False
+2012-02-04,Equatorial Guinea,Ivory Coast,Ivory Coast,Yaya Touré,81.0,False,False
+2012-02-04,Zambia,Sudan,Zambia,Stophira Sunzu,15.0,False,False
+2012-02-04,Zambia,Sudan,Zambia,Christopher Katongo,66.0,False,False
+2012-02-04,Zambia,Sudan,Zambia,James Chamanga,86.0,False,False
+2012-02-05,Gabon,Mali,Gabon,Éric Mouloungui,54.0,False,False
+2012-02-05,Gabon,Mali,Mali,Cheick Diabaté,85.0,False,False
+2012-02-05,Ghana,Tunisia,Ghana,John Mensah,9.0,False,False
+2012-02-05,Ghana,Tunisia,Tunisia,Saber Khelifa,41.0,False,False
+2012-02-05,Ghana,Tunisia,Ghana,André Ayew,100.0,False,False
+2012-02-08,Mali,Ivory Coast,Ivory Coast,Gervinho,45.0,False,False
+2012-02-08,Zambia,Ghana,Zambia,Emmanuel Mayuka,78.0,False,False
+2012-02-11,Ghana,Mali,Mali,Cheick Diabaté,23.0,False,False
+2012-02-11,Ghana,Mali,Mali,Cheick Diabaté,80.0,False,False
+2013-01-20,Ghana,DR Congo,Ghana,Emmanuel Agyemang-Badu,40.0,False,False
+2013-01-20,Ghana,DR Congo,Ghana,Kwadwo Asamoah,49.0,False,False
+2013-01-20,Ghana,DR Congo,DR Congo,Trésor Mputu,53.0,False,False
+2013-01-20,Ghana,DR Congo,DR Congo,Dieumerci Mbokani,69.0,False,True
+2013-01-20,Mali,Niger,Mali,Seydou Keita,84.0,False,False
+2013-01-21,Nigeria,Burkina Faso,Nigeria,Emmanuel Emenike,23.0,False,False
+2013-01-21,Nigeria,Burkina Faso,Burkina Faso,Alain Traoré,90.0,False,False
+2013-01-21,Zambia,Ethiopia,Zambia,Collins Mbesuma,45.0,False,False
+2013-01-21,Zambia,Ethiopia,Ethiopia,Adane Girma,65.0,False,False
+2013-01-22,Ivory Coast,Togo,Ivory Coast,Yaya Touré,8.0,False,False
+2013-01-22,Ivory Coast,Togo,Togo,Jonathan Ayité,45.0,False,False
+2013-01-22,Ivory Coast,Togo,Ivory Coast,Gervinho,88.0,False,False
+2013-01-22,Tunisia,Algeria,Tunisia,Youssef Msakni,90.0,False,False
+2013-01-23,Morocco,Cape Verde,Cape Verde,Platini,35.0,False,False
+2013-01-23,Morocco,Cape Verde,Morocco,Youssef El-Arabi,78.0,False,False
+2013-01-23,South Africa,Angola,South Africa,Siyabonga Sangweni,30.0,False,False
+2013-01-23,South Africa,Angola,South Africa,Lehlohonolo Majoro,62.0,False,False
+2013-01-24,Ghana,Mali,Ghana,Mubarak Wakaso,38.0,False,True
+2013-01-25,Burkina Faso,Ethiopia,Burkina Faso,Alain Traoré,34.0,False,False
+2013-01-25,Burkina Faso,Ethiopia,Burkina Faso,Alain Traoré,74.0,False,False
+2013-01-25,Burkina Faso,Ethiopia,Burkina Faso,Djakaridja Koné,79.0,False,False
+2013-01-25,Burkina Faso,Ethiopia,Burkina Faso,Jonathan Pitroipa,90.0,False,False
+2013-01-25,Zambia,Nigeria,Nigeria,Emmanuel Emenike,57.0,False,False
+2013-01-25,Zambia,Nigeria,Zambia,Kennedy Mweene,85.0,False,True
+2013-01-26,Algeria,Togo,Togo,Emmanuel Adebayor,31.0,False,False
+2013-01-26,Algeria,Togo,Togo,Dové Womé,90.0,False,False
+2013-01-26,Ivory Coast,Tunisia,Ivory Coast,Gervinho,21.0,False,False
+2013-01-26,Ivory Coast,Tunisia,Ivory Coast,Yaya Touré,87.0,False,False
+2013-01-26,Ivory Coast,Tunisia,Ivory Coast,Didier Ya Konan,90.0,False,False
+2013-01-27,Cape Verde,Angola,Angola,Nando Maria Neves,33.0,True,False
+2013-01-27,Cape Verde,Angola,Cape Verde,Fernando Varela,81.0,False,False
+2013-01-27,Cape Verde,Angola,Cape Verde,Héldon Ramos,90.0,False,False
+2013-01-27,South Africa,Morocco,Morocco,Issam El Adoua,10.0,False,False
+2013-01-27,South Africa,Morocco,South Africa,May Mahlangu,71.0,False,False
+2013-01-27,South Africa,Morocco,Morocco,Abdelilah Hafidi,82.0,False,False
+2013-01-27,South Africa,Morocco,South Africa,Siyabonga Sangweni,86.0,False,False
+2013-01-28,DR Congo,Mali,DR Congo,Dieumerci Mbokani,3.0,False,True
+2013-01-28,DR Congo,Mali,Mali,Mamadou Samassa,15.0,False,False
+2013-01-28,Niger,Ghana,Ghana,Asamoah Gyan,6.0,False,False
+2013-01-28,Niger,Ghana,Ghana,Christian Atsu Twasam,23.0,False,False
+2013-01-28,Niger,Ghana,Ghana,John Boye,49.0,False,False
+2013-01-29,Ethiopia,Nigeria,Nigeria,Victor Moses,80.0,False,True
+2013-01-29,Ethiopia,Nigeria,Nigeria,Victor Moses,90.0,False,True
+2013-01-30,Algeria,Ivory Coast,Algeria,Sofiane Feghouli,64.0,False,True
+2013-01-30,Algeria,Ivory Coast,Algeria,Hillal Soudani,70.0,False,False
+2013-01-30,Algeria,Ivory Coast,Ivory Coast,Didier Drogba,77.0,False,False
+2013-01-30,Algeria,Ivory Coast,Ivory Coast,Wilfried Bony,81.0,False,False
+2013-01-30,Togo,Tunisia,Togo,Serge Gakpé,13.0,False,False
+2013-01-30,Togo,Tunisia,Tunisia,Khaled Mouelhi,30.0,False,True
+2013-02-02,Ghana,Cape Verde,Ghana,Mubarak Wakaso,54.0,False,True
+2013-02-02,Ghana,Cape Verde,Ghana,Mubarak Wakaso,90.0,False,False
+2013-02-02,South Africa,Mali,South Africa,Tokelo Rantie,31.0,False,False
+2013-02-02,South Africa,Mali,Mali,Seydou Keita,58.0,False,False
+2013-02-03,Burkina Faso,Togo,Burkina Faso,Jonathan Pitroipa,105.0,False,False
+2013-02-03,Ivory Coast,Nigeria,Nigeria,Emmanuel Emenike,43.0,False,False
+2013-02-03,Ivory Coast,Nigeria,Ivory Coast,Cheick Tioté,50.0,False,False
+2013-02-03,Ivory Coast,Nigeria,Nigeria,Sunday Mba,78.0,False,False
+2013-02-06,Burkina Faso,Ghana,Ghana,Mubarak Wakaso,13.0,False,True
+2013-02-06,Burkina Faso,Ghana,Burkina Faso,Aristide Bancé,60.0,False,False
+2013-02-06,Mali,Nigeria,Nigeria,Uwa Elderson Echiéjilé,25.0,False,False
+2013-02-06,Mali,Nigeria,Nigeria,Brown Ideye,30.0,False,False
+2013-02-06,Mali,Nigeria,Nigeria,Emmanuel Emenike,44.0,False,False
+2013-02-06,Mali,Nigeria,Nigeria,Ahmed Musa,60.0,False,False
+2013-02-06,Mali,Nigeria,Mali,Cheick Fantamady Diarra,75.0,False,False
+2013-02-09,Mali,Ghana,Mali,Mamadou Samassa,21.0,False,False
+2013-02-09,Mali,Ghana,Mali,Seydou Keita,48.0,False,False
+2013-02-09,Mali,Ghana,Ghana,Kwadwo Asamoah,82.0,False,False
+2013-02-09,Mali,Ghana,Mali,Sigamary Diarra,90.0,False,False
+2013-02-10,Nigeria,Burkina Faso,Nigeria,Sunday Mba,40.0,False,False
+2015-01-17,Burkina Faso,Gabon,Gabon,Pierre-Emerick Aubameyang,19.0,False,False
+2015-01-17,Burkina Faso,Gabon,Gabon,Malick Evouna,72.0,False,False
+2015-01-17,Equatorial Guinea,Congo,Equatorial Guinea,Emilio Nsue,16.0,False,False
+2015-01-17,Equatorial Guinea,Congo,Congo,Thievy Bifouma,87.0,False,False
+2015-01-18,Tunisia,Cape Verde,Tunisia,Mohamed Ali Manser,70.0,False,False
+2015-01-18,Tunisia,Cape Verde,Cape Verde,Héldon Ramos,78.0,False,True
+2015-01-18,Zambia,DR Congo,Zambia,Given Singuluma,2.0,False,False
+2015-01-18,Zambia,DR Congo,DR Congo,Yannick Bolasie,66.0,False,False
+2015-01-19,Algeria,South Africa,South Africa,Thuso Phala,51.0,False,False
+2015-01-19,Algeria,South Africa,Algeria,Thulani Hlatshwayo,67.0,True,False
+2015-01-19,Algeria,South Africa,Algeria,Faouzi Ghoulam,72.0,False,False
+2015-01-19,Algeria,South Africa,Algeria,Islam Slimani,83.0,False,False
+2015-01-19,Ghana,Senegal,Ghana,André Ayew,14.0,False,True
+2015-01-19,Ghana,Senegal,Senegal,Mame Biram Diouf,58.0,False,False
+2015-01-19,Ghana,Senegal,Senegal,Moussa Sow,90.0,False,False
+2015-01-20,Ivory Coast,Guinea,Guinea,Mohamed Yattara,36.0,False,False
+2015-01-20,Ivory Coast,Guinea,Ivory Coast,Seydou Doumbia,72.0,False,False
+2015-01-20,Mali,Cameroon,Mali,Sambou Yatabaré,71.0,False,False
+2015-01-20,Mali,Cameroon,Cameroon,Ambroise Oyongo,84.0,False,False
+2015-01-21,Gabon,Congo,Congo,Prince Oniangué,48.0,False,False
+2015-01-22,Zambia,Tunisia,Zambia,Emmanuel Mayuka,60.0,False,False
+2015-01-22,Zambia,Tunisia,Tunisia,Ahmed Akaïchi,70.0,False,False
+2015-01-22,Zambia,Tunisia,Tunisia,Yassine Chikhaoui,89.0,False,False
+2015-01-23,Ghana,Algeria,Ghana,Asamoah Gyan,90.0,False,False
+2015-01-23,South Africa,Senegal,South Africa,Oupa Manyisa,47.0,False,False
+2015-01-23,South Africa,Senegal,Senegal,Kara Mbodji,60.0,False,False
+2015-01-24,Cameroon,Guinea,Cameroon,Benjamin Moukandjo,13.0,False,False
+2015-01-24,Cameroon,Guinea,Guinea,Ibrahima Traoré,42.0,False,False
+2015-01-24,Ivory Coast,Mali,Mali,Bakary Sako,7.0,False,False
+2015-01-24,Ivory Coast,Mali,Ivory Coast,Max Gradel,86.0,False,False
+2015-01-25,Congo,Burkina Faso,Congo,Thievy Bifouma,51.0,False,False
+2015-01-25,Congo,Burkina Faso,Burkina Faso,Aristide Bancé,86.0,False,False
+2015-01-25,Congo,Burkina Faso,Congo,Fabrice Ondama,87.0,False,False
+2015-01-25,Equatorial Guinea,Gabon,Equatorial Guinea,Javier Balboa,55.0,False,True
+2015-01-25,Equatorial Guinea,Gabon,Equatorial Guinea,Iban Salvador,85.0,False,False
+2015-01-26,DR Congo,Tunisia,Tunisia,Ahmed Akaïchi,31.0,False,False
+2015-01-26,DR Congo,Tunisia,DR Congo,Jeremy Bokila,66.0,False,False
+2015-01-27,Senegal,Algeria,Algeria,Riyad Mahrez,11.0,False,False
+2015-01-27,Senegal,Algeria,Algeria,Nabil Bentaleb,82.0,False,False
+2015-01-27,South Africa,Ghana,South Africa,Mandla Masango,17.0,False,False
+2015-01-27,South Africa,Ghana,Ghana,John Boye,73.0,False,False
+2015-01-27,South Africa,Ghana,Ghana,André Ayew,83.0,False,False
+2015-01-28,Cameroon,Ivory Coast,Ivory Coast,Max Gradel,35.0,False,False
+2015-01-28,Guinea,Mali,Guinea,Kévin Constant,15.0,False,True
+2015-01-28,Guinea,Mali,Mali,Modibo Maïga,47.0,False,False
+2015-01-31,Congo,DR Congo,Congo,Férébory Doré,55.0,False,False
+2015-01-31,Congo,DR Congo,Congo,Thievy Bifouma,62.0,False,False
+2015-01-31,Congo,DR Congo,DR Congo,Dieumerci Mbokani,65.0,False,False
+2015-01-31,Congo,DR Congo,DR Congo,Jeremy Bokila,75.0,False,False
+2015-01-31,Congo,DR Congo,DR Congo,Joël Kimwaki,81.0,False,False
+2015-01-31,Congo,DR Congo,DR Congo,Dieumerci Mbokani,90.0,False,False
+2015-01-31,Equatorial Guinea,Tunisia,Tunisia,Ahmed Akaïchi,70.0,False,False
+2015-01-31,Equatorial Guinea,Tunisia,Equatorial Guinea,Javier Balboa,90.0,False,True
+2015-01-31,Equatorial Guinea,Tunisia,Equatorial Guinea,Javier Balboa,102.0,False,False
+2015-02-01,Ghana,Guinea,Ghana,Christian Atsu,4.0,False,False
+2015-02-01,Ghana,Guinea,Ghana,Kwesi Appiah,44.0,False,False
+2015-02-01,Ghana,Guinea,Ghana,Christian Atsu,61.0,False,False
+2015-02-01,Ivory Coast,Algeria,Ivory Coast,Wilfried Bony,26.0,False,False
+2015-02-01,Ivory Coast,Algeria,Algeria,Hillal Soudani,51.0,False,False
+2015-02-01,Ivory Coast,Algeria,Ivory Coast,Wilfried Bony,68.0,False,False
+2015-02-01,Ivory Coast,Algeria,Ivory Coast,Gervinho,90.0,False,False
+2015-02-04,DR Congo,Ivory Coast,Ivory Coast,Yaya Touré,20.0,False,False
+2015-02-04,DR Congo,Ivory Coast,DR Congo,Dieumerci Mbokani,24.0,False,True
+2015-02-04,DR Congo,Ivory Coast,Ivory Coast,Gervinho,41.0,False,False
+2015-02-04,DR Congo,Ivory Coast,Ivory Coast,Wilfried Kanon,68.0,False,False
+2015-02-05,Equatorial Guinea,Ghana,Ghana,Jordan Ayew,42.0,False,True
+2015-02-05,Equatorial Guinea,Ghana,Ghana,Mubarak Wakaso,45.0,False,False
+2015-02-05,Equatorial Guinea,Ghana,Ghana,André Ayew,75.0,False,False
+2017-01-14,Burkina Faso,Cameroon,Cameroon,Benjamin Moukandjo,35.0,False,False
+2017-01-14,Burkina Faso,Cameroon,Burkina Faso,Issoufou Dayo,75.0,False,False
+2017-01-14,Gabon,Guinea-Bissau,Gabon,Pierre-Emerick Aubameyang,52.0,False,False
+2017-01-14,Gabon,Guinea-Bissau,Guinea-Bissau,Juary Soares,90.0,False,False
+2017-01-15,Algeria,Zimbabwe,Algeria,Riyad Mahrez,12.0,False,False
+2017-01-15,Algeria,Zimbabwe,Zimbabwe,Kudakwashe Mahachi,17.0,False,False
+2017-01-15,Algeria,Zimbabwe,Zimbabwe,Nyasha Mushekwi,29.0,False,True
+2017-01-15,Algeria,Zimbabwe,Algeria,Riyad Mahrez,82.0,False,False
+2017-01-15,Tunisia,Senegal,Senegal,Sadio Mané,10.0,False,True
+2017-01-15,Tunisia,Senegal,Senegal,Kara Mbodji,30.0,False,False
+2017-01-16,DR Congo,Morocco,DR Congo,Junior Kabananga,55.0,False,False
+2017-01-17,Ghana,Uganda,Ghana,André Ayew,32.0,False,True
+2017-01-18,Cameroon,Guinea-Bissau,Guinea-Bissau,Piqueti,13.0,False,False
+2017-01-18,Cameroon,Guinea-Bissau,Cameroon,Sébastien Siani,61.0,False,False
+2017-01-18,Cameroon,Guinea-Bissau,Cameroon,Michael Ngadeu-Ngadjui,78.0,False,False
+2017-01-18,Gabon,Burkina Faso,Burkina Faso,Préjuce Nakoulma,23.0,False,False
+2017-01-18,Gabon,Burkina Faso,Gabon,Pierre-Emerick Aubameyang,38.0,False,True
+2017-01-19,Algeria,Tunisia,Tunisia,Aïssa Mandi,50.0,True,False
+2017-01-19,Algeria,Tunisia,Tunisia,Naïm Sliti,66.0,False,True
+2017-01-19,Algeria,Tunisia,Algeria,Sofiane Hanni,90.0,False,False
+2017-01-19,Senegal,Zimbabwe,Senegal,Sadio Mané,9.0,False,False
+2017-01-19,Senegal,Zimbabwe,Senegal,Henri Saivet,13.0,False,False
+2017-01-20,Ivory Coast,DR Congo,DR Congo,Neeskens Kebano,10.0,False,False
+2017-01-20,Ivory Coast,DR Congo,Ivory Coast,Wilfried Bony,25.0,False,False
+2017-01-20,Ivory Coast,DR Congo,DR Congo,Junior Kabananga,28.0,False,False
+2017-01-20,Ivory Coast,DR Congo,Ivory Coast,Serey Dié,67.0,False,False
+2017-01-20,Morocco,Togo,Togo,Mathieu Dossevi,5.0,False,False
+2017-01-20,Morocco,Togo,Morocco,Aziz Bouhaddouz,14.0,False,False
+2017-01-20,Morocco,Togo,Morocco,Romain Saïss,21.0,False,False
+2017-01-20,Morocco,Togo,Morocco,Youssef En-Nesyri,72.0,False,False
+2017-01-21,Egypt,Uganda,Egypt,Abdallah El Said,89.0,False,False
+2017-01-21,Ghana,Mali,Ghana,Asamoah Gyan,21.0,False,False
+2017-01-22,Guinea-Bissau,Burkina Faso,Burkina Faso,Rudinilson Silva,12.0,True,False
+2017-01-22,Guinea-Bissau,Burkina Faso,Burkina Faso,Bertrand Traoré,58.0,False,False
+2017-01-23,Senegal,Algeria,Algeria,Islam Slimani,10.0,False,False
+2017-01-23,Senegal,Algeria,Senegal,Papakouli Diop,43.0,False,False
+2017-01-23,Senegal,Algeria,Algeria,Islam Slimani,52.0,False,False
+2017-01-23,Senegal,Algeria,Senegal,Moussa Sow,53.0,False,False
+2017-01-23,Zimbabwe,Tunisia,Tunisia,Naïm Sliti,9.0,False,False
+2017-01-23,Zimbabwe,Tunisia,Tunisia,Youssef Msakni,22.0,False,False
+2017-01-23,Zimbabwe,Tunisia,Tunisia,Taha Yassine Khenissi,36.0,False,False
+2017-01-23,Zimbabwe,Tunisia,Zimbabwe,Knowledge Musona,42.0,False,False
+2017-01-23,Zimbabwe,Tunisia,Tunisia,Wahbi Khazri,45.0,False,True
+2017-01-23,Zimbabwe,Tunisia,Zimbabwe,Tendai Ndoro,58.0,False,False
+2017-01-24,Morocco,Ivory Coast,Morocco,Rachid Alioui,64.0,False,False
+2017-01-24,Togo,DR Congo,DR Congo,Junior Kabananga,29.0,False,False
+2017-01-24,Togo,DR Congo,DR Congo,Firmin Ndombe Mubele,54.0,False,False
+2017-01-24,Togo,DR Congo,Togo,Kodjo Fo-Doh Laba,69.0,False,False
+2017-01-24,Togo,DR Congo,DR Congo,Paul-José M'Poku,80.0,False,False
+2017-01-25,Egypt,Ghana,Egypt,Mohamed Salah,11.0,False,False
+2017-01-25,Uganda,Mali,Uganda,Farouk Miya,70.0,False,False
+2017-01-25,Uganda,Mali,Mali,Yves Bissouma,73.0,False,False
+2017-01-28,Burkina Faso,Tunisia,Burkina Faso,Aristide Bancé,81.0,False,False
+2017-01-28,Burkina Faso,Tunisia,Burkina Faso,Préjuce Nakoulma,85.0,False,False
+2017-01-29,DR Congo,Ghana,Ghana,Jordan Ayew,63.0,False,False
+2017-01-29,DR Congo,Ghana,DR Congo,Paul-José M'Poku,68.0,False,False
+2017-01-29,DR Congo,Ghana,Ghana,André Ayew,78.0,False,True
+2017-01-29,Egypt,Morocco,Egypt,Kahraba,88.0,False,False
+2017-02-01,Burkina Faso,Egypt,Egypt,Mohamed Salah,66.0,False,False
+2017-02-01,Burkina Faso,Egypt,Burkina Faso,Aristide Bancé,73.0,False,False
+2017-02-02,Cameroon,Ghana,Cameroon,Michael Ngadeu-Ngadjui,72.0,False,False
+2017-02-02,Cameroon,Ghana,Cameroon,Christian Bassogog,90.0,False,False
+2017-02-04,Burkina Faso,Ghana,Burkina Faso,Alain Traoré,89.0,False,False
+2017-02-05,Egypt,Cameroon,Egypt,Mohamed Elneny,22.0,False,False
+2017-02-05,Egypt,Cameroon,Cameroon,Nicolas Nkoulou,59.0,False,False
+2017-02-05,Egypt,Cameroon,Cameroon,Vincent Aboubakar,88.0,False,False
+2019-06-21,Egypt,Zimbabwe,Egypt,Trézéguet,41.0,False,False
+2019-06-22,DR Congo,Uganda,Uganda,Patrick Kaddu,14.0,False,False
+2019-06-22,DR Congo,Uganda,Uganda,Emmanuel Okwi,48.0,False,False
+2019-06-22,Guinea,Madagascar,Guinea,Sory Kaba,34.0,False,False
+2019-06-22,Guinea,Madagascar,Madagascar,Anicet Abel,49.0,False,False
+2019-06-22,Guinea,Madagascar,Madagascar,Carolus Andriamatsinoro,55.0,False,False
+2019-06-22,Guinea,Madagascar,Guinea,François Kamano,66.0,False,True
+2019-06-22,Nigeria,Burundi,Nigeria,Odion Ighalo,77.0,False,False
+2019-06-23,Algeria,Kenya,Algeria,Baghdad Bounedjah,34.0,False,True
+2019-06-23,Algeria,Kenya,Algeria,Riyad Mahrez,43.0,False,False
+2019-06-23,Morocco,Namibia,Morocco,Itamunua Keimuine,89.0,True,False
+2019-06-23,Senegal,Tanzania,Senegal,Keita Baldé,28.0,False,False
+2019-06-23,Senegal,Tanzania,Senegal,Krépin Diatta,64.0,False,False
+2019-06-24,Ivory Coast,South Africa,Ivory Coast,Jonathan Kodjia,64.0,False,False
+2019-06-24,Mali,Mauritania,Mali,Abdoulay Diaby,37.0,False,False
+2019-06-24,Mali,Mauritania,Mali,Moussa Marega,45.0,False,True
+2019-06-24,Mali,Mauritania,Mali,Adama Traoré,55.0,False,False
+2019-06-24,Mali,Mauritania,Mauritania,Moctar Sidi El Hacen,72.0,False,True
+2019-06-24,Mali,Mauritania,Mali,Adama Traoré,74.0,False,False
+2019-06-24,Tunisia,Angola,Tunisia,Youssef Msakni,34.0,False,True
+2019-06-24,Tunisia,Angola,Angola,Djalma Campos,73.0,False,False
+2019-06-25,Cameroon,Guinea-Bissau,Cameroon,Banana Yaya,66.0,False,False
+2019-06-25,Cameroon,Guinea-Bissau,Cameroon,Stéphane Bahoken,69.0,False,False
+2019-06-25,Ghana,Benin,Benin,Mickaël Poté,2.0,False,False
+2019-06-25,Ghana,Benin,Ghana,André Ayew,9.0,False,False
+2019-06-25,Ghana,Benin,Ghana,Jordan Ayew,42.0,False,False
+2019-06-25,Ghana,Benin,Benin,Mickaël Poté,63.0,False,False
+2019-06-26,Egypt,DR Congo,Egypt,Ahmed Elmohamady,25.0,False,False
+2019-06-26,Egypt,DR Congo,Egypt,Mohamed Salah,43.0,False,False
+2019-06-26,Nigeria,Guinea,Nigeria,Kenneth Omeruo,73.0,False,False
+2019-06-26,Uganda,Zimbabwe,Uganda,Emmanuel Okwi,12.0,False,False
+2019-06-26,Uganda,Zimbabwe,Zimbabwe,Khama Billiat,40.0,False,False
+2019-06-27,Kenya,Tanzania,Tanzania,Simon Msuva,6.0,False,False
+2019-06-27,Kenya,Tanzania,Kenya,Michael Olunga,39.0,False,False
+2019-06-27,Kenya,Tanzania,Tanzania,Mbwana Samatta,40.0,False,False
+2019-06-27,Kenya,Tanzania,Kenya,Johanna Omolo,62.0,False,False
+2019-06-27,Kenya,Tanzania,Kenya,Michael Olunga,80.0,False,False
+2019-06-27,Madagascar,Burundi,Madagascar,Marco Ilaimaharitra,76.0,False,False
+2019-06-27,Senegal,Algeria,Algeria,Youcef Belaïli,49.0,False,False
+2019-06-28,Morocco,Ivory Coast,Morocco,Youssef En-Nesyri,23.0,False,False
+2019-06-28,South Africa,Namibia,South Africa,Bongani Zungu,68.0,False,False
+2019-06-28,Tunisia,Mali,Mali,Diadie Samassékou,60.0,False,False
+2019-06-28,Tunisia,Mali,Tunisia,Wahbi Khazri,70.0,False,False
+2019-06-30,Burundi,Guinea,Guinea,Mohamed Yattara,25.0,False,False
+2019-06-30,Burundi,Guinea,Guinea,Mohamed Yattara,52.0,False,False
+2019-06-30,Egypt,Uganda,Egypt,Mohamed Salah,36.0,False,False
+2019-06-30,Egypt,Uganda,Egypt,Ahmed Elmohamady,45.0,False,False
+2019-06-30,Madagascar,Nigeria,Madagascar,Lalaïna Nomenjanahary,13.0,False,False
+2019-06-30,Madagascar,Nigeria,Madagascar,Carolus Andriamatsinoro,53.0,False,False
+2019-06-30,Zimbabwe,DR Congo,DR Congo,Jonathan Bolingi,4.0,False,False
+2019-06-30,Zimbabwe,DR Congo,DR Congo,Cédric Bakambu,34.0,False,False
+2019-06-30,Zimbabwe,DR Congo,DR Congo,Cédric Bakambu,65.0,False,True
+2019-06-30,Zimbabwe,DR Congo,DR Congo,Britt Assombalonga,78.0,False,False
+2019-07-01,Kenya,Senegal,Senegal,Ismaïla Sarr,63.0,False,False
+2019-07-01,Kenya,Senegal,Senegal,Sadio Mané,71.0,False,False
+2019-07-01,Kenya,Senegal,Senegal,Sadio Mané,78.0,False,True
+2019-07-01,Namibia,Ivory Coast,Ivory Coast,Max Gradel,39.0,False,False
+2019-07-01,Namibia,Ivory Coast,Ivory Coast,Serey Dié,58.0,False,False
+2019-07-01,Namibia,Ivory Coast,Namibia,Joslin Kamatuka,71.0,False,False
+2019-07-01,Namibia,Ivory Coast,Ivory Coast,Wilfried Zaha,84.0,False,False
+2019-07-01,Namibia,Ivory Coast,Ivory Coast,Maxwel Cornet,89.0,False,False
+2019-07-01,South Africa,Morocco,Morocco,Mbark Boussoufa,90.0,False,False
+2019-07-01,Tanzania,Algeria,Algeria,Islam Slimani,35.0,False,False
+2019-07-01,Tanzania,Algeria,Algeria,Adam Ounas,39.0,False,False
+2019-07-01,Tanzania,Algeria,Algeria,Adam Ounas,45.0,False,False
+2019-07-02,Angola,Mali,Mali,Amadou Haidara,37.0,False,False
+2019-07-02,Guinea-Bissau,Ghana,Ghana,Jordan Ayew,46.0,False,False
+2019-07-02,Guinea-Bissau,Ghana,Ghana,Thomas Partey,72.0,False,False
+2019-07-05,Morocco,Benin,Benin,Moise Adilehou,53.0,False,False
+2019-07-05,Morocco,Benin,Morocco,Youssef En-Nesyri,76.0,False,False
+2019-07-05,Uganda,Senegal,Senegal,Sadio Mané,15.0,False,False
+2019-07-06,Egypt,South Africa,South Africa,Thembinkosi Lorch,85.0,False,False
+2019-07-06,Nigeria,Cameroon,Nigeria,Odion Ighalo,19.0,False,False
+2019-07-06,Nigeria,Cameroon,Cameroon,Stéphane Bahoken,41.0,False,False
+2019-07-06,Nigeria,Cameroon,Cameroon,Clinton N'Jie,44.0,False,False
+2019-07-06,Nigeria,Cameroon,Nigeria,Odion Ighalo,63.0,False,False
+2019-07-06,Nigeria,Cameroon,Nigeria,Alex Iwobi,66.0,False,False
+2019-07-07,Algeria,Guinea,Algeria,Youcef Belaïli,24.0,False,False
+2019-07-07,Algeria,Guinea,Algeria,Riyad Mahrez,57.0,False,False
+2019-07-07,Algeria,Guinea,Algeria,Adam Ounas,82.0,False,False
+2019-07-07,Madagascar,DR Congo,Madagascar,Ibrahim Amada,9.0,False,False
+2019-07-07,Madagascar,DR Congo,DR Congo,Cédric Bakambu,21.0,False,False
+2019-07-07,Madagascar,DR Congo,Madagascar,Faneva Imà Andriatsima,77.0,False,False
+2019-07-07,Madagascar,DR Congo,DR Congo,Chancel Mbemba,90.0,False,False
+2019-07-08,Ghana,Tunisia,Tunisia,Taha Yassine Khenissi,73.0,False,False
+2019-07-08,Ghana,Tunisia,Ghana,Rami Bedoui,90.0,True,False
+2019-07-08,Mali,Ivory Coast,Ivory Coast,Wilfried Zaha,76.0,False,False
+2019-07-10,Nigeria,South Africa,Nigeria,Samuel Chukwueze,27.0,False,False
+2019-07-10,Nigeria,South Africa,South Africa,Bongani Zungu,71.0,False,False
+2019-07-10,Nigeria,South Africa,Nigeria,William Troost-Ekong,89.0,False,False
+2019-07-10,Senegal,Benin,Senegal,Idrissa Gueye,70.0,False,False
+2019-07-11,Ivory Coast,Algeria,Algeria,Sofiane Feghouli,20.0,False,False
+2019-07-11,Ivory Coast,Algeria,Ivory Coast,Jonathan Kodjia,62.0,False,False
+2019-07-11,Madagascar,Tunisia,Tunisia,Ferjani Sassi,52.0,False,False
+2019-07-11,Madagascar,Tunisia,Tunisia,Youssef Msakni,60.0,False,False
+2019-07-11,Madagascar,Tunisia,Tunisia,Naïm Sliti,90.0,False,False
+2019-07-14,Algeria,Nigeria,Algeria,William Troost-Ekong,40.0,True,False
+2019-07-14,Algeria,Nigeria,Nigeria,Odion Ighalo,72.0,False,True
+2019-07-14,Algeria,Nigeria,Algeria,Riyad Mahrez,90.0,False,False
+2019-07-14,Senegal,Tunisia,Senegal,Dylan Bronn,101.0,True,False
+2019-07-17,Tunisia,Nigeria,Nigeria,Odion Ighalo,3.0,False,False
+2019-07-19,Senegal,Algeria,Algeria,Baghdad Bounedjah,2.0,False,False
+2022-01-09,Cameroon,Burkina Faso,Burkina Faso,Gustavo Sangaré,24.0,False,False
+2022-01-09,Cameroon,Burkina Faso,Cameroon,Vincent Aboubakar,40.0,False,True
+2022-01-09,Cameroon,Burkina Faso,Cameroon,Vincent Aboubakar,45.0,False,True
+2022-01-09,Ethiopia,Cape Verde,Cape Verde,Júlio Tavares,45.0,False,False
+2022-01-10,Comoros,Gabon,Gabon,Aaron Boupendza,16.0,False,False
+2022-01-10,Guinea,Malawi,Guinea,Issiaga Sylla,35.0,False,False
+2022-01-10,Morocco,Ghana,Morocco,Sofiane Boufal,83.0,False,False
+2022-01-10,Senegal,Zimbabwe,Senegal,Sadio Mané,90.0,False,True
+2022-01-11,Nigeria,Egypt,Nigeria,Kelechi Iheanacho,30.0,False,False
+2022-01-12,Equatorial Guinea,Ivory Coast,Ivory Coast,Max Gradel,5.0,False,False
+2022-01-12,Mauritania,Gambia,Gambia,Ablie Jallow,10.0,False,False
+2022-01-12,Tunisia,Mali,Mali,Ibrahima Koné,48.0,False,True
+2022-01-13,Cameroon,Ethiopia,Ethiopia,Dawa Hotessa,4.0,False,False
+2022-01-13,Cameroon,Ethiopia,Cameroon,Karl Toko Ekambi,8.0,False,False
+2022-01-13,Cameroon,Ethiopia,Cameroon,Vincent Aboubakar,53.0,False,False
+2022-01-13,Cameroon,Ethiopia,Cameroon,Vincent Aboubakar,55.0,False,False
+2022-01-13,Cameroon,Ethiopia,Cameroon,Karl Toko Ekambi,68.0,False,False
+2022-01-13,Cape Verde,Burkina Faso,Burkina Faso,Hassane Bandé,39.0,False,False
+2022-01-14,Gabon,Ghana,Ghana,André Ayew,18.0,False,False
+2022-01-14,Gabon,Ghana,Gabon,Jim Allevinah,88.0,False,False
+2022-01-14,Malawi,Zimbabwe,Zimbabwe,Ishmael Wadi,38.0,False,False
+2022-01-14,Malawi,Zimbabwe,Malawi,Gabadinho Mhango,43.0,False,False
+2022-01-14,Malawi,Zimbabwe,Malawi,Gabadinho Mhango,58.0,False,False
+2022-01-14,Morocco,Comoros,Morocco,Selim Amallah,16.0,False,False
+2022-01-14,Morocco,Comoros,Morocco,Zakaria Aboukhlal,88.0,False,False
+2022-01-15,Guinea-Bissau,Egypt,Egypt,Mohamed Salah,69.0,False,False
+2022-01-15,Nigeria,Sudan,Nigeria,Samuel Chukwueze,3.0,False,False
+2022-01-15,Nigeria,Sudan,Nigeria,Taiwo Awoniyi,45.0,False,False
+2022-01-15,Nigeria,Sudan,Nigeria,Moses Simon,46.0,False,False
+2022-01-15,Nigeria,Sudan,Sudan,Walieldin Khedr,70.0,False,True
+2022-01-16,Algeria,Equatorial Guinea,Equatorial Guinea,Esteban Obiang,70.0,False,False
+2022-01-16,Gambia,Mali,Mali,Ibrahima Koné,79.0,False,True
+2022-01-16,Gambia,Mali,Gambia,Musa Barrow,90.0,False,True
+2022-01-16,Ivory Coast,Sierra Leone,Ivory Coast,Sébastien Haller,25.0,False,False
+2022-01-16,Ivory Coast,Sierra Leone,Sierra Leone,Musa Noah Kamara,55.0,False,False
+2022-01-16,Ivory Coast,Sierra Leone,Ivory Coast,Nicolas Pépé,65.0,False,False
+2022-01-16,Ivory Coast,Sierra Leone,Sierra Leone,Alhaji Kamara,90.0,False,False
+2022-01-16,Tunisia,Mauritania,Tunisia,Hamza Mathlouthi,4.0,False,False
+2022-01-16,Tunisia,Mauritania,Tunisia,Wahbi Khazri,9.0,False,False
+2022-01-16,Tunisia,Mauritania,Tunisia,Wahbi Khazri,64.0,False,False
+2022-01-16,Tunisia,Mauritania,Tunisia,Seifeddine Jaziri,66.0,False,False
+2022-01-17,Burkina Faso,Ethiopia,Burkina Faso,Cyrille Bayala,25.0,False,False
+2022-01-17,Burkina Faso,Ethiopia,Ethiopia,Getaneh Kebede,52.0,False,True
+2022-01-17,Cameroon,Cape Verde,Cameroon,Vincent Aboubakar,39.0,False,False
+2022-01-17,Cameroon,Cape Verde,Cape Verde,Garry Rodrigues,53.0,False,False
+2022-01-18,Gabon,Morocco,Gabon,Jim Allevinah,21.0,False,False
+2022-01-18,Gabon,Morocco,Morocco,Sofiane Boufal,74.0,False,True
+2022-01-18,Gabon,Morocco,Gabon,Nayef Aguerd,81.0,True,False
+2022-01-18,Gabon,Morocco,Morocco,Achraf Hakimi,84.0,False,False
+2022-01-18,Ghana,Comoros,Comoros,El Fardou Ben Nabouhane,4.0,False,False
+2022-01-18,Ghana,Comoros,Comoros,Ahmed Mogni,62.0,False,False
+2022-01-18,Ghana,Comoros,Ghana,Richmond Boakye,64.0,False,False
+2022-01-18,Ghana,Comoros,Ghana,Alexander Djiku,77.0,False,False
+2022-01-18,Ghana,Comoros,Comoros,Ahmed Mogni,85.0,False,False
+2022-01-18,Zimbabwe,Guinea,Zimbabwe,Knowledge Musona,26.0,False,False
+2022-01-18,Zimbabwe,Guinea,Zimbabwe,Kudakwashe Mahachi,43.0,False,False
+2022-01-18,Zimbabwe,Guinea,Guinea,Naby Keïta,49.0,False,False
+2022-01-19,Egypt,Sudan,Egypt,Mohamed Abdelmonem,35.0,False,False
+2022-01-19,Guinea-Bissau,Nigeria,Nigeria,Umar Sadiq,56.0,False,False
+2022-01-19,Guinea-Bissau,Nigeria,Nigeria,William Troost-Ekong,75.0,False,False
+2022-01-20,Gambia,Tunisia,Gambia,Ablie Jallow,90.0,False,False
+2022-01-20,Ivory Coast,Algeria,Ivory Coast,Franck Kessié,22.0,False,False
+2022-01-20,Ivory Coast,Algeria,Ivory Coast,Ibrahim Sangaré,39.0,False,False
+2022-01-20,Ivory Coast,Algeria,Ivory Coast,Nicolas Pépé,54.0,False,False
+2022-01-20,Ivory Coast,Algeria,Algeria,Sofiane Bendebka,73.0,False,False
+2022-01-20,Mali,Mauritania,Mali,Massadio Haïdara,2.0,False,False
+2022-01-20,Mali,Mauritania,Mali,Ibrahima Koné,49.0,False,True
+2022-01-20,Sierra Leone,Equatorial Guinea,Equatorial Guinea,Pablo Ganet,38.0,False,False
+2022-01-23,Burkina Faso,Gabon,Burkina Faso,Bertrand Traoré,28.0,False,False
+2022-01-23,Burkina Faso,Gabon,Gabon,Adama Guira,90.0,True,False
+2022-01-23,Nigeria,Tunisia,Tunisia,Youssef Msakni,47.0,False,False
+2022-01-24,Cameroon,Comoros,Cameroon,Karl Toko Ekambi,29.0,False,False
+2022-01-24,Cameroon,Comoros,Cameroon,Vincent Aboubakar,70.0,False,False
+2022-01-24,Cameroon,Comoros,Comoros,Youssouf M'Changama,81.0,False,False
+2022-01-24,Guinea,Gambia,Gambia,Musa Barrow,71.0,False,False
+2022-01-25,Morocco,Malawi,Malawi,Gabadinho Mhango,7.0,False,False
+2022-01-25,Morocco,Malawi,Morocco,Youssef En-Nesyri,45.0,False,False
+2022-01-25,Morocco,Malawi,Morocco,Achraf Hakimi,70.0,False,False
+2022-01-25,Senegal,Cape Verde,Senegal,Sadio Mané,63.0,False,False
+2022-01-25,Senegal,Cape Verde,Senegal,Bamba Dieng,90.0,False,False
+2022-01-29,Burkina Faso,Tunisia,Burkina Faso,Dango Ouattara,45.0,False,False
+2022-01-29,Cameroon,Gambia,Cameroon,Karl Toko Ekambi,50.0,False,False
+2022-01-29,Cameroon,Gambia,Cameroon,Karl Toko Ekambi,57.0,False,False
+2022-01-30,Egypt,Morocco,Morocco,Sofiane Boufal,7.0,False,True
+2022-01-30,Egypt,Morocco,Egypt,Mohamed Salah,53.0,False,False
+2022-01-30,Egypt,Morocco,Egypt,Trézéguet,100.0,False,False
+2022-01-30,Senegal,Equatorial Guinea,Senegal,Famara Diédhiou,28.0,False,False
+2022-01-30,Senegal,Equatorial Guinea,Equatorial Guinea,Jannick Buyla,57.0,False,False
+2022-01-30,Senegal,Equatorial Guinea,Senegal,Cheikhou Kouyaté,68.0,False,False
+2022-01-30,Senegal,Equatorial Guinea,Senegal,Ismaïla Sarr,79.0,False,False
+2022-02-02,Burkina Faso,Senegal,Senegal,Abdou Diallo,70.0,False,False
+2022-02-02,Burkina Faso,Senegal,Senegal,Idrissa Gueye,76.0,False,False
+2022-02-02,Burkina Faso,Senegal,Burkina Faso,Blati Touré,82.0,False,False
+2022-02-02,Burkina Faso,Senegal,Senegal,Sadio Mané,87.0,False,False
+2022-02-05,Cameroon,Burkina Faso,Burkina Faso,Steeve Yago,24.0,False,False
+2022-02-05,Cameroon,Burkina Faso,Burkina Faso,André Onana,43.0,True,False
+2022-02-05,Cameroon,Burkina Faso,Burkina Faso,Djibril Ouattara,49.0,False,False
+2022-02-05,Cameroon,Burkina Faso,Cameroon,Stéphane Bahoken,71.0,False,False
+2022-02-05,Cameroon,Burkina Faso,Cameroon,Vincent Aboubakar,85.0,False,False
+2022-02-05,Cameroon,Burkina Faso,Cameroon,Vincent Aboubakar,87.0,False,False
+2024-01-13,Ivory Coast,Guinea-Bissau,Ivory Coast,Seko Fofana,4.0,False,False
+2024-01-13,Ivory Coast,Guinea-Bissau,Ivory Coast,Jean-Philippe Krasso,58.0,False,False
+2024-01-14,Egypt,Mozambique,Egypt,Mostafa Mohamed,2.0,False,False
+2024-01-14,Egypt,Mozambique,Mozambique,Witi,55.0,False,False
+2024-01-14,Egypt,Mozambique,Mozambique,Clésio,58.0,False,False
+2024-01-14,Egypt,Mozambique,Egypt,Mohamed Salah,90.0,False,True
+2024-01-14,Ghana,Cape Verde,Cape Verde,Jamiro Monteiro,17.0,False,False
+2024-01-14,Ghana,Cape Verde,Ghana,Alexander Djiku,56.0,False,False
+2024-01-14,Ghana,Cape Verde,Cape Verde,Garry Rodrigues,90.0,False,False
+2024-01-14,Nigeria,Equatorial Guinea,Equatorial Guinea,Iban Salvador,36.0,False,False
+2024-01-14,Nigeria,Equatorial Guinea,Nigeria,Victor Osimhen,38.0,False,False
+2024-01-15,Algeria,Angola,Algeria,Baghdad Bounedjah,18.0,False,False
+2024-01-15,Algeria,Angola,Angola,Mabululu,68.0,False,True
+2024-01-15,Cameroon,Guinea,Guinea,Mohamed Bayo,10.0,False,False
+2024-01-15,Cameroon,Guinea,Cameroon,Frank Magri,51.0,False,False
+2024-01-15,Senegal,Gambia,Senegal,Pape Gueye,4.0,False,False
+2024-01-15,Senegal,Gambia,Senegal,Lamine Camara,52.0,False,False
+2024-01-15,Senegal,Gambia,Senegal,Lamine Camara,86.0,False,False
+2024-01-16,Burkina Faso,Mauritania,Burkina Faso,Bertrand Traoré,90.0,False,True
+2024-01-16,Mali,South Africa,Mali,Hamari Traoré,60.0,False,False
+2024-01-16,Mali,South Africa,Mali,Lassine Sinayoko,66.0,False,False
+2024-01-16,Tunisia,Namibia,Namibia,Deon Hotto,88.0,False,False
+2024-01-17,DR Congo,Zambia,Zambia,Kings Kangwa,23.0,False,False
+2024-01-17,DR Congo,Zambia,DR Congo,Yoane Wissa,27.0,False,False
+2024-01-17,Morocco,Tanzania,Morocco,Romain Saïss,30.0,False,False
+2024-01-17,Morocco,Tanzania,Morocco,Azzedine Ounahi,77.0,False,False
+2024-01-17,Morocco,Tanzania,Morocco,Youssef En-Nesyri,80.0,False,False
+2024-01-18,Egypt,Ghana,Ghana,Mohammed Kudus,45.0,False,False
+2024-01-18,Egypt,Ghana,Egypt,Omar Marmoush,69.0,False,False
+2024-01-18,Egypt,Ghana,Ghana,Mohammed Kudus,71.0,False,False
+2024-01-18,Egypt,Ghana,Egypt,Mostafa Mohamed,74.0,False,False
+2024-01-18,Equatorial Guinea,Guinea-Bissau,Equatorial Guinea,Emilio Nsue,21.0,False,False
+2024-01-18,Equatorial Guinea,Guinea-Bissau,Guinea-Bissau,Esteban Obiang,37.0,True,False
+2024-01-18,Equatorial Guinea,Guinea-Bissau,Equatorial Guinea,Josete Miranda,46.0,False,False
+2024-01-18,Equatorial Guinea,Guinea-Bissau,Equatorial Guinea,Emilio Nsue,51.0,False,False
+2024-01-18,Equatorial Guinea,Guinea-Bissau,Equatorial Guinea,Emilio Nsue,61.0,False,False
+2024-01-18,Equatorial Guinea,Guinea-Bissau,Guinea-Bissau,Zé Turbo,90.0,False,False
+2024-01-18,Ivory Coast,Nigeria,Nigeria,William Troost-Ekong,55.0,False,True
+2024-01-19,Cape Verde,Mozambique,Cape Verde,Bebé,32.0,False,False
+2024-01-19,Cape Verde,Mozambique,Cape Verde,Ryan Mendes,51.0,False,False
+2024-01-19,Cape Verde,Mozambique,Cape Verde,Kevin Pina,69.0,False,False
+2024-01-19,Guinea,Gambia,Guinea,Aguibou Camara,69.0,False,False
+2024-01-19,Senegal,Cameroon,Senegal,Ismaïla Sarr,16.0,False,False
+2024-01-19,Senegal,Cameroon,Senegal,Habib Diallo,71.0,False,False
+2024-01-19,Senegal,Cameroon,Cameroon,Jean-Charles Castelletto,83.0,False,False
+2024-01-19,Senegal,Cameroon,Senegal,Sadio Mané,90.0,False,False
+2024-01-20,Algeria,Burkina Faso,Burkina Faso,Mohamed Konaté,45.0,False,False
+2024-01-20,Algeria,Burkina Faso,Algeria,Baghdad Bounedjah,51.0,False,False
+2024-01-20,Algeria,Burkina Faso,Burkina Faso,Bertrand Traoré,71.0,False,True
+2024-01-20,Algeria,Burkina Faso,Algeria,Baghdad Bounedjah,90.0,False,False
+2024-01-20,Mauritania,Angola,Angola,Gelson Dala,30.0,False,False
+2024-01-20,Mauritania,Angola,Mauritania,Sidi Bouna Amar,43.0,False,False
+2024-01-20,Mauritania,Angola,Angola,Gelson Dala,50.0,False,False
+2024-01-20,Mauritania,Angola,Angola,Gilberto,53.0,False,False
+2024-01-20,Mauritania,Angola,Mauritania,Aboubakary Koita,58.0,False,False
+2024-01-20,Tunisia,Mali,Mali,Lassine Sinayoko,10.0,False,False
+2024-01-20,Tunisia,Mali,Tunisia,Hamza Rafia,20.0,False,False
+2024-01-21,Morocco,DR Congo,Morocco,Achraf Hakimi,6.0,False,False
+2024-01-21,Morocco,DR Congo,DR Congo,Silas Katompa Mvumpa,76.0,False,False
+2024-01-21,South Africa,Namibia,South Africa,Percy Tau,14.0,False,True
+2024-01-21,South Africa,Namibia,South Africa,Themba Zwane,25.0,False,False
+2024-01-21,South Africa,Namibia,South Africa,Themba Zwane,40.0,False,False
+2024-01-21,South Africa,Namibia,South Africa,Thapelo Maseko,75.0,False,False
+2024-01-21,Zambia,Tanzania,Tanzania,Simon Msuva,11.0,False,False
+2024-01-21,Zambia,Tanzania,Zambia,Patson Daka,88.0,False,False
+2024-01-22,Cape Verde,Egypt,Cape Verde,Gilson Tavares,45.0,False,False
+2024-01-22,Cape Verde,Egypt,Egypt,Trézéguet,50.0,False,False
+2024-01-22,Cape Verde,Egypt,Cape Verde,Bryan Teixeira,90.0,False,False
+2024-01-22,Cape Verde,Egypt,Egypt,Mostafa Mohamed,90.0,False,False
+2024-01-22,Guinea-Bissau,Nigeria,Nigeria,Opa Sanganté,36.0,True,False
+2024-01-22,Ivory Coast,Equatorial Guinea,Equatorial Guinea,Emilio Nsue,42.0,False,False
+2024-01-22,Ivory Coast,Equatorial Guinea,Equatorial Guinea,Pablo Ganet,73.0,False,False
+2024-01-22,Ivory Coast,Equatorial Guinea,Equatorial Guinea,Emilio Nsue,75.0,False,False
+2024-01-22,Ivory Coast,Equatorial Guinea,Equatorial Guinea,Jannick Buyla,88.0,False,False
+2024-01-22,Mozambique,Ghana,Ghana,Jordan Ayew,15.0,False,True
+2024-01-22,Mozambique,Ghana,Ghana,Jordan Ayew,70.0,False,True
+2024-01-22,Mozambique,Ghana,Mozambique,Geny Catamo,90.0,False,True
+2024-01-22,Mozambique,Ghana,Mozambique,Reinildo Mandava,90.0,False,False
+2024-01-23,Angola,Burkina Faso,Angola,Mabululu,36.0,False,False
+2024-01-23,Angola,Burkina Faso,Angola,Zini,90.0,False,False
+2024-01-23,Gambia,Cameroon,Cameroon,Karl Toko Ekambi,56.0,False,False
+2024-01-23,Gambia,Cameroon,Gambia,Ablie Jallow,72.0,False,False
+2024-01-23,Gambia,Cameroon,Gambia,Ebrima Colley,85.0,False,False
+2024-01-23,Gambia,Cameroon,Cameroon,James Gomez,87.0,True,False
+2024-01-23,Gambia,Cameroon,Cameroon,Christopher Wooh,90.0,False,False
+2024-01-23,Guinea,Senegal,Senegal,Abdoulaye Seck,61.0,False,False
+2024-01-23,Guinea,Senegal,Senegal,Iliman Ndiaye,90.0,False,False
+2024-01-23,Mauritania,Algeria,Mauritania,Mohamed Dellahi Yali,37.0,False,False
+2024-01-24,Zambia,Morocco,Morocco,Hakim Ziyech,37.0,False,False
+2024-01-27,Angola,Namibia,Angola,Gelson Dala,38.0,False,False
+2024-01-27,Angola,Namibia,Angola,Gelson Dala,42.0,False,False
+2024-01-27,Angola,Namibia,Angola,Mabululu,66.0,False,False
+2024-01-27,Nigeria,Cameroon,Nigeria,Ademola Lookman,36.0,False,False
+2024-01-27,Nigeria,Cameroon,Nigeria,Ademola Lookman,90.0,False,False
+2024-01-28,Egypt,DR Congo,DR Congo,Meschak Elia,37.0,False,False
+2024-01-28,Egypt,DR Congo,Egypt,Mostafa Mohamed,45.0,False,True
+2024-01-28,Equatorial Guinea,Guinea,Guinea,Mohamed Bayo,90.0,False,False
+2024-01-29,Cape Verde,Mauritania,Cape Verde,Ryan Mendes,88.0,False,True
+2024-01-29,Ivory Coast,Senegal,Senegal,Habib Diallo,4.0,False,False
+2024-01-29,Ivory Coast,Senegal,Ivory Coast,Franck Kessié,86.0,False,True
+2024-01-30,Mali,Burkina Faso,Mali,Edmond Tapsoba,3.0,True,False
+2024-01-30,Mali,Burkina Faso,Mali,Lassine Sinayoko,47.0,False,False
+2024-01-30,Mali,Burkina Faso,Burkina Faso,Bertrand Traoré,57.0,False,True
+2024-01-30,Morocco,South Africa,South Africa,Evidence Makgopa,57.0,False,False
+2024-01-30,Morocco,South Africa,South Africa,Teboho Mokoena,90.0,False,False
+2024-02-02,DR Congo,Guinea,Guinea,Mohamed Bayo,21.0,False,True
+2024-02-02,DR Congo,Guinea,DR Congo,Chancel Mbemba,27.0,False,False
+2024-02-02,DR Congo,Guinea,DR Congo,Yoane Wissa,65.0,False,True
+2024-02-02,DR Congo,Guinea,DR Congo,Arthur Masuaku,82.0,False,False
+2024-02-02,Nigeria,Angola,Nigeria,Ademola Lookman,41.0,False,False
+2024-02-03,Ivory Coast,Mali,Mali,Nene Dorgeles,71.0,False,False
+2024-02-03,Ivory Coast,Mali,Ivory Coast,Simon Adingra,90.0,False,False
+2024-02-03,Ivory Coast,Mali,Ivory Coast,Oumar Diakité,120.0,False,False
+2024-02-07,Ivory Coast,DR Congo,Ivory Coast,Sébastien Haller,65.0,False,False
+2024-02-07,Nigeria,South Africa,Nigeria,William Troost-Ekong,67.0,False,True
+2024-02-07,Nigeria,South Africa,South Africa,Teboho Mokoena,90.0,False,True
+2024-02-11,Ivory Coast,Nigeria,Nigeria,William Troost-Ekong,38.0,False,False
+2024-02-11,Ivory Coast,Nigeria,Ivory Coast,Franck Kessié,62.0,False,False
+2024-02-11,Ivory Coast,Nigeria,Ivory Coast,Sébastien Haller,81.0,False,False
