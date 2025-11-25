@@ -2,189 +2,126 @@ import streamlit as st
 import pandas as pd
 
 def render():
-    # ================================
-    # TITRE PRINCIPAL
-    # ================================
-    st.title("🏆 AFCON Analytics Dashboard")
-    st.markdown("### Plateforme d'analyse avancée de la Coupe d’Afrique des Nations")
-
-    st.write("---")
 
     # ================================
-    # HERO ANIMATION
+    # HERO BANNER PREMIUM
     # ================================
     st.markdown("""
-        <style>
-            @keyframes fadeIn {
-                from {opacity: 0; transform: translateY(20px);}
-                to {opacity: 1; transform: translateY(0);}
-            }
-            .hero {
-                animation: fadeIn 1.2s ease-out;
-                padding: 20px;
-                margin-bottom: 20px;
-                border-radius: 12px;
-                background: linear-gradient(90deg, #ff7b00, #ffb347);
-                color: white;
-            }
-            .hero h1 {
-                font-size: 36px;
-                margin: 0;
-            }
-            .hero h3 {
-                margin-top: 8px;
-                font-weight: 300;
-            }
-        </style>
-    """, unsafe_allow_html=True)
+    <style>
+        .hero2 {
+            padding: 50px;
+            border-radius: 16px;
+            background: linear-gradient(135deg, #ff8a00, #fc4a1a);
+            color: white;
+            animation: fadeIn 1.2s ease-out;
+            text-align: center;
+        }
+        .hero2 h1 {
+            font-size: 48px;
+            font-weight: 800;
+            margin-bottom: 15px;
+        }
+        .hero2 h3 {
+            font-size: 22px;
+            font-weight: 300;
+            opacity: 0.95;
+        }
+    </style>
 
-    st.markdown("""
-    <div class="hero">
+    <div class="hero2">
         <h1>🏆 AFCON Analytics Dashboard</h1>
-        <h3>L’histoire complète de la CAN, en données.</h3>
+        <h3>Visualisez + Analysez + Explorez l’histoire de la CAN</h3>
     </div>
     """, unsafe_allow_html=True)
 
+    st.write("")
+    st.write("")
 
     # ================================
-    # PRESENTATION
+    # CARDS FONCTIONNALITÉS
     # ================================
-    st.subheader("📌 À propos de ce projet")
+    st.subheader("🚀 Fonctionnalités principales")
+    st.write("")
+
     st.markdown("""
-    Bienvenue dans le **AFCON Analytics Dashboard**, une application interactive qui permet d’explorer  
-    l’histoire complète de la **Coupe d’Afrique des Nations (CAN)** à travers des visualisations modernes :
+    <style>
+        .card-container {
+            display: flex;
+            gap: 25px;
+            justify-content: center;
+        }
+        .card {
+            background: #111827;
+            padding: 28px;
+            width: 26%;
+            border-radius: 12px;
+            color: white;
+            transition: 0.25s;
+            border: 1px solid #222;
+        }
+        .card:hover {
+            transform: translateY(-6px);
+            background: #1b253d;
+            border-color: #ff8a00;
+        }
+        .card h3 {
+            margin-bottom: 12px;
+        }
+    </style>
 
-    - ⚔️ Comparateur de nations africaines  
-    - 🐘 Focus ultras détaillé par pays  
-    - 📊 Bar Chart Race des buteurs CAN par édition  
-    - ⚽ Classement des buteurs  
-    - 🔎 Analyses statistiques complètes  
-    """)
+    <div class="card-container">
+        <div class="card">
+            <h3>⚔️ Comparateur</h3>
+            <p>Comparer 2 nations africaines : historique, stats, forme.</p>
+        </div>
+        <div class="card">
+            <h3>🐘 Focus pays</h3>
+            <p>Analyse détaillée d’un pays dans toutes les CAN.</p>
+        </div>
+        <div class="card">
+            <h3>📊 Buteurs CAN</h3>
+            <p>Animation Bar Chart Race avec les meilleurs buteurs.</p>
+        </div>
+    </div>
+    """, unsafe_allow_html=True)
 
     st.write("---")
 
     # ================================
-    # NAVIGATION RAPIDE (mise à jour)
+    # STATS AVANCÉES
     # ================================
-    st.subheader("🚀 Accès rapide")
-
-    # 4 colonnes pour les 4 fonctionnalités principales
-    col1, col2, col3, col4 = st.columns(4)
-
-    with col1:
-        st.markdown("### ⚔️ Comparateur pays")
-        st.markdown("Comparer 2 nations africaines : victoires, buts, forme récente.")
-        if st.button("Ouvrir", key="go_compare", use_container_width=True):
-            st.session_state["page"] = "Comparateur pays"
-            st.rerun()
-
-    with col2:
-        st.markdown("### 🐘 Focus pays")
-        st.markdown("Analyse détaillée d’une sélection dans l’histoire de la CAN.")
-        if st.button("Voir focus", key="go_focus", use_container_width=True):
-            st.session_state["page"] = "Focus pays"
-            st.rerun()
-
-    with col3:
-        st.markdown("### 📊 Barchart buteurs")
-        st.markdown("Animation des buteurs CAN par édition (Bar Chart Race).")
-        if st.button("Voir barchart", key="go_barchart", use_container_width=True):
-            st.session_state["page"] = "Barchart buteurs CAN"
-            st.rerun()
-
-    with col4:
-        st.markdown("### ⚽ Classement buteurs")
-        st.markdown("Tableau des meilleurs buteurs de l'histoire de la CAN.")
-        if st.button("Voir classement", key="go_top_scorer", use_container_width=True):
-            st.session_state["page"] = "Classement Buteurs"
-            st.rerun()
-
-    st.write("---")
-
-    # ============================================
-    # STATS AVANCÉES - GLOBAL CAN
-    # ============================================
-
-    st.subheader("🧠 Statistiques avancées CAN")
+    st.subheader("🧠 Statistiques globales CAN")
 
     df = pd.read_csv("data/afcon_results.csv")
     df["date"] = pd.to_datetime(df["date"])
     df["year"] = df["date"].dt.year
     df_final = df[df["tournament"] == "African Cup of Nations"]
 
-    # 1 – ÉQUIPE LA PLUS RÉGULIÈRE
-    team_consistency = (
-        df_final.groupby("home_team")
-        .size()
-        .sort_values(ascending=False)
-    )
-    most_consistent = team_consistency.index[0]
+    best_attack = df_final.groupby("home_team")["home_score"].sum().sort_values(ascending=False)
+    best_team = best_attack.index[0]
+    goals = int(best_attack.iloc[0])
 
-    # 2 – MEILLEURE ATTAQUE 2024
-    df_2024 = df_final[df_final["year"] == 2024]
-    best_attack = df_2024.groupby("home_team")["home_score"].sum().sort_values(ascending=False)
-    best_attack_team = best_attack.index[0]
-    best_attack_goals = int(best_attack.iloc[0])
+    col1, col2 = st.columns(2)
 
-    # 3 – MEILLEURE DÉFENSE 2024
-    best_defense = df_2024.groupby("home_team")["away_score"].sum().sort_values()
-    best_defense_team = best_defense.index[0]
-    best_defense_goals = int(best_defense.iloc[0])
-
-    # 4 – MATCH LE PLUS PROLIFIQUE
-    df_final["total_goals"] = df_final["home_score"] + df_final["away_score"]
-    max_goals_row = df_final.loc[df_final["total_goals"].idxmax()]
-    prolific_match = f"{max_goals_row['home_team']} {int(max_goals_row['home_score'])}–{int(max_goals_row['away_score'])} {max_goals_row['away_team']}"
-
-    # 5 – SCORE LE PLUS FRÉQUENT
-    score_freq = df_final.groupby(["home_score", "away_score"]).size()
-    most_common_score = score_freq.idxmax()
-    score_display = f"{most_common_score[0]} – {most_common_score[1]}"
-
-    colA, colB = st.columns(2)
-
-    with colA:
-        st.metric("🏅 Équipe la plus régulière", most_consistent)
-        st.metric("⚽ Meilleure attaque 2024", f"{best_attack_team} ({best_attack_goals} buts)")
-
-    with colB:
-        st.metric("🧤 Meilleure défense 2024", f"{best_defense_team} ({best_defense_goals} encaissés)")
-        st.metric("🔥 Match le plus prolifique de l'histoire de la CAN", prolific_match)
-
-    st.info(f"📊 Score le plus fréquent dans l’histoire : **{score_display}**")
-
-    # ================================
-    # FOCUS CÔTE D’IVOIRE (corrigé : 3 TITRES)
-    # ================================
-    st.subheader("🐘 Focus : Côte d’Ivoire – Palmarès CAN")
-
-    colA, colB, colC = st.columns(3)
-
-    with colA:
-        st.metric("Titres CAN", "3 🏆", "1992, 2015, 2023")
-
-    with colB:
-        st.metric("Finales jouées", "5", "+2 finales perdues")
-
-    with colC:
-        st.metric("Participations", "25", "Depuis 1965")
-
-    st.markdown("""
-    La Côte d’Ivoire fait partie des **grandes nations du football africain** :
-
-    - 🏆 **3 titres de champion d’Afrique** - ⭐ Une génération dorée dans les années 2010 (Yaya, Gervinho, Drogba)  
-    - 🔥 Un renouveau spectaculaire lors de la CAN 2023  
-    """)
+    with col1:
+        st.metric("🔥 Meilleure attaque totale", f"{best_team}", f"{goals} buts")
+    with col2:
+        st.metric("📅 Éditions analysées", df_final["year"].nunique())
 
     st.write("---")
 
     # ================================
-    # APERÇU DU DATASET
+    # MINI PALMARÈS CIV
     # ================================
-    st.subheader("📂 Aperçu du dataset")
+    st.subheader("🐘 Focus Côte d’Ivoire (Palmarès)")
 
-    try:
-        df = pd.read_csv("data/afcon_results.csv")
-        st.dataframe(df.head(), height=180)
-    except:
-        st.warning("Impossible de charger `data/afcon_results.csv`. Vérifie le dossier /data.")
+    colA, colB, colC = st.columns(3)
+
+    with colA:
+        st.metric("Titres", "3 🏆")
+    with colB:
+        st.metric("Finales", "5")
+    with colC:
+        st.metric("Participations", "25")
+
+    st.info("⭐ Gagnant des CAN : 1992 – 2015 – 2023")
