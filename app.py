@@ -9,9 +9,6 @@ from modules.compare import render as compare_render
 from modules.analyse_pays_can import render as focus_render
 from modules.barchart_buteurs_advanced import render as barchart_render
 from modules.can2025_info import render as can2025_render
-# Ajouter d'autres si nécessaire
-# from modules.top_scorers import render as top_scorers_render
-
 
 # ============================================================
 # INITIALISATION DES DONNÉES
@@ -47,10 +44,6 @@ def render_page(page):
     elif page == "CAN 2025":
         can2025_render()
 
-    # Exemple si tu ajoutes une page "Classement Buteurs"
-    # elif page == "Classement Buteurs":
-    #     top_scorers_render()
-
     else:
         st.error(f"❌ Page '{page}' non configurée dans app.py")
 
@@ -66,7 +59,6 @@ pages = [
     "Focus pays",
     "Barchart buteurs CAN",
     "CAN 2025",
-    # "Classement Buteurs"
 ]
 
 choice = st.sidebar.radio("Aller à :", pages, index=pages.index(st.session_state["page"]))
